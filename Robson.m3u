@@ -10,6 +10,7 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="MOVIE" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png",FOX LIFE
+#EXTINF:-1 tvg-id="FOX LIFE" group-title="MOVIE" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png", FOX LIFE
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u
-
+#EXTINF:-1 tvg-id="ParamountHD"  group-title="MOVIE" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u
