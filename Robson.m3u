@@ -8,3 +8,5 @@ https://cdn6.goprimetime.info/feed/LC53/index.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
+https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
