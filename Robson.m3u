@@ -1,6 +1,6 @@
 #EXTINF:-1,VTVcab 1 - Vie Giải Trí
 http://s3.nihontv.net:21585/vtvcab1/index.m3u8
-#EXTINF:-1,Pet Club TV tvg-logo="https://dcassetcdn.com/design_img/855571/162280/162280_5033429_855571_image.jpg", Pet Club TV
+#EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/855571/162280/162280_5033429_855571_image.jpg", Pet Club TV
 https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8
 #EXTINF:-1,Senook Movies
 https://cdn6.goprimetime.info/feed/LC53/index.m3u8
@@ -14,5 +14,5 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ParamountHD"  group-title="MOVIE" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png", NHK World Japan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png", NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
