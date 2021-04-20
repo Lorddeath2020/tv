@@ -2,7 +2,7 @@
 http://s3.nihontv.net:21585/vtvcab1/index.m3u8
 #EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/855571/162280/162280_5033429_855571_image.jpg", Pet Club TV
 https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8
-#EXTINF:-1,Senook Movies
+#EXTINF:-1, tvg-logo="http://www.cableth.com/assets/202102241213411582831310.png", Sanook Movies
 https://cdn6.goprimetime.info/feed/LC53/index.m3u8
 #EXTINF:-1, FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
