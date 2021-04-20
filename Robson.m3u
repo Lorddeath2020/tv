@@ -1,4 +1,5 @@
-#EXTINF:-1, VTVcab 1 - Vie Giải Trí http://s3.nihontv.net:21585/vtvcab1/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Vie_Gi%E1%BA%A3i_Tr%C3%AD.png", Vie Giải Trí 
+http://s3.nihontv.net:21585/vtvcab1/index.m3u8
 #EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/855571/162280/162280_5033429_855571_image.jpg", Pet Club TV
 https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8
 #EXTINF:-1,Senook Movies
