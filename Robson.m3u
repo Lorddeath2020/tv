@@ -1,2 +1,6 @@
 #EXTINF:-1,VTVcab 1 - Vie Giải Trí
 http://s3.nihontv.net:21585/vtvcab1/index.m3u8
+#EXTINF:-1, Pet Club TV
+https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8
+#EXTINF:-1,Senook Movies
+https://cdn6.goprimetime.info/feed/LC53/index.m3u8
