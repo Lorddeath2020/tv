@@ -1,9 +1,6 @@
 #EXTM3U
 ####### VOD MOVIES ##########
 
-
-#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/39.jpg" group-title="VOD MOVIE ALL",JOKER (2018)
-https://www.googleapis.com/drive/v3/files/1hSy4C4GNuXzkTSoynyU3rp0Tx5qoDGB9?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/331.jpg" group-title="VOD MOVIE ALL",SAMSON (2018)
 https://www.googleapis.com/drive/v3/files/1f3ye8vZoAXrnnUGcE9DAfUqBkj-CnhHG?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/612.jpg" group-title="VOD MOVIE ALL",INSIDIOUS
@@ -155,8 +152,6 @@ https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=
 https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/439.jpg" group-title="VOD MOVIE ALL",THE 5TH WAVE (2016)
 https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
-#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/438.jpg" group-title="VOD MOVIE ALL",MOANA (2016)
-https://www.googleapis.com/drive/v3/files/1yb9d8jhrmbj-A_aaGYKk7hoGmroY2ekL?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD MOVIE ALL",THE PURGE: ELECTION YEAR (2016)
 https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD MOVIE ALL",THE PURGE: ELECTION YEAR (2016)
