@@ -1,0 +1,13 @@
+m3u8 Downloading
+Open Chrome Developer tools and click the Network tab.
+Navigate to the page with the video and get it to start playing.
+Filter the list of files to "m3u8".
+Find master.m3u8 or index.m3u8 and click on it.
+Save the file to disk and look inside it.
+If the file contains a single m3u8 master url, copy that one instead.
+Run the program m3u8x.
+Paste the same m3u8 url in both textboxes (URL and Quality URL) and click "Headers" and set the referral url and user-agent from the request as found in Chrome.
+Select the Video format of "MP4".
+Checkmark "One .. One".
+Click "Download".
+A dialog will display with all of the individual .ts files. Click "Download" to download them all and join them together.
