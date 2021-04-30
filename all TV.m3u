@@ -1405,3 +1405,480 @@ http://2.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRS06EP08.mp4
 http://2.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRS06EP09.mp4
 #EXTINF:-1,T6E10 []
 http://2.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRS06EP10.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Categorias",Rede Família
+http://srv9.zoeweb.tv:1935/redefamilia/smil:redefamilia.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 2
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 3
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 5
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",A CABANA (720p)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",Record - TV Gazeta (MT)
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RUSSIA",GAME SHOW TV - R&Uacute;SSIA
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 2
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Categorias",Rede Família
+http://srv9.zoeweb.tv:1935/redefamilia/smil:redefamilia.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 3
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 5
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",A CABANA (720p)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",Record - TV Gazeta (MT)
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RUSSIA",GAME SHOW TV - R&Uacute;SSIA
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",TV Vitoria RECORD ES HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",Corrida Mortal
+https://lh3.googleusercontent.com/vfJzkSQRpplPhA-J5mvVaaaI9Yeavmx-0NjSywuisMbqTCOqXPjUvdFWVoparFHqed0QD7eNpun0JB-g2wnsNBW4r6GoH-6BftFp=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DESENHOS & SÉRIES 24HRS",Pica Pau
+http://165.227.82.198/Pica-Pau/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",TNT Series
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes",Canais Filmes 24HRS
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV FECHADA",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",CJC
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2018",O PARADOXO CLOVERFIELD - DUB - HD - 2018
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2018",SCOOBY-DOO & BATMAN: OS BRAVOS E DESTEMIDOS - DUB - HD (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2018",THE POST: A GUERRA SECRETA - LEG - HD (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2018",VENDE-SE ESTA CASA - LEG - HD (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-ALTO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",A BELA E A FERA - DUB - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BELAFERA2017DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2018",VOLDEMORT: ORIGINS OF THE HEIR - LEG - HD (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",A TORRE NEGRA - DUB - HD (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ATN2017DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",A MUMIA - LEG - HD (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AMUMIA2017LEG-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",ALIEN: COVENANT - LEG - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AL14EN2017LEG-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",AMERICAN SATAN - LEG - HD (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",AO CAIR DA NOITE - DUB - 2017
+http://ip174.ip-158-69-7.net/lanc/Ao.Cair.daNoite.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",Dupla Explosiva - LEG - HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/DUPLA2LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",EXTRAORDINÁRIO - LEG - HD - 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",It: A Coisa - DUB - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ITCOISADUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",MEU MALVADO FAVORITO 3 - DUB - HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/MMFDUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",O ESPAÇO ENTRE NOS - DUB - HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",O CIRCULO - DUB - HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CIRCO2017DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",O ESPAÇO ENTRE NOS - DUB - HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",O CIRCULO - DUB - HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CIRCO2017DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",O ESPAÇO ENTRE NOS - DUB - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",OKJA - DUB - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OKJA2017DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",O PODEROSO CHEFINHO - DUB - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CHEFINHO2017DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",O Culto de Chucky - DUB - HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OCDCDUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",PIRATAS DO CARIBE – A VINGANÇA DE SALAZAR - DUB - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATAS5DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",PLANETA DOS MACACOS: A GUERRA - DUB - HD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PDMAG-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",VELOZES & FURIOSOS 8 - LEG - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VELOZES2017LEG-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES 2017",VIDA DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VIDAFILME2017DUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ACAO",Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ANIMACAO",Moana – Um Mar de Aventuras (2017)
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MOANADUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ANIMACAO",Uma Aventura LEGO
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/legomovie/TLM14LEG-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",Doutor Estranho
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/dstrange/DS2016LEG-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",Animais Fantásticos e Onde Habitam
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/ANIMAISLEG-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",DEADPOOL DUB
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/deadpool/DUB/2016-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",As Branquelas
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",O Paizao
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",Record - TV Gazeta (MT)
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RUSSIA",GAME SHOW TV - R&Uacute;SSIA
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Categorias",Rede Família
+http://srv9.zoeweb.tv:1935/redefamilia/smil:redefamilia.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 2
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 5
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 3
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",A CABANA (720p)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",Esquadrão Suicida - DUB
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/suicidesquad/leg/ESS-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",Penelope
+http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",Ricky Bobby - A Toda Velocidade
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",Oliver!
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",Simplesmente Alice
+http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AVENTURA",Karate Kid 3 - O Desafio Final Filme
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",O Otario
+http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Nas Profundezas Do Mar Sem Fim
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Grande Hotel
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Amigas com Dinheiro
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",A Hora do Rango
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Um homem fora de serie
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",O Melhor Amigo da Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="COMEDIA",Tinha Que Ser Ele?
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/TINHADUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DRAMA",A Inveja Mata
+http://media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DRAMA",Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DRAMA",Juno
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FICCAO CIENTIFICA",Kong a ilha da caveira DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CAVEIRA2017DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",Adeus; Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TERROR",A Volta dos Mortos Vivos
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DESENHOS & SÉRIES 24HRS",Corrida Maluca
+http://165.227.82.198/Corrida-Maluca/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DESENHOS & SÉRIES 24HRS",Scooby doo
+http://165.227.82.198/scooby-doo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",BBB 2018 2
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",DISCOVERY CHANNEL [COLOR orange](ON)[/COLOR]
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Variedades e Musicas",BBB 18 HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/14495.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",CARTOON NETWORK HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/2479.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Series",CINEMAX HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",DISCOVERY KIDS
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",DISNEY JR
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Series",FOX
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1329.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Abertos",GLOBO INTER TV CABUGI
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/16209.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Abertos",GLOBO SP
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1024.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Abertos",GLOBO BRASILIA
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/2512.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",GLOOB HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5086.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Abertos",RECORD HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1210.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Infantil",NICK HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5093.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",TNT SERIES HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/2474.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",CARROS 3 - DUB - HD (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CARROS3DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",MEU MALVADO FAVORITO 3 - DUB - SD
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/MMFDUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",LIGA DA JUSTIÇA - DUB - SD (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-BAIXO.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",19 SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",18 SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",IT: A COISA (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ITCOISADUB-ALTO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",DEATH NOTE (2017)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CARDERNODAMORTE2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",1x1 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=fa8a01f3a6a227f7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",1x2 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=a2ee9773641a8b8e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",1x3 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=3681d3e1da290970
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",1x2 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=a2ee9773641a8b8e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",1x1 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=fa8a01f3a6a227f7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",1x3 Avatar – A Lenda De Korra
+http://www.blogger.com/video-play.mp4?contentId=3681d3e1da290970
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Dublado",PAI EM DOSE DUPLA 2 (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",Cine Filmes
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",DISNEY JR
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",DISCOVERY KIDS HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5081.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",DISCOVERY KIDS
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Documentários",RT DOCUMENTARY CHANNEL
+http://RTCDN.api.visionip.tv/live/ASHTTP/rtcdn-rtcdn-doc-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",TC PIPOCA HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/930.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",TC FUN HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/932.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",TC PREMIUM HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/928.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",Pernalonga
+http://165.227.82.198/Pernalonga/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",I Carly
+http://165.227.82.198/icarly/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",O Máskara
+http://165.227.82.198/o-mascara/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",12 SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",Cartoon Network
+http://servidoriptv.mine.nu:37001/live/marcio4/marcio4/2497.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",Premiere 2
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",Sportv
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",Premiere 3
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",Premiere 4
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Esporte Interativo HD
+https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
