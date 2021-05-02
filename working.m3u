@@ -10,3 +10,11 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:0,日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-logo="https://www.88tv.store/wp-content/uploads/2017/06/Huat-IPTV-500x500.png" group-title="lista test" , TV JORNAL - CARUARU
+http://evpp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.88tv.store/wp-content/uploads/2017/06/Huat-IPTV-500x500.png" group-title="lista test" , TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?wdiptv
+#EXTINF:-1 tvg-logo="https://www.88tv.store/wp-content/uploads/2017/06/Huat-IPTV-500x500.png" group-title="lista test" , MUSICTOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?wdiptv
+#EXTINF:-1 tvg-logo="https://www.88tv.store/wp-content/uploads/2017/06/Huat-IPTV-500x500.png" group-title="lista test" , TV CLIPES GOSPEL
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?wdiptv
