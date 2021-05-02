@@ -1,0 +1,162 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", NICKELODEON
+https://origin-02.nxplay.com.br/NICK_BR_HD_NXPLAY/tracks-v1a1a2/mono.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTQ4NjI5NjEsIm5iZiI6MTU5NDg2Mjk2MSwiZXhwIjoxNTk0ODYzMjYxLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTkwMzQwNDkzNTVmMGZhZDcxNzBiMzY1LjE4OTc3MDMzIiwiY2xpZW50ZSI6IjE3Mi4zMS4zOC41NCJ9.JuiIB_PHC2P2G9laHym1RMlzjpTNSQnD-YXCYzndjLg
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",SBT
+https://origin-02.nxplay.com.br/TV_SOROCABA_HD_PFZ/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTM4NDMyMTgsIm5iZiI6MTU5Mzg0MzIxOCwiZXhwIjoxNTkzODQzNTE4LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiNjYwMjMwMzA3NWYwMDFlMTJiOGU0MTQuNTExMTc5MzMiLCJjbGllbnRlIjoiMTcyLjMxLjkxLjQxIn0.1xvD4vNsDXbLJfU02WzNR2SfdEn0qstkPZE2VLKF5bg
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", NICKELODEON SD 
+https://origin-02.nxplay.com.br/NICK_BR_HD_NXPLAY/tracks-v2a1a2/mono.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTQ4NjI5NjEsIm5iZiI6MTU5NDg2Mjk2MSwiZXhwIjoxNTk0ODYzMjYxLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTkwMzQwNDkzNTVmMGZhZDcxNzBiMzY1LjE4OTc3MDMzIiwiY2xpZW50ZSI6IjE3Mi4zMS4zOC41NCJ9.JuiIB_PHC2P2G9laHym1RMlzjpTNSQnD-YXCYzndjLg
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", TOONCAST
+https://stream.ec.cx/hls1/tooncast.m3u8?expires=1593419241&token=8adfc5720b2ad2e87ee59b6aea67a3be
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",BOOMERANG 
+https://stream.ec.cx/hls1/Boomerang.m3u8?expires=1593871466&token=bd54cfbaf3c4581b90ac3c75ca93b038
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", COMEDY CENTRAL 
+https://origin-02.nxplay.com.br/CCLB_HD/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTM4NDM2MzMsIm5iZiI6MTU5Mzg0MzYzMywiZXhwIjoxNTkzODQzOTMzLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMzAyODcyNTgxNWYwMDFmYjE2NzU1NjYuMTE1NTMyODYiLCJjbGllbnRlIjoiMTcyLjMxLjkxLjQxIn0.BVmzYB0o8jmlw1TTMataFtIYF95ofthTCr1mGF9946s
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",ZOOMOO KIDS
+https://origin-02.nxplay.com.br/ZOOMOO_HD/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTM4NDM4MjksIm5iZiI6MTU5Mzg0MzgyOSwiZXhwIjoxNTkzODQ0MTI5LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTkzOTM1Mjc5NjVmMDAyMDc1Nzg1MjQ0LjUyMDA3NjEyIiwiY2xpZW50ZSI6IjE3Mi4zMS45MS40MSJ9.B89G6laaBboLTNpVD7xhYsh4cWOF_s-5EnKE-01U_6c
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",NICK JR
+https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",PARAMOUNT CHANNEL
+https://origin-02.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTM5MjU2MDYsIm5iZiI6MTU5MzkyNTYwNiwiZXhwIjoxNTkzOTI1OTA2LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTIzNjc1MjgxODVmMDE1ZmU2M2JjNjcwLjE2NDM5MDMxIiwiY2xpZW50ZSI6IjE3Mi4zMS45MS40MSJ9.MFa1hG6bKVaHXFP2lKYtIkyZECZTwrv6GJugEJvp9P4
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",MTV
+https://origin-02.nxplay.com.br/MTV_BR_NXPLAY/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTM5MjU5MDYsIm5iZiI6MTU5MzkyNTkwNiwiZXhwIjoxNTkzOTI2MjA2LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTk1ODUzNjVmMDE2MTEyNTY1YzMxLjcxMzM5MTIzIiwiY2xpZW50ZSI6IjE3Mi4zMS4zOC41NCJ9.mthCsSoVUY4d_fWEMjHkQnnQ6GfWdELCl0eqvacGNDE
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", LOVE 4K NATURE
+https://origin-02.nxplay.com.br/LOVENATURE/tracks-v1a1/mono.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTQ1MzU5MjcsIm5iZiI6MTU5NDUzNTkyNywiZXhwIjoxNTk0NTM2MjI3LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMjEyMzIyOTAyODVmMGFhZmY3YjY0MTA0LjU0MjkzNjUyIiwiY2xpZW50ZSI6IjE3Mi4zMS45MS40MSJ9.JH-jFcNktukHmoZ-yo3q7LawsgNcrN3lcYlOsjgSfZU
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", TV CULTURA 
+https://origin-02.ittv.com.br/TVCULTURA_SP/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTQ5NTM0MDAsIm5iZiI6MTU5NDk1MzQwMCwiZXhwIjoxNTk0OTUzNzAwLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTMxNjgxMTgxNDVmMTEwZWI4NWY4YjAyLjMzNzA2ODg3IiwiY2xpZW50ZSI6IjE3Mi4zMS4zOC41NCJ9.r9Uq2h1ppfwC4Pxl27kWO-9588HJl8xTvzE4Vdj3S6k
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", CNN BRASIL
+https://origin-02.nxplay.com.br/CNN_Brazil_HD/tracks-v1a1a2/mono.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTQ5NTM0MjQsIm5iZiI6MTU5NDk1MzQyNCwiZXhwIjoxNTk0OTUzNzI0LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTM4NTA5MjYyNDVmMTEwZWQwYWU3ZDk1LjE1MDYyOTgxIiwiY2xpZW50ZSI6IjE3Mi4zMS4zOC41NCJ9.HKE92G-UGyUhdm_djoPUBCizAJvA5Fp9oYcQqAThLgc
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", TV BRASIL
+https://origin-02.nxplay.com.br/TV_BRASIL/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTQ5NTM1NTAsIm5iZiI6MTU5NDk1MzU1MCwiZXhwIjoxNTk0OTUzODUwLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTg5NDMwNjY4MjVmMTEwZjRlOWRiOGUxLjkzOTcwODg5IiwiY2xpZW50ZSI6IjE3Mi4zMS45MS40MSJ9.CTndBs5N8gE1c_TmJtGt6JfAFD3jnD7n0hT9TSCNQy0
+#EXTINF:-1 tvg-logo="" group-title="CANAIS", CANAL DO BOI
+https://origin-02.nxplay.com.br/CANAL_DO_BOI/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1OTQ5NTM2MjksIm5iZiI6MTU5NDk1MzYyOSwiZXhwIjoxNTk0OTUzOTI5LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiODg1MDk2MDc2NWYxMTBmOWQ2NzRhZDEuNTc5MzA0OTIiLCJjbGllbnRlIjoiMTcyLjMxLjM4LjU0In0.L7Lrj6QxFNyUtPLhmyPcqCUAJG5UxCEw9yLlCZU7Qgc
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E1
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e01-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E2
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e02-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E3
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e03-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E4
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e04-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E5
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e05-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E6
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e06-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E7
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e07-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E8
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e08-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E9
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e09-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E10
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e10-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E11
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e11-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E12
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e12-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E13
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e13-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T1 E14
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/cris-t1e14-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E1
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e01-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E2
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e02-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E3
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e03-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E4
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e04-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E5
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e05-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E6
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e06-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E7
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e07-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E8
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e08-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E9
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e09-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E10
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e10-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E11
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e11-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E12
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e12-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E13
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e13-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="SERIES",CHRIS T2 E14
+https://rnwuy75843utfcs.belugacdn.link/lanadelrey/tvshows/odeiachris/t3e14-480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", OS SMURFS E A VILA PERDIDA
+https://861519979.tapecontent.net/radosgw/PW3p9XOPb4UGe1/plsyL-7Kqzo7I4yfzOmwub0LWSbUB2_MI04gmyMTNF2RW06Tv2vpDfHaTa_KOp0IuaBWLvVosswLf6RlCzeZHtYejecShwedshkE5cens9uq9muy8r93ovozHWqtQ1078SzPCHcCGvGeiGArXU1qr6snrx5Ol92RTSC5XOrZbdLr-mINEdZrJBwHjbgChZn4Vz3ndpAzXi3veQLME4Gi5FdKW0qq14qsf92X6ZwJGGYuKB-RMQ8qe6f98WkTrTimilLnbaM96SGfJi1cL7DUmKxR_Bv7ZJEE_CDc7eorcEcsmQ87J1XyMwXWTvj1lmu5LSbVmJFytsSqTQeHl8YBnFgbG_r-fXVqZsSqjA/Os.Smurfs.e.a.Vila.Perdida.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?stream=1
+#EXTINF:-1 tvg-logo="" group-title="FILMES", BOB ESPONJA O FILME
+https://908472157.tapecontent.net/radosgw/PZxa0k1QRxt0Pk9/ddXDrR-kIbpPGn7SLvwsb9mkXuSJw4JtBKdHoAmXmYIYbN8xQus9hqTHvaxq38ylSqsi4E_2RLmAfzQE2_ydInarO_FrwhNp0K4E0DQTYxSrHRRUdkGNOaSlCcqcJmmspEfeTFD7PjFrVwKrMLEqAacgYsNX8R7a8-rNn37QZg3G4gv4Zvqe9dgXMRoTNoy5LALeSCMT7vD-nYQo6BeMUNZTzaNl9i0sbBHbQR8pU-71hC929va_cS_OFFGltICjFw6-y7IhsJoUktdJrdbBTJdVVK5_XNDj-VcCAme040Zq3Tv3QsLj0hcQWn_TSlFPXpv16m1tlR_o4iGs/Bob+Esponja+o+Filme+%5B720p%5D%5BBluray%5D+%5BDublado%5D%5BFilmesMp4.com%5D.mp4?stream=1
+#EXTINF:-1 tvg-logo="" group-title="FILMES", A BELA E A FERA
+https://discover.hlssrv.com/hls_serve/xOHRJRSYsLCIWqB8jYRC7w/1594543415/fZLtE7P3f8jhy0CDNJKp/pl2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES", HAPPY FEET O PINGUIM
+https://vsee.azureedge.net/movies/happyfeet-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", O GRINCH - 2018
+https://vsee.azureedge.net/movies/ogrinch-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", SCOOBY-DOO! MONSTROS A SOLTA
+https://hy53gd.cfeucdn.com/secip/91212/ZBsY5k0gs9Lw5fQXH9GP4Q/MTkxLjM1LjExMS4yMzA=/1594566000/hls-vod-s06/flv/api/files/videos/2019/10/12/157088220545rp5.mp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES", MADAGASCAR 3 - OS PROCURADOS
+https://860718372.tapecontent.net/radosgw/BLr3PbgKQvhyk1k/6sJ4YHBdQYJgewMD1FA920Ju1nIBB-XvSM0mjwXQJV9Yfj36wSmUchtFMFJ2sNdo4M8HWpBERQkpp8VCYoXH0GH69RVEOhe4aFqcvcvuWGyHr7YQWOX6FR49XIL4HQ8XjRKOJd0pn0KuYBqN1Br3uYrEKckBTJP1UMrMrCnX6GMhOcxdLMiQfsw5N0fwhF1M4n4gYi9KhDz1c5jTQ9xeSxyhpsqhud1Fc7MD8PJv90t-Bbb6aGaxxU4qIaTZIOk6OnGffqC8-aNq-I4mnr-xM_XCdGbM_BawmOMYsEVrLG-EGheVr5DorRQCkWo/Madagascar+3+-+Os+Procurados+%282008%29.mp4?stream=1
+#EXTINF:-1 tvg-logo="" group-title="FILMES", O REI LEÃO 2
+https://cdn16.ntcdn.stream/prop/httpdelivery/filmes/p1/74585424o-rei-leao-2-1998.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", O REI LEÃO 3
+https://vsee.azureedge.net/movies/reileao3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", BIG PAI, BIG FILHO
+https://vsee.azureedge.net/movies/bigpai-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", O TOURO FERDINANDO
+https://vsee.azureedge.net/movies/ferdinand-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", VIVA - A VIDA É UMA FESTA
+https://vsee.azureedge.net/movies/vivaavidaeumafesta-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", SHREK 
+https://fvs.io/redirector?token=ckU1Ykp0cXhoWmROMFNCTnYzRW9mSUtzeDl1WTk5NVVaYkpBdXljVTViTmhKNHdXdkFHME1DL1lPN1F0L2JqRUxmNjBTcWJpbkZFQTN4K3VqcEJBazhsbjNzWld6R0N5UXRQanhpeXBZNGM1K1VMOG5yUEZNWk1FRWZSaVlBSmh2bXVEZ1BndmZCVDRXYXNpUnRsQWJkWFNqOWZqaTdFUHl3PT06K2MyZHpuelNHYTdSdVJLVU10NERVZz09
+#EXTINF:-1 tvg-logo="" group-title="FILMES", SHREK 2 
+https://fvs.io/redirector?token=NWYybFhtMHNRZDJsWXdzcHB1QmF5bE5GN0Uwc1VsMURnZUMvY1lYRWo0OHJpWHU2YVJVaXFSMk82NDkwdGN1d1pzVmZPYlZYZzcvdDdjaC9NQ2tTRk1DTHhCMER5VFY1am9HV0MzM1ZEcWpFYnhJclhic0Q2ZGtlZ2J5dUI2TTJUV3YrQWc4NTIvN25rUFVtSDZLY0FLSDlSR084Qkg1b1RBPT06Q0d1ZDBCTDZZOVNXTzF0ZG9HbWh5Zz09
+#EXTINF:-1 tvg-logo="" group-title="FILMES", SHREK TERCEIRO 
+https://fvs.io/redirector?token=Wk1FeFFqc0Q0UjBTVDlKSkZDMlhoNDZqYzBpWTVlZG9CMi84aTBoeHRRUzBYRXFQN1ZXN2dsbUlhaEpOUTRQUnJaZ3JZRUFMZjBMYmxTUDZaTm10cnlPc3JvTUI2YTd1NHdWTExxeUpkelRtclpWOCtFWHBZR0x2L2JJbkVlM2htaEdBVmhuNFVVVk5VWGJLcW11RkdPTHRYd3pIRjdQMmRRPT06WHBoVWpEcERkMWtyVUh3THFmSFREZz09
+#EXTINF:-1 tvg-logo="" group-title="FILMES", SHREK PARA SEMPRE 
+https://fvs.io/redirector?token=K2JkMnNCYW9FR2wrTzBJa2M3dEp4WTQ5U0p3USt4WWM2NTdnYVdPcm9HRXYvcmpoZDZuWGVSY2djQW1pc0VMa0l1dHV4ek9yRkJnMzJUeS9qN05iaHJnTmE5SlVuc3RjakxneGdDazcvMGM0VHEvbkl2TElHQmNrNFFabW9PcTZ3bUM0UlNZYU40M3UyYWNuVzJuV3Ztd1dyR0YrWHEzS0dRPT06cHZDLzF1Tk14dDBmbk1aMTY5Z1FtZz09
+#EXTINF:-1 tvg-logo="" group-title="FILMES", PICA PAU - O FILME
+https://vsee.azureedge.net/movies/picapau-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", POKEMON - O FILME: EU ESCOLHO VOCÊ!
+https://vsee.azureedge.net/movies/pokemon-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", TOY STORY 2 
+https://vsee.azureedge.net/movies/toystory2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", DRAGONBALL Z: A BATALHA DOS DEUSES
+https://vsee.azureedge.net/movies/batalhadeuses-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", MEU MALVADO FAVORITO
+https://vsee.azureedge.net/movies/meumalvadofavorito-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", MEU MALVADO FAVORITO 2
+https://vsee.azureedge.net/movies/meumalvadofavorito2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", MEU MALVADO FAVORITO 3 
+https://vsee.azureedge.net/movies/meumalvado3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", PROCURANDO NEMO
+https://vsee.azureedge.net/movies/nemo-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", O REI LEÃO 
+https://vsee.azureedge.net/movies/reileao-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", OS SEM FLORESTA
+https://vsee.azureedge.net/movies/semfloresta-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", A ERA DO GELO 2
+https://vsee.azureedge.net/movies/gelo2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", A ERA DO GELO 3
+https://vsee.azureedge.net/movies/gelo3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", A ERA DO GELO 4
+https://vsee.azureedge.net/movies/gelo4-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", A ERA DO GELO 
+https://vsee.azureedge.net/movies/gelo1-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", PETS - A VIDA SECRETA DOS BICHOS
+https://vsee.azureedge.net/movies/pets-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", TROLLS
+https://vsee.azureedge.net/movies/trolls-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", CEGONHAS - A HISTORIA QUE NÃO TE CONTARAM 
+https://vsee.azureedge.net/movies/cegonhas-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", PROCURANDO DORY
+https://vsee.azureedge.net/movies/procurandodory-dub-720p.mp4
+#EXTINF:-1 tvg-logo="" group-title="FILMES", ZOOTOPIA
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES", FESTA DA SALSICHA 
+https://vsee.azureedge.net/movies/festasalsicha-dub-720p.mp4
