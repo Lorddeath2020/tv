@@ -149,3 +149,60 @@ https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
 
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/31/7a/f9/317af9c954ccf318b24ab8afa7976bae.png" group-title="Kids",CarToons Online
 https://www1900.ff-04.com/token=9PNekF8symrQm7pDDIYVHA/1618770381/136.158.0.0/158/7/61/a4b38f149715e78329224a5a40d9a617-720p.mp4
+
+#EXTM3U
+
+#EXTINF:-1,Pulari tvg-logo="https://static.epg.best/in/AndFlix.in.png"
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+
+#EXTINF:-1,Kaumudy tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg"
+http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+
+#EXTINF:-1,24 News Malayalam tvg-logo="https://static.epg.best/in/AndFlix.in.png"
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+
+#EXTINF:-1,Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+
+#EXTINF:-1,Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+
+#EXTINF:-1,Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+
+#EXTINF:-1,Kairali News tvg-logo="https://static.epg.best/in/AndFlix.in.png"
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+
+#EXTINF:-1,Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+
+#EXTINF:-1,Flowers TV tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png"
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+#EXTINF:-1,Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+
+#EXTINF:-1,DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+
+#EXTINF:-1,Jeevan TV
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+
+#EXTINF:-1,Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+
+#EXTINF:-1,Kairali We tvg-logo="https://static.epg.best/in/AndFlix.in.png"
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+
+#EXTINF:-1,Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
+#EXTINF:-1,Mangalam TV tvg-logo="https://static.epg.best/in/AndFlix.in.png"
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
+#EXTINF:-1,Mazhavil Manorama HD
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+
+#EXTINF:-1,Reporter TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg"
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+
