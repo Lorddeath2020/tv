@@ -18,3 +18,16 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?wdiptv
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?wdiptv
 #EXTINF:-1 tvg-logo="https://www.88tv.store/wp-content/uploads/2017/06/Huat-IPTV-500x500.png" group-title="lista test" , TV CLIPES GOSPEL
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?wdiptv
+#EXTINF:-1,Ananda TV
+https://ott.bingebd.com/live/ngrp:probashibangla_all/subir.m3u8
+#EXTINF:-1,Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1,Bangla TV
+https://ott.bingebd.com/live/ngrp:bangla_tv_all/subir.m3u8
+#EXTINF:-1,SATV
+https://ott.bingebd.com/live/ngrp:sa_tv_all/subir.m3u8
+#EXTINF:-1,Mohona TV
+https://ott.bingebd.com/live/ngrp:mohona_tv_all/subir.m3u8
+https://ott.bingebd.com/live/ngrp:my_tv_all/subir.m3u8
+#EXTINF:-1,Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
