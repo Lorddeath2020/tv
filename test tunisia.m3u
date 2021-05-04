@@ -1,5 +1,6 @@
-# ar_bein-osn
-#EXTM3U #EXTINF:-1 group-title="Tunisia",National 1 http://htq.brasilia.me/iptv/ch1?code=1701341723961808
+#EXTM3U 
+
+#EXTINF:-1 group-title="Tunisia",National 1 http://htq.brasilia.me/iptv/ch1?code=1701341723961808
 #EXTINF:-1,National 1 HD http://cdng.pubcdn.tn/iptv/ch10?code=1701341723961808
 #EXTINF:-1,National 2 http://cdng.pubcdn.tn/iptv/ch2?code=1701341723961808
 #EXTINF:-1,Al Hiwar Ettounsi http://cdng.pubcdn.tn/iptv/ch3?code=1701341723961808
