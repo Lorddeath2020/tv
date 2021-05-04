@@ -2569,15 +2569,5 @@ http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/928.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Cine",NICK_JR
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",Pernalonga
-http://165.227.82.198/Pernalonga/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",I Carly
-http://165.227.82.198/icarly/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine",O Máskara
-http://165.227.82.198/o-mascara/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",12 SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
