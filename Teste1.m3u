@@ -1,49 +1,43 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",*--- NETFLIX PREMIUM ---* http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/214281.m3u8
-#EXTINF:0 tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Let's Relax - 1 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/283564.m3u8
+#EXTINF:0, tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",*--- NETFLIX PREMIUM ---* http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/214281.m3u8
+#EXTINF:0, tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Let's Relax - 1 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/283564.m3u8
 
-#EXTINF: -1 CINEPREMIUM-logo = "https://pics.filmaffinity.com/Mortal_Kombat-245960455-large.jpg" group-title = "CLIENTES MEPTV", MORTAL KOMBAT
-
+#EXTINF:-1, CINEPREMIUM-logo = "https://pics.filmaffinity.com/Mortal_Kombat-245960455-large.jpg" group-title = "CLIENTES MEPTV", MORTAL KOMBAT
 https://www78.uptobox.com/dl/7GabYIHAehqB7-2LzckCFk6Y9Z94bmVFORynNFMowELrcBxB6SM-xXaUfk_Kw_KgTfRYuWMxSbxY1y3u0W1-wkqFr_wH52uwwyRUC3NLfgnaHL2jSMVEiSLudkKOV1JRUW0SaRWgNv4pgfbGUQphhA/Mortal.Kombat.2021.1080P.Latino.mkv
 
-#EXTINF: -1 CINEPREMIUM-logo = "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/03/25/16166703207905.jpg" group-title = "CLIENTES MEPTV", NOMANDLAND
+#EXTINF: -1, CINEPREMIUM-logo = "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/03/25/16166703207905.jpg" group-title = "CLIENTES MEPTV", NOMANDLAND
 https://www90.uptobox.com/dl/parp1Hs-AmTRCSr0BAGHh0BUk0X_8HhYagLoZTxVQBlBlq1LuaA2AJQcH4IO1fKz3gYGb64MVjXzUffd7mTcP_35A9nKKageh-bVd-qsTsECUhmJeRHwB-Ko8jl7ToJ7nIvMDSOmk7OEg83urccQ2Q/Nomadland.2021.BRS720p.ESP.avi
-#EXTINF: -1 CINEPREMIUM-logo = "https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2021/03/Sin-Remordimientos-de-Tom-Clancy.jpg?resize=240%2C300&ssl=1" group-title = "CLIENTES MEPTV", SIN REMORDIMIENTOS
+#EXTINF: -1, CINEPREMIUM-logo = "https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2021/03/Sin-Remordimientos-de-Tom-Clancy.jpg?resize=240%2C300&ssl=1" group-title = "CLIENTES MEPTV", SIN REMORDIMIENTOS
 https://www103.uptobox.com/dl/ruxqplXWv9CBJoVWRsxv7Aha_6A7gRG5Y4lGrzsCQs2-MmVRfUqNlJqa_YwY956J1Clo6rruPyIYTO3f6-WjGV8eOk9ACvwcH6Cw7WAq2-F_q1zNnDUFNLZ5XQ6ZXw0uk9xDYyaHFZhKwfWWKoQsHvrzH2F9CFBAJBdCnAcvBCU/Tom.Clancy%20Sin%20Remordimientos.mkv
-#EXTINF: -1 CINEPREMIUM-logo = "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_.jpg" group-title = "CLIENTES MEPTV", GUARDIANES DE LA GALAXIA VOL 1
+#EXTINF: -1, CINEPREMIUM-logo = "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_.jpg" group-title = "CLIENTES MEPTV", GUARDIANES DE LA GALAXIA VOL 1
 https://goo.gl/sFaEVq
 https://goo.gl/sFaEVq
-#EXTINF: -1 CINEPREMIUM-logo = "https://www.dodmagazine.es/wp-content/uploads/2021/01/documental-heroes-silencio-rock-and-roll.jpg" group-title = "CLIENTES MEPTV", HEROES , SILENCIO Y ROCK AND ROLL
+#EXTINF: -1, CINEPREMIUM-logo = "https://www.dodmagazine.es/wp-content/uploads/2021/01/documental-heroes-silencio-rock-and-roll.jpg" group-title = "CLIENTES MEPTV", HEROES , SILENCIO Y ROCK AND ROLL
 https://www47.uptobox.com/dl/sWf4m9oYe6ZxZKCtkGSFUFq1LIX0FTa-8eBT8ciMsj5RFoH716Wk1EbFeRIbowFxxckZ6pbhVAwjUs_QZjYfnWylTXwmr-gOyOsPFoXrNY3x4MpADmPbYkfTmePU7-TimmDTX07bFJ0IhB09CXQzCQ/heroes.silence.and.rock.roll.2021.esp.web-dl.720p.tito.mkv
-#EXTINF: -1 CINEPREMIUM-logo = "https://www.aceprensa.com/wp-content/uploads/elementor/thumbs/16869-0-ov0uctf4v3cvtgpkkc3ysh7ase2z3eyebo76fxn6yo.jpg" group-title = "CLIENTES MEPTV", MALDITOS BASTARDOS
+#EXTINF: -1, CINEPREMIUM-logo = "https://www.aceprensa.com/wp-content/uploads/elementor/thumbs/16869-0-ov0uctf4v3cvtgpkkc3ysh7ase2z3eyebo76fxn6yo.jpg" group-title = "CLIENTES MEPTV", MALDITOS BASTARDOS
 https://www60.uptobox.com/dl/IE9M3v4WJZ6eXPRscv4wBxwo4X2hafgdoqr-0Avh82XpB1Wz5oCE-le477ShT-4drMSvSx8mzllgxKeo1vrYAh18eqUQbf8F9RrBXGB1pOti-PeQ1Y0SaRjUbxwEG-osJ6iLu0VOci1_QVO5wdh99g/Malditos.Bastardos.2009.SPANiSH.DVDRip.XviD.%5Bwww.PorTorrent.com%5D.avi
-#EXTINF: -1 CINEPREMIUM-logo = "https://es.web.img3.acsta.net/medias/nmedia/18/70/33/62/20122901.jpg" group-title = "CLIENTES MEPTV", ALICIA , EN EL PAIS DE LAS MARIVILLAS
+#EXTINF: -1, CINEPREMIUM-logo = "https://es.web.img3.acsta.net/medias/nmedia/18/70/33/62/20122901.jpg" group-title = "CLIENTES MEPTV", ALICIA , EN EL PAIS DE LAS MARIVILLAS
 https://www60.uptobox.com/dl/m0pIVZ_UCbL2KTV_XT9ogyUlsQ5jVGmlkDyp45eI7FrT-G8QnFicNFaZTfEtVQJHu60QNGdS0WhuDUaSZNjQdN5izH2UYYeAt4FdIV8ocwtlc9EpgtMzwgI7l09I2VBrdBs2evlumd5i3ZeL7cMaoA/Alicia%20En%20El%20Pais%20De%20Las%20Maravillas%20%5BBluRay%20Rip%5D%5Bwww.descargas2020.com%5D.avi
-#EXTINF: -1 CINEPREMIUM-logo = "https://pics.filmaffinity.com/Solo_en_casa_2_Perdido_en_Nueva_York-734537978-large.jpg" group-title = "CLIENTES MEPTV", SOLO EN CASA 2
+#EXTINF: -1, CINEPREMIUM-logo = "https://pics.filmaffinity.com/Solo_en_casa_2_Perdido_en_Nueva_York-734537978-large.jpg" group-title = "CLIENTES MEPTV", SOLO EN CASA 2
 https://www54.uptobox.com/dl/QOELVuHBej6nYvYTV6bHpNJI0ORFi9StCRYjuqbkvYRTudroSdoqQietWr5e_Vaez0wXiKpTLix-1hQ05J9iO1zfGvK9p7fiq6vV2GDPgk8eEw_DfmrpqgGl5jQJB6mfBNnNzpqLj9A--Lg3pybPcA/By%20Nova%20Solo%20en%20Casa%20%202%20%281992%29%20%5B1080p.BluRay%20AC3%205.1%5D%20%5BCastellano%20y%20Latino%5D.mkv
-#EXTINF: -1 CINEPREMIUM-logo = "https://images-na.ssl-images-amazon.com/images/I/81mAwq1FUCL._AC_SY741_.jpg" group-title = "CLIENTES MEPTV", RICHARD JEWELL
+#EXTINF: -1, CINEPREMIUM-logo = "https://images-na.ssl-images-amazon.com/images/I/81mAwq1FUCL._AC_SY741_.jpg" group-title = "CLIENTES MEPTV", RICHARD JEWELL
 https://www60.uptobox.com/dl/1U4A-qAoMw-knWZSrcbjb95FD8kjylHRetPbGxSFmCDHvRErblxeISe0eUh0alw2piscv1ok1ZOppvh79lfd9ivaiVvyMeF9Y_DH854yMKRd8JzbTuYIuKM3vK0k0bcy4jj_OcaklWBII1B2dIHX4g/Richard%20Jewell%20%282020%29%20%5BBluRay%20720p%20X264%20MKV%5D%5BAC3%205.1%20Castellano%5D%5Bwww.PCTRELOAD.COM%5D
-#EXTINF: -1 CINEPREMIUM-logo = "https://www.descargatelocorp.com/wp-content/uploads/2017/05/Titanic-1997-4K-UHD-Audio-Trial-Latino-Ingles-Espa%C3%B1ol.jpg" group-title = "CLIENTES MEPTV", TITANIC
-
+#EXTINF: -1, CINEPREMIUM-logo = "https://www.descargatelocorp.com/wp-content/uploads/2017/05/Titanic-1997-4K-UHD-Audio-Trial-Latino-Ingles-Espa%C3%B1ol.jpg" group-title = "CLIENTES MEPTV", TITANIC
 https://www72.uptobox.com/dl/2j6VGH54E-dOaQ8etlp4fR5tXMAIaxSy4r3jKjGTIvXB1kVlW0RQ9iQ2q_7u3ZTXYPQU8RIhK3g4kd0SJyGER913J4YKrM-9JJuWAcH9StV4ScvEUtqffPAah_0p1rYykPHA3rmkhPHuBTZmV1a9jg/TITANIC%204K
 
-#EXTINF: -1 CINEPREMIUM-logo = "http://www.elespectadorimaginario.com/assets/ratas_ratones_y_rateros_cartel-1.jpg" group-title = "CLIENTES MEPTV", Ratas , ratones y rateros ( Cine Ecuador )
+#EXTINF: -1, CINEPREMIUM-logo = "http://www.elespectadorimaginario.com/assets/ratas_ratones_y_rateros_cartel-1.jpg" group-title = "CLIENTES MEPTV", Ratas , ratones y rateros ( Cine Ecuador )
 https://www61.uptobox.com/dl/YGIOsBgdASEDlSwz3ioXUQEu7gc_HcvP2DGeGH9OO3BTZ0akQINYmEPK-OIbCR3FDhuVrfc94gwxM-7duwzSw9is96kbbbLDNxV-O5pqQKSITfmVLo6_IUOxDf1zuxfnnkYW8cFjJbWop67ncgaJgQ/1599380425.mp4
 
-#EXTINF: -1 CINEPREMIUM-logo = "https://i.pinimg.com/originals/64/32/32/64323216f74daa0cee8afc696b1a925d.jpg" group-title = "CLIENTES MEPTV", CHUCKY EL MUÑECO DIABOLICO
-
+#EXTINF: -1, CINEPREMIUM-logo = "https://i.pinimg.com/originals/64/32/32/64323216f74daa0cee8afc696b1a925d.jpg" group-title = "CLIENTES MEPTV", CHUCKY EL MUÑECO DIABOLICO
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
 
-#EXTINF: -1 CINEPREMIUM-logo = "https://pics.filmaffinity.com/Nadie-171994887-large.jpg" group-title = "CLIENTES MEPTV", NADIE 
-
+#EXTINF: -1, CINEPREMIUM-logo = "https://pics.filmaffinity.com/Nadie-171994887-large.jpg" group-title = "CLIENTES MEPTV", NADIE 
 https://www74.uptobox.com/dl/803yvQ3mWrXLT8dhC43AVZE2y8GGV3PAYSc9J7Jnn--rSCnPv0WsZqhss5dgWfBmQ49coxQPe6JdV5hMYUl4S7a4F6LGh88q1Qme6-SgIWXDbwhL4qwjCd_NpXytWWa1zvOknN3LCPNmwuZWQabHCw/Nobody%20%282021%29%20WEB-DL%20Dual%201080p%20%5BwWw.PelisMEGAHD.Pe%5D.mkv
 
-#EXTINF: -1 CINEPREMIUM-logo = "https://site-cdn.givemesport.com/images/21/03/31/d087bc13a6638694a36f0589989f0043/650.jpg" group-title = "WWE",THE ROCK VS STOND COLD
-
+#EXTINF: -1, CINEPREMIUM-logo = "https://site-cdn.givemesport.com/images/21/03/31/d087bc13a6638694a36f0589989f0043/650.jpg" group-title = "WWE",THE ROCK VS STOND COLD
 https://www38.uptobox.com/dl/LgwL3h75tmWTF1waFO6lKw2D-g2707VwkgEpgEHS5uCfku86OQpDwLplopyzrNCwBk4-STdaKKNcuY6mToiimLyPWfTCy200PyjCWxJOW0tPl1pf7tvoL77hyutay53IE03TmgSmY3OVtOhjK2B7bA/10000000_229940398448862_8087892772394106880_n.mp4
 
-#EXTINF: -1 CINEPREMIUM-logo = "https://mx.web.img3.acsta.net/pictures/21/04/16/22/31/3783671.jpg" group-title = "CLIENTES MEPTV",RUEGA POR NOSOTROS 
-
+#EXTINF: -1, CINEPREMIUM-logo = "https://mx.web.img3.acsta.net/pictures/21/04/16/22/31/3783671.jpg" group-title = "CLIENTES MEPTV",RUEGA POR NOSOTROS 
 https://www1.uptobox.com/dl/RwskbPxJZvHQ2qqmcowpIEXi4OnKhWPWRWzkw3jhzl-dhTrXQ-LP8OTqr-XzTmBw0UCbBTcXlp4ra0H9DXBTBPu2mKdlLltM3-6DgU-Ul9_XXcJrBz8xZ1NSeqjjrkHjeFD5tMS3zMZc3MVxrhrKjw/The.Unholy.2021.TS720p.ESP.mkv
 
 
