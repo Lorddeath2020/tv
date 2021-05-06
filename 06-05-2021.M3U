@@ -10,1066 +10,881 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/214281.m3u8
 #EXTINF:0,Thundercats
 http://46.4.10.77/Series/Thundercats%202011/thundercats_2011_s01e01.mp4
-#EXTINF:-1 ,华数2
-http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
-#EXTINF:-1 ,douyu刘坤
-http://tx2play1.douyucdn.cn/live/52319rSMZpMOI07X.flv?uuid=
-#EXTINF:-1 ,douyu马丁老师
-http://tx2play1.douyucdn.cn/live/73440r4fQpMZy6AX.flv?uuid=
-#EXTINF:-1 ,douyu燕狗
-http://tx2play1.douyucdn.cn/live/6517467rugovPA6E.flv?uuid=
-#EXTINF:-1 ,【贝爷影厅】华语厅 经典 周星驰 刘德华
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv?uuid=
-#EXTINF:-1 ,【周杰伦】音乐电影高清MV演唱会
-http://tx2play1.douyucdn.cn/live/7537296rDT0yxP24.flv?uuid=
-#EXTINF:-1 ,【林正英】僵尸 女鬼 弹幕 护体
-http://tx2play1.douyucdn.cn/live/218859r15yDmguYZ.flv?uuid=
-#EXTINF:-1 ,【神乐】华语 经典 电影 刘德华 周星驰
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 ,【贝尔野外求生】24小时直播
-http://tx2play1.douyucdn.cn/live/454867rOz6vfWJZt.flv?uuid=
-#EXTINF:-1 ,【动漫】24小时直播
-http://tx2play1.douyucdn.cn/live/2317390rzWFELf0v.flv?uuid=
-#EXTINF:-1 ,军旅 喜剧 动作 意大利炮
-http://tx2play1.douyucdn.cn/live/431460rg2UGmFyAm.flv?uuid=
-#EXTINF:-1 ,【周星星】精彩电影无间断
-http://hw.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8
-#EXTINF:-1 ,【蜡笔小新】小新的日常生活
-http://aldirect.hls.huya.com/src/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_2000.m3u8
-#EXTINF:-1 ,陈翔六点半
-http://aldirect.hls.huya.com/src/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_2000.m3u8
-#EXTINF:-1 ,武林外传
-http://aldirect.hls.huya.com/src/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1_2000.m3u8
-#EXTINF:-1 ,华数3
-http://hls-ott-zhibo.wasu.tv/live/186/index.m3u8
-#EXTINF:-1 ,华数7
-http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1 ,华数9
-http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-#EXTINF:-1 ,华数10
-http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-#EXTINF:-1 ,华数11
-http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
-#EXTINF:-1 ,华数12
-http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
-#EXTINF:-1 ,华数13
-http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
-#EXTINF:-1 ,华数14
-http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-#EXTINF:-1 ,爱奇艺_贺岁影院
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_动作电影
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_历史秘闻
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_动画电影
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_军旅剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_家庭剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_怀旧动画
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_儿童乐园
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_军事观察
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_亲子启蒙
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
-#EXTINF:-1 ,Newtv精品体育
-http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
-#EXTINF:-1 ,Newtv精品电影
-http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 ,Newtv明星大片
-http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
-#EXTINF:-1 ,Newtv惊悚悬疑
-http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,Newtv健康有约
-http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,Newtv家庭剧场
-http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,珠江卫视
-http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,凤凰卫视资讯台
-http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452
-#EXTINF:-1 ,凤凰卫视资讯台
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 ,凤凰卫视中文台
-http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452
-#EXTINF:-1 ,凤凰卫视中文台
-http://liveali.ifeng.com/live/FHZW.flv
-#EXTINF:-1 ,翡翠台
-http://hzyhjg.cc/cs/gat/fct.php
-#EXTINF:-1 ,TVB J2
-http://hzyhjg.cc/cs/gat/tvbj2.php
-#EXTINF:-1 ,TVB J2
-http://hzyhjg.cc/cs/gat/tvbj2-2.php
-#EXTINF:-1 ,无线新闻
-http://hzyhjg.cc/cs/gat/wxxw.php
-#EXTINF:-1 ,无线新闻
-http://hzyhjg.cc/cs/gat/wxxw-2.php
-#EXTINF:-1 ,明珠台
-http://hzyhjg.cc/cs/gat/mzt.php
-#EXTINF:-1 ,有线新闻
-http://hzyhjg.cc/cs/gat/yxxw.php
-#EXTINF:-1 ,有线603
-http://hzyhjg.cc/cs/gat/yx603.php
-#EXTINF:-1 ,东森新闻
-http://hzyhjg.cc/cs/gat/dsxw.php
-#EXTINF:-1 ,非凡新闻
-http://hzyhjg.cc/cs/gat/ffxw.php
-#EXTINF:-1 ,中视HD
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 ,华视CTS
-http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 ,年代新闻
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 ,中天综合
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 ,翡翠台
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
-#EXTINF:-1 ,明珠台
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,星空卫视
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 ,中天新闻
-http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 ,中天亚洲台
-http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 ,东森新闻
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 ,中视无线
-http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 ,华视无线
-http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 ,中天综合
-http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 ,星空卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,TVB翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 ,明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,阳光卫视
-http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-#EXTINF:-1 ,台湾艺术
-http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720?dsjtv.m3u8
-#EXTINF:-1 ,台灣藝術
-http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
-#EXTINF:-1 ,信吉电视
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 ,信吉电视
-http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
-#EXTINF:-1 ,TVBS 新闻
-http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-#EXTINF:-1 ,TVBS 新聞
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 ,TVBS新闻
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1 ,三立新聞
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 ,三立新闻
-http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-#EXTINF:-1 ,三立新闻
-http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 ,大爱一台
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
-#EXTINF:-1 ,大爱二台
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
-#EXTINF:-1 ,东森新闻
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
-#EXTINF:-1 ,中天新闻
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
-#EXTINF:-1 ,中天综合
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
-#EXTINF:-1 ,中天娱乐
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=006
-#EXTINF:-1 ,歐美影院
-http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 ,亞洲影院
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1 ,国家地理
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 ,FOX动作
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 ,Bestv live
-http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
-#EXTINF:-1 ,香港卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,MTV 音乐
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
-#EXTINF:-1 ,好莱坞电影
-http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 ,动物星球
-http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 ,华纳电影
-http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 ,福克斯电影
-http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 ,衛星劇場
-http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
-#EXTINF:-1 ,大众影视
-http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
-#EXTINF:-1 ,居家幸福
-http://61.58.60.230:9319/live/125.m3u8
-#EXTINF:-1 ,世纪综合
-http://61.58.60.230:9319/live/49.m3u8
-#EXTINF:-1 ,国会频道
-http://61.58.60.230:9319/live/123.m3u8
-#EXTINF:-1 ,靖天歡樂
-http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 ,靖天资讯
-http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:-1 ,靖天娱乐
-http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 ,靖洋戏剧
-http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 ,靖天国际
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 ,靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 ,靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1 ,靖天映画
-http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 ,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,香港卫视
-http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 ,香港hks
-http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-#EXTINF:-1 ,BabyFirst
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 ,博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385
-#EXTINF:-1 ,BBC经典
-http://qdntv96789.applinzi.com/96tv.php?633138330
-#EXTINF:-1 ,经典频道
-http://stream.guihet.com/migu/index.php?id=625542369
-#EXTINF:-1 ,TVB 星河
-http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,无线新闻
-http://www.liveviptv.xyz/tv/tvb.php
-#EXTINF:-1 ,无线新闻
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-#EXTINF:-1 ,无线新闻
-http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
-#EXTINF:-1 ,CCTV-1蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-#EXTINF:-1 ,CCTV-3蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-#EXTINF:-1 ,CCTV-4蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1 ,CCTV-5蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1 ,CCTV-5+蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-#EXTINF:-1 ,CCTV-5+蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-#EXTINF:-1 ,CCTV-6蓝光
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 ,CCTV-7蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-#EXTINF:-1 ,CCTV-8蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-#EXTINF:-1 ,CCTV-9蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1 ,CCTV-9蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-#EXTINF:-1 ,CCTV-10蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-#EXTINF:-1 ,CCTV-10蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 ,CCTV-11蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-#EXTINF:-1 ,CCTV-11蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 ,CCTV-12蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 ,CCTV-12蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-#EXTINF:-1 ,CCTV-13蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-#EXTINF:-1 ,CCTV-14蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 ,CCTV-14蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-#EXTINF:-1 ,CCTV-15蓝光
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-#EXTINF:-1 ,CCTV-15蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 ,CCTV-17蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 ,CCTV-17蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1 ,CCTV-4K超清
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-#EXTINF:-1 ,纯享4K频道
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 ,北京卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-#EXTINF:-1 ,天津卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-#EXTINF:-1 ,河北卫视蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
-#EXTINF:-1 ,东方卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1 ,湖南卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-#EXTINF:-1 ,浙江卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 ,江苏卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 ,河南卫视蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-#EXTINF:-1 ,山东卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
-#EXTINF:-1 ,湖北卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
-#EXTINF:-1 ,安徽卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-#EXTINF:-1 ,广东卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
-#EXTINF:-1 ,深圳卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-#EXTINF:-1 ,辽宁卫视蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-#EXTINF:-1 ,龙江卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1 ,吉林卫视蓝光
-http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/1000.m3u8
-#EXTINF:-1 ,江西卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-#EXTINF:-1 ,四川卫视蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
-#EXTINF:-1 ,重庆卫视蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 ,厦门卫视蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 ,海南卫视蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
-#EXTINF:-1 ,贵州卫视蓝光
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
-#EXTINF:-1 ,广西卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
-#EXTINF:-1 ,甘肃卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 ,青海卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 ,山西卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 ,云南卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
-#EXTINF:-1 ,陕西卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 ,宁夏卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-#EXTINF:-1 ,内蒙卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:-1 ,新疆卫视高清  ]
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 ,西藏卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 ,中国教育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
-#EXTINF:-1 ,山东教育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
-#EXTINF:-1 ,明珠台
-http://hzyhjg.cc/cs/gat/mzt-2.php
-#EXTINF:-1 ,中天新闻
-http://hzyhjg.cc/cs/gat/ztxw.php
-#EXTINF:-1 ,黑莓动画
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
-#EXTINF:-1 ,黑莓电竞
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
-#EXTINF:-1 ,黑莓电影
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 ,峨眉电影
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 ,超级电影
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 ,超级综艺
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-#EXTINF:-1 ,超级综艺
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-#EXTINF:-1 ,超级剧集
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-#EXTINF:-1 ,中国功夫
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
-#EXTINF:-1 ,金牌综艺
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
-#EXTINF:-1 ,农业致富
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
-#EXTINF:-1 ,潮妈辣婆
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
-#EXTINF:-1 ,炫舞未来
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
-#EXTINF:-1 ,明星大片
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
-#EXTINF:-1 ,自由搏击
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
-#EXTINF:-1 ,海外综合
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
-#EXTINF:-1 ,惊梀悬疑
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
-#EXTINF:-1 ,爱情喜剧
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
-#EXTINF:-1 ,精品记录
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
-#EXTINF:-1 ,精品体育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
-#EXTINF:-1 ,精品大剧
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-#EXTINF:-1 ,古装剧场
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
-#EXTINF:-1 ,军旅剧场
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
-#EXTINF:-1 ,军事评论
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
-#EXTINF:-1 ,健康有约
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
-#EXTINF:-1 ,家庭剧场
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
-#EXTINF:-1 ,动作电影
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
-#EXTINF:-1 ,CIBN老陈座谈
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=69
-#EXTINF:-1 ,CIBN全球歌曲
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=183
-#EXTINF:-1 ,CIBN流行榜单
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=43
-#EXTINF:-1 ,CIBN巨星演唱
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=49
-#EXTINF:-1 ,CIBN经典乐场
-http://stream.guihet.com/tv/cibn.php?id=57
-#EXTINF:-1 ,CIBN女团专场
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=67
-#EXTINF:-1 ,CIBN音乐综艺
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=70
-#EXTINF:-1 ,CIBN经典音乐
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=205
-#EXTINF:-1 ,CIBN古典音乐
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=193
-#EXTINF:-1 ,CIBN莎翁戏剧
-http://stream.guihet.com/tv/cibn.php?id=209
-#EXTINF:-1 ,CIBN生活
-http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 ,CIBN教育
-http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 ,CIBN汉学院
-http://cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 ,CIBN纪录片
-http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 ,CIBN导视
-http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 ,CIBN新知
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=1
-#EXTINF:-1 ,CIBN电影
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=2
-#EXTINF:-1 ,CIBN喜剧影院
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=3
-#EXTINF:-1 ,CIBN精品影院
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=4
-#EXTINF:-1 ,CIBN情感影院
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=6
-#EXTINF:-1 ,CIBN动漫剧场
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=7
-#EXTINF:-1 ,CIBN好莱坞
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=8
-#EXTINF:-1 ,CIBN动作影院
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=9
-#EXTINF:-1 ,CIBN院线大片
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=10
-#EXTINF:-1 ,CIBN童学世界
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=12
-#EXTINF:-1 ,CIBN骄阳剧场
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=13
-#EXTINF:-1 ,CIBN军事
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=14
-#EXTINF:-1 ,CIBN经典剧场
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=15
-#EXTINF:-1 ,CIBN风尚运动
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=16
-#EXTINF:-1 ,CIBN真人秀
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=17
-#EXTINF:-1 ,CIBN综合
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=18
-#EXTINF:-1 ,CIBN炫佳动漫
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=19
-#EXTINF:-1 ,CIBN怡家
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=20
-#EXTINF:-1 ,CIBN汽车
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=21
-#EXTINF:-1 ,CIBN记录片
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=22
-#EXTINF:-1 ,CIBN文旅中国
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=23
-#EXTINF:-1 ,CIBN微电影
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=25
-#EXTINF:-1 ,CIBN古装剧场
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=26
-#EXTINF:-1 ,CIBN流金岁月
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=27
-#EXTINF:-1 ,CIBN朵丫乐园
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=28
-#EXTINF:-1 ,CIBN嗨播
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=31
-#EXTINF:-1 ,CIBN艺术院线
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=32
-#EXTINF:-1 ,CIBN映画
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=39
-#EXTINF:-1 ,CIBN时尚生活
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=41
-#EXTINF:-1 ,CIBN全电竞
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=194
-#EXTINF:-1 ,爱电竞
-http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱动漫
-http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱都市
-http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱江湖
-http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱解密
-http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱经典
-http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱军武
-http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱科幻
-http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱历史
-http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱美食
-http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱奇谈
-http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱时尚
-http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱世界
-http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱玩具
-http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱喜剧
-http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱悬疑
-http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱幼教
-http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱院线
-http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱青春
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-#EXTINF:-1 ,爱家庭
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-#EXTINF:-1 ,爱探索
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 ,爱科学
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-#EXTINF:-1 ,爱猎奇
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-#EXTINF:-1 ,爱谍战
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-#EXTINF:-1 ,爱娱乐
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-#EXTINF:-1 ,爱旅行
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 ,爱怀旧
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-#EXTINF:-1 ,爱体育
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-#EXTINF:-1 ,爱赛车
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-#EXTINF:-1 ,爱浪漫
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,经典港片
-http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-#EXTINF:-1 ,欢笑剧场
-http://183.207.249.15/PLTV/2/224/3221226031/index.m3u8
-#EXTINF:-1 ,动作电影
-http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_电影大片
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_票房收割机
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_欢乐剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_惊悚午夜场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_华语院线
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_粤语原生
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_怀旧剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_温情影院
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_周末影院
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_婚姻剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_hunyinjuchang_1080p_t10/c16_lb_hunyinjuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_权谋剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_quanmojuchang_1080p_t10/c16_lb_quanmojuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_经典重温
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_谍战剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_老剧超清修复
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_收视冠军
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_仙侠玄幻
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_青春剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_宫廷正剧
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_抗战剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
-#EXTINF:-1 ,爱奇艺_热播电视剧
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
-#EXTINF:-1 ,长沙女性
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
-#EXTINF:-1 ,长沙政法
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
-#EXTINF:-1 ,湘潭综合
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 ,湘潭公共
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-#EXTINF:-1 ,岳阳公共
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8&BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE
-#EXTINF:-1 ,张家界2台
-http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
-#EXTINF:-1 ,张家口一套
-http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
-#EXTINF:-1 ,醴陵综合
-http://24tl.qingk.cn/live/llxwzh.flv
-#EXTINF:-1 ,醴陵经视
-http://24tl.qingk.cn/live/lljjsh.flv
-#EXTINF:-1 ,攸县电视台
-http://24tl.qingk.cn/live/yxxtv1.flv
-#EXTINF:-1 ,衡阳县电视台
-http://24tl.qingk.cn/live/hyszzhtv.flv
-#EXTINF:-1 ,衡东电视台
-http://24tl.qingk.cn/live/hnhdtv.flv
-#EXTINF:-1 ,慈利新闻综合
-http://qkqxzb.qingk.cn/live/cilixwzh.flv
-#EXTINF:-1 ,华容新闻
-http://qkqxzb.qingk.cn/live/huarong1.flv
-#EXTINF:-1 ,南岳综合
-http://qkqxzb.qingk.cn/live/hnnanyuetv.flv
-#EXTINF:-1 ,江华电视台
-http://qkqxzb.qingk.cn/live/jhtvsjt.flv
-#EXTINF:-1 ,洪江时政
-http://24tl.qingk.cn/live/hjssz.flv
-#EXTINF:-1 ,湖北教育
-http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
-#EXTINF:-1 ,湖北休闲
-http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-#EXTINF:-1 ,钟祥新闻综合
-http://zhongxiang.live.cjyun.org/video/s10103-zxtv/index.m3u8
-#EXTINF:-1 ,荆门新闻
-http://live.jmtv.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 ,荆门教育
-http://live.jmtv.com.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 ,荆门公共农谷
-http://live.jmtv.com.cn/ngpd/sd/live.m3u8
-#EXTINF:-1 ,宜昌综合
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000274.m3u8
-#EXTINF:-1 ,武汉外语
-http://stream.appwuhan.com/6tzb/sd/live.m3u8
-#EXTINF:-1 ,襄阳经济
-http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
-#EXTINF:-1 ,随州综合
-http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8
-#EXTINF:-1 ,孝感综合
-http://xiaogan.live.cjyun.org/video/s10139-xg.flv
-#EXTINF:-1 ,赤壁一套
-http://hbcb.chinashadt.com:1936/live/tv1.stream/playlist.m3u8
-#EXTINF:-1 ,随州农村
-http://suizhou.source.cjyun.org/video/s10145-szncpd.m3u8
-#EXTINF:-1 ,广东卫视
-http://125.210.152.18:9090/live/GDWSHD_H265.m3u8
-#EXTINF:-1 ,揭阳综合
-http://livejieyang.chinamcache.com/live/zb01.m3u8
-#EXTINF:-1 ,揭阳公共
-http://livejieyang.chinamcache.com/live/zb02.m3u8
-#EXTINF:-1 ,河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 ,清远公共
-http://stream1.0763f.com/qygg/sd/live.m3u8?_upt=dad6a4c91578916139
-#EXTINF:-1 ,惠州综合
-http://livehuiz.sobeycache.com/live/zb01.m3u8?auth_key=1590030432-0-0-1bbff456219cf4a695137623cd8cb183
-#EXTINF:-1 ,广州综合
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=44&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广州生活
-http://aplay.gztv.com/sec/shenghuo.m3u8
-#EXTINF:-1 ,广州经济
-http://aplay.gztv.com/sec/jingji.m3u8
-#EXTINF:-1 ,广州竞赛
-http://aplay.gztv.com/sec/jingsai.m3u8
-#EXTINF:-1 ,广东综艺
-http://nclive.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1 ,珠江频道
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,潮安综合
-http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
-#EXTINF:-1 ,潮安影视
-http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
-#EXTINF:-1 ,江门综合
-http://dslive.grtn.cn/jmzh/sd/live.m3u8
-#EXTINF:-1 ,蛇口电视台
-http://218.17.99.211:5080/hls/ttsw6ccn.m3u8
-#EXTINF:-1 ,汕头综合
-http://dslive.grtn.cn/stzh/sd/live.m3u8
-#EXTINF:-1 ,佛山综合
-http://dslive.grtn.cn/fszh/sd/live.m3u8
-#EXTINF:-1 ,韶关综合
-http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
-#EXTINF:-1 ,东莞综合
-http://dslive.grtn.cn/dgzh/sd/live.m3u8
-#EXTINF:-1 ,梅州综合
-http://dslive.grtn.cn/mzzh/sd/live.m3u8
-#EXTINF:-1 ,湛江综合
-http://dslive.grtn.cn/zjzh/sd/live.m3u8
-#EXTINF:-1 ,汕尾综合
-http://dslive.grtn.cn/swzh/sd/live.m3u8
-#EXTINF:-1 ,云浮综合
-http://dslive.grtn.cn/yfzh/sd/live.m3u8
-#EXTINF:-1 ,珠海综合
-http://dslive.grtn.cn/zhzh/sd/live.m3u8
-#EXTINF:-1 ,广东公共频道
-http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 ,广东新闻频道
-http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 ,广东房产频道
-http://nclive.grtn.cn/fcpd/sd/live.m3u8
-#EXTINF:-1 ,广东国际频道
-http://nclive.grtn.cn/gjpd/sd/live.m3u8
-#EXTINF:-1 ,南方购物频道
-http://nclive.grtn.cn/nfgw/sd/live.m3u8
-#EXTINF:-1 ,高尔夫频道
-http://nclive.grtn.cn/grfpd/sd/live.m3u8
-#EXTINF:-1 ,广东经济科教频道
-http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-#EXTINF:-1 ,广东影视频道
-http://nclive.grtn.cn/tvs4/sd/live.m3u8
-#EXTINF:-1 ,山东卫视
-http://112.17.40.140/PLTV/88888888/224/3221226410/index.m3u8
-#EXTINF:-1 ,济南都市
-http://ts1.ijntv.cn/jnds/sd/live.m3u8?_upt=77166fdb1578914580
-#EXTINF:-1 ,济南新闻综合
-http://ts1.ijntv.cn/xwhd/hd/live.m3u8?_upt=6a29580f1578914837
-#EXTINF:-1 ,济南影视
-http://ts1.ijntv.cn/jnyd/sd/live.m3u8?_upt=f16e45941578914456
-#EXTINF:-1 ,济南娱乐
-http://ts2.ijntv.cn/jnyl/sd/live.m3u8?_upt=224af31f1578914612
-#EXTINF:-1 ,济南生活
-http://ts2.ijntv.cn/jnsh/sd/live.m3u8?_upt=36050e871578914670
-#EXTINF:-1 ,济南商务
-http://ts1.ijntv.cn/jnsw/sd/live.m3u8?_upt=d13be3741578914701
-#EXTINF:-1 ,济南鲁中
-http://ts4.ijntv.cn/ltv1/sd/live.m3u8?_upt=222957f11578914785
-#EXTINF:-1 ,济南科教
-http://ts4.ijntv.cn/ltv2/sd/live.m3u8?_upt=1f8085ad1578914813
-#EXTINF:-1 ,济宁教育频道
-http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
-#EXTINF:-1 ,济宁图文频道
-http://lives.jnnews.tv/video/s10001-JTV4/index.m3u8
-#EXTINF:-1 ,济宁公共频道
-http://lives.jnnews.tv/video/s10001-JTV3/index.m3u8
-#EXTINF:-1 ,滨州新闻
-http://stream.bzcm.net/2/sd/live.m3u8
-#EXTINF:-1 ,济南新闻
-http://qkqxzb.qingk.cn/live/jnxw_sd.flv
-#EXTINF:-1 ,莱芜综合
-http://qkqxzb.qingk.cn/live/lwtv1.flv
-#EXTINF:-1 ,莱芜科教
-http://qkqxzb.qingk.cn/live/ltv2.flv
-#EXTINF:-1 ,莱芜图文
-http://qkqxzb.qingk.cn/live/ltv3.flv
-#EXTINF:-1 ,德州新闻综合
-http://24tl.qingk.cn/live/dzxwzh_sj.flv
-#EXTINF:-1 ,德州公共
-http://24tl.qingk.cn/live/dzggpd_sj.flv
-#EXTINF:-1 ,德州图文
-http://24tl.qingk.cn/live/dztwpd_sj.flv
-#EXTINF:-1 ,邹城新闻综合
-http://qkqxzb.qingk.cn/live/zcyt.flv
-#EXTINF:-1 ,邹城文化生活
-http://qkqxzb.qingk.cn/live/zcet.flv
-#EXTINF:-1 ,冠县综合
-http://qkqxzb.qingk.cn/live/gxzh.flv
-#EXTINF:-1 ,禹城电视台
-http://24tl.qingk.cn/live/sdyczh.flv
-#EXTINF:-1 ,惠民综合
-http://qkqxzb.qingk.cn/live/hmzh.flv
-#EXTINF:-1 ,惠民公共文化
-http://qkqxzb.qingk.cn/live/hmdj.flv
-#EXTINF:-1 ,惠民影视
-http://qkqxzb.qingk.cn/live/hmys.flv
-#EXTINF:-1 ,乐陵新闻
-http://qkqxzb.qingk.cn/live/llxwpd.flv
-#EXTINF:-1 ,乐陵生活
-http://qkqxzb.qingk.cn/live/llshpd.flv
-#EXTINF:-1 ,乐陵党建
-http://qkqxzb.qingk.cn/live/lldjpd.flv
-#EXTINF:-1 ,阳谷新闻综合
-http://24tl.qingk.cn/live/ygxw.flv
-#EXTINF:-1 ,阳谷娱乐
-http://24tl.qingk.cn/live/ygyl.flv
-#EXTINF:-1 ,荣城综合
-http://24tl.qingk.cn/live/rctv1.flv
-#EXTINF:-1 ,荣城生活
-http://24tl.qingk.cn/live/rctv2.flv
-#EXTINF:-1 ,高密新闻综合
-http://24tl.qingk.cn/live/gmxw.flv
-#EXTINF:-1 ,寿光新闻
-http://24tl.qingk.cn/live/sgxw.flv
-#EXTINF:-1 ,寿光蔬菜
-http://24tl.qingk.cn/live/sgsc.flv
-#EXTINF:-1 ,东平新闻
-http://24tl.qingk.cn/live/dptv1.flv
-#EXTINF:-1 ,东平民生
-http://24tl.qingk.cn/live/dptv2.flv
-#EXTINF:-1 ,淄川新闻
-http://24tl.qingk.cn/live/zctv-1.flv
-#EXTINF:-1 ,淄川生活
-http://24tl.qingk.cn/live/zctv-2.flv
-#EXTINF:-1 ,滕州综合
-http://24tl.qingk.cn/live/tztz1.flv
-#EXTINF:-1 ,滕州民生
-http://24tl.qingk.cn/live/tztz2.flv
-#EXTINF:-1 ,宁津新闻综合
-http://24tl.qingk.cn/live/njxw.flv
-#EXTINF:-1 ,牟平新闻
-http://24tl.qingk.cn/live/ytmptv1.flv
-#EXTINF:-1 ,博兴新闻
-http://qkqxzb.qingk.cn/live/bxxw.flv
-#EXTINF:-1 ,博兴生活
-http://qkqxzb.qingk.cn/live/bxsh.flv
-#EXTINF:-1 ,桓台TV一
-http://qkqxzb.qingk.cn/live/httv11.flv
-#EXTINF:-1 ,桓台TV二
-http://qkqxzb.qingk.cn/live/httv12.flv
-#EXTINF:-1 ,即墨新闻综合
-http://qkqxzb.qingk.cn/live/jmstv1.flv
-#EXTINF:-1 ,即墨生活服务
-http://qkqxzb.qingk.cn/live/jmstv2.flv
-#EXTINF:-1 ,兰山电视台
-http://qkqxzb.qingk.cn/live/lstvsd.flv
-#EXTINF:-1 ,临沭生活
-http://qkqxzb.qingk.cn/live/lylsshtv.flv
-#EXTINF:-1 ,临沭党建
-http://qkqxzb.qingk.cn/live/lylszxtv.flv
-#EXTINF:-1 ,莱阳新闻综合
-http://qkqxzb.qingk.cn/live/laiyangtv1.flv
-#EXTINF:-1 ,莱阳民生综艺
-http://qkqxzb.qingk.cn/live/laiyangtv2.flv
-#EXTINF:-1 ,宁阳综合
-http://qkqxzb.qingk.cn/live/nytv1.flv
-#EXTINF:-1 ,泰安综合
-http://qkqxzb.qingk.cn/live/tatvnews.flv
-#EXTINF:-1 ,泰安公共
-http://qkqxzb.qingk.cn/live/tatvpublic.flv
-#EXTINF:-1 ,泰安科教
-http://qkqxzb.qingk.cn/live/tatvdang.flv
-#EXTINF:-1 ,郯城一套
-http://qkqxzb.qingk.cn/live/sdtctv1.flv
-#EXTINF:-1 ,郯城二套
-http://qkqxzb.qingk.cn/live/sdtctv2.flv
-#EXTINF:-1 ,五莲新闻综合
-http://qkqxzb.qingk.cn/live/wltvsjt001.flv
-#EXTINF:-1 ,五莲文化旅游
-http://qkqxzb.qingk.cn/live/wltvsjt002.flv
-#EXTINF:-1 ,夏津综合
-http://qkqxzb.qingk.cn/live/xjzh.flv
-#EXTINF:-1 ,夏津公共
-http://qkqxzb.qingk.cn/live/xjgg.flv
-#EXTINF:-1 ,郓城新闻综合
-http://24tl.qingk.cn/live/yctv1.flv
-#EXTINF:-1 ,郓城民生综艺
-http://24tl.qingk.cn/live/yctv2.flv
-#EXTINF:-1 ,周村TV-1
-http://24tl.qingk.cn/live/zhoucuntv1.flv
-#EXTINF:-1 ,周村TV-2
-http://24tl.qingk.cn/live/zhoucuntv2.flv
-#EXTINF:-1 ,张店一套
-http://qkqxzb.qingk.cn/live/zbtv1.flv
-#EXTINF:-1 ,张店二套
-http://qkqxzb.qingk.cn/live/zbtv2.flv
-#EXTINF:-1 ,乳山新闻综合
-http://24tl.qingk.cn/live/rstv1.flv
-#EXTINF:-1 ,乳山生活
-http://24tl.qingk.cn/live/rstv2.flv
-#EXTINF:-1 ,长岛综合
-http://24tl.qingk.cn/live/ytcdzh.flv
-#EXTINF:-1 ,河东综合
-http://qkqxzb.qingk.cn/live/linjinghedongtai2.flv
-#EXTINF:-1 ,河东影视
-http://qkqxzb.qingk.cn/live/linjinghedongtai1.flv
-#EXTINF:-1 ,诸城新闻综合
-http://qkqxzb.qingk.cn/live/zctvxw.flv
-#EXTINF:-1 ,生活娱乐
-http://qkqxzb.qingk.cn/live/zctvyl.flv
-#EXTINF:-1 ,牡丹电视台一套
-http://qkqxzb.qingk.cn/live/mdqtv1.flv
-#EXTINF:-1 ,牡丹电视台二套
-http://qkqxzb.qingk.cn/live/mdqtv2.flv
-#EXTINF:-1 ,定陶新闻
-http://24tl.qingk.cn/live/dtxwtv.flv
-#EXTINF:-1 ,东明新闻综合
-http://24tl.qingk.cn/live/dmtv1.flv
-#EXTINF:-1 ,东营区新闻综合
-http://24tl.qingk.cn/live/dyqtvch1.flv
-#EXTINF:-1 ,东营区科教影视
-http://24tl.qingk.cn/live/dyqtvch2.flv
-#EXTINF:-1 ,历城新闻
-http://qkqxzb.qingk.cn/live/lcxwpd.flv
-#EXTINF:-1 ,历城影视
-http://qkqxzb.qingk.cn/live/lcyspd.flv
-#EXTINF:-1 ,齐河新闻
-http://qkqxzb.qingk.cn/live/qhtv01.flv
-#EXTINF:-1 ,齐河党建
-http://qkqxzb.qingk.cn/live/qhtv02.flv
-#EXTINF:-1 ,河南都市台
-http://player.200877926.top/18/tv.php?tv=hayx&id=82
-#EXTINF:-1 ,新郑综合
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 ,中牟综合
-http://live.dxhmt.cn:9081/tv/10122-1.m3u8
-#EXTINF:-1 ,焦作综合
-http://218.29.208.43:90/hls/pd1.m3u8
-#EXTINF:-1 ,焦作公共
-http://218.29.208.43:90/hls/pd2.m3u8
-#EXTINF:-1 ,焦作教育
-http://218.29.208.43:90/hls/pd3.m3u8
-#EXTINF:-1 ,焦作晴彩
-http://218.29.208.43:90/hls/pd4.m3u8
-#EXTINF:-1 ,沁阳综合
-http://live.qinyangtv.com/channel1/sd/live.m3u8
-#EXTINF:-1 ,沁阳文化旅游
-http://live.qinyangtv.com/channel2/sd/live.m3u8
-#EXTINF:-1 ,新密新闻
-http://qkqxzb.qingk.cn/live/xinmixinwenzonghe.flv
-#EXTINF:-1 ,宝丰一套
-http://qkqxzb.qingk.cn/live/baofeng1.flv
-#EXTINF:-1 ,宝丰二套
-http://qkqxzb.qingk.cn/live/baofeng2.flv
-#EXTINF:-1 ,宝丰党建
-http://qkqxzb.qingk.cn/live/baofeng3.flv
-#EXTINF:-1 ,汝州新闻
-http://24tl.qingk.cn/live/rzxwtv.flv
-#EXTINF:-1 ,汝州生活
-http://24tl.qingk.cn/live/rzshtv.flv
-#EXTINF:-1 ,汝州文娱
-http://24tl.qingk.cn/live/rzkltv.flv
-#EXTINF:-1 ,汝州党建
-http://24tl.qingk.cn/live/rzdjtv.flv
-#EXTINF:-1 ,信阳新闻综合
-http://qkqxzb.qingk.cn/live/xytv02.flv
-#EXTINF:-1 ,信阳公共
-http://qkqxzb.qingk.cn/live/xytv01.flv
-#EXTINF:-1 ,睛彩信阳
-http://qkqxzb.qingk.cn/live/xytv03.flv
-#EXTINF:-1 ,信阳狮河
-http://qkqxzb.qingk.cn/live/xytv05.flv
-#EXTINF:-1 ,信阳平桥
-http://qkqxzb.qingk.cn/live/xytv06.flv
-#EXTINF:-1 ,西华综合频道
-http://38472.hlsplay.aodianyun.com/tv_radio_38472/tv_channel_796.m3u8
-#EXTINF:-1 ,建安电视台
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 ,孟州电视台
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 ,罗山电视台
-http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1 ,沈丘新闻综合
-http://qkqxzb.qingk.cn/live/sqxwzh.flv
-#EXTINF:-1 ,沈丘经济生活
-http://qkqxzb.qingk.cn/live/sqjjsh.flv
-#EXTINF:-1 ,荥阳新闻
-http://qkqxzb.qingk.cn/live/xyzh1.flv
-#EXTINF:-1 ,荥阳公共
-http://qkqxzb.qingk.cn/live/xyggpd.flv
-#EXTINF:-1 ,荥阳影视
-http://qkqxzb.qingk.cn/live/xyyspd.flv
-#EXTINF:-1 ,陕西卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225850/1.m3u8
-#EXTINF:-1 ,镇安电视台
-http://qkqxzb.qingk.cn/live/zatv-1.flv
-#EXTINF:-1 ,旬阳新闻综合
-http://24tl.qingk.cn/live/xytv2.flv
-#EXTINF:-1 ,旬阳民生文化
-http://24tl.qingk.cn/live/xytv1.flv
-#EXTINF:-1 ,蓝田综合
-http://qkqxzb.qingk.cn/live/ltzh.flv
-#EXTINF:-1 ,宝鸡综合
-http://qkqxzb.qingk.cn/live/bjtvzh.flv
-#EXTINF:-1 ,宝鸡经济
-http://qkqxzb.qingk.cn/live/bjtvjj.flv
-#EXTINF:-1 ,宝鸡文艺
-http://qkqxzb.qingk.cn/live/bjtvwm.flv
-#EXTINF:-1 ,礼泉新闻
-http://24tl.qingk.cn/live/lqxw.flv
-#EXTINF:-1 ,礼泉果乡
-http://24tl.qingk.cn/live/lqgx.flv
-#EXTINF:-1 ,铜川新闻综合
-http://24tl.qingk.cn/live/tctv1.flv
-#EXTINF:-1 ,铜川文化娱乐
-http://24tl.qingk.cn/live/tctv2.flv
-#EXTINF:-1 ,延安综合
-http://24tl.qingk.cn/live/yatv.flv
-#EXTINF:-1 ,延安公共
-http://24tl.qingk.cn/live/yatv2.flv
-#EXTINF:-1 ,宝塔电视台
-http://24tl.qingk.cn/live/bttv.flv
-#EXTINF:-1 ,安徽卫视
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 ,宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 ,长丰新闻综合
-http://218.23.114.19:1935/live/xinwen/playlist.m3u8
-#EXTINF:-1 ,长丰生活影院
-http://218.23.114.19:1935/live/yingshi/playlist.m3u8
-#EXTINF:-1 ,东至新闻综合
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 ,青阳电视一套
-http://111.38.103.210:1935/live/yitao/playlist.m3u8
-#EXTINF:-1 ,青阳电视二套
-http://111.38.103.210:1935/live/ertao/playlist.m3u8
-#EXTINF:-1 ,凤台综合频道
-http://60.175.115.119:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 ,凤台文化生活
-http://60.175.115.119:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 ,芜湖县新闻综合
-http://220.178.172.47:8090/live/ch0.m3u8
-#EXTINF:-1 ,芜湖县影视频道
-http://220.178.172.47:8090/live/ch1.m3u8
-#EXTINF:-1 ,浙江卫视
-http://yf-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=7e9de3ece952fb82ea1cfe50b0c86431&t=1577116852
-#EXTINF:-1 ,浙江钱江
-http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
-#EXTINF:-1 ,浙江经视生活
-http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 ,浙江教育科技
-http://yf-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8?k=081fd5478f77ca96d036894bd58f31f7&t=1577153579
-#EXTINF:-1 ,浙江影视娱乐
-http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
-#EXTINF:-1 ,浙江6套
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
-#EXTINF:-1 ,浙江公共频道
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
-#EXTINF:-1 ,浙江少儿频道
-http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-#EXTINF:-1 ,浙江留学频道
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
-#EXTINF:-1 ,浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel
 
+#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="NEWs" tvg-id="antvhd" tvg-name="ANTV HD" tvg-logo="https://i.ibb.co/SvMhMCW/ANTV-TV.png",An ninh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="NEWs" tvg-id="htvcfbnc" tvg-name="HTVC FBNC" tvg-logo="https://i.ibb.co/Rz47XbX/FBNC-TV.png",FBNC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="NEWs" tvg-id="qpvnhd" tvg-name="QPVN HD" tvg-logo="https://i.ibb.co/qnd1yNH/QPVN-TV.png",Quốc phòng Việt Nam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="NEWs" tvg-id="quochoi" tvg-name="Quốc Hội" tvg-logo="https://i.ibb.co/5j6XfTr/QUOCHOI-TV.png",Quốc Hội
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#http://113.191.251.90:1935/live/quochoitvlive.stream_360p/chunklist_w1809032196.m3u8
+https://live-vthcm.vieon.vn:443/htv_drm/live/quoc_hoi/TV_HD/quoc_hoi_1080p/chunks.m3u8?byHThanh
+
+#EXTINF:-1 group-title="NEWs" tvg-id="VOVTV" tvg-name="VOVTV" tvg-logo="https://i.ibb.co/zFZDWbh/VOV-TV.png",VOV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="NEWs" tvg-id="nhandan" tvg-name="Nhân Dân" tvg-logo="https://i.ibb.co/g3Wr53V/NHAN-DAN-TV.png",NHÂN DÂN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+
+#EXTINF:-1 group-title="NEWs" tvg-id="VNews" tvg-name="VNews" tvg-logo="https://i.ibb.co/TvJbNRw/V-NEWS-TV.png",TTXVN- VNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="CARTOON" tvg-id="animaxhd" tvg-name="Animax HD" tvg-logo="https://i.ibb.co/25Z8kSx/Animax-TV.png",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="CARTOON" tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/7V1dx9t/Boomerang-TV.png",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="CARTOON" tvg-id="babyfirst" tvg-name="Baby First" tvg-logo="https://i.ibb.co/X3KLc64/Baby-First-TV.png",Baby First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="CARTOON" tvg-id="cartoonhd" tvg-name="Cartoon Network HD" tvg-logo="https://i.ibb.co/Y3Y1hkC/Cartoon-Network-TV.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist_b250000.m3u8
+
+#EXTINF:-1 group-title="CARTOON" tvg-id="cbeebies" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/N2X8byK/CBeebies-TV.png",Cbeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="CARTOON" tvg-id="disney" tvg-name="Disney Channel HD" tvg-logo="https://i.ibb.co/cC4cB1h/Disney-Channel-TV.png",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://thanhfpt.duckdns.org:4567/rtp/232.84.2.143:10678
+#http://iptvh.it/cocadisney
+
+#EXTINF:-1 group-title="CARTOON" tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/V3Kww3L/Disney-Junior-TV.png",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.90:10398
+#http://iptvh.it/cocajunior
+
+
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://i.ibb.co/cLn9GBn/HTV1-TV.png",|Thông tin công cộng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv2hd" tvg-name="HTV2 HD" tvg-logo="https://i.ibb.co/DffSMNJ/HTV2-TV.png",|Giải trí tổng hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#https://chungxda.github.io/m3u8/VieON/HTV2VieChannel.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://i.ibb.co/q95yWQ7/HTV3-TV.png",|Thiếu nhi & Gia đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvkey" tvg-name="HTV Key" tvg-logo="https://i.ibb.co/84yYn38/HTVKey-TV.png",|Kiến thức
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv7hd" tvg-name="HTV7 HD" tvg-logo="https://i.ibb.co/y6GymTP/HTV7-TV.png",|Giải trí tổng hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-name="HTV9 HD" tvg-logo="https://i.ibb.co/4TqTtnM/HTV9-TV.png",|Giải trí tổng hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd" tvg-name="HTV Thể Thao HD" tvg-logo="https://i.ibb.co/CMWbT2Y/HTV-the-thao.png",|Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhạc HD" tvg-logo="https://i.ibb.co/hct7WJm/htvc-ca-nhac-TV.png",|Âm nhạc Tổng hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvcdulichhd" tvg-name="HTVC Du Lịch HD" tvg-logo="https://i.ibb.co/mXsK0xX/HTVC-dulich-TV.png",|Du Lịch-Cuộc Sống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình HD" tvg-logo="https://i.ibb.co/ZMGD0FT/HTVC-Gia-dinh-TV.png",|Gia Đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" tvg-logo="https://i.ibb.co/pz8Qf49/HTVC-PHIM-TV.png",|Phim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+#https://live-vthcm.vieon.vn/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ HD" tvg-logo="https://i.ibb.co/4KRF9G0/HTVC-PHU-NU-TV.png",|Phụ Nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvcplushd" tvg-name="HTVC Plus HD" tvg-logo="https://i.ibb.co/Tg2h0W3/htvc-plus-TV.png",|Giải trí tổng hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvcthuanviet" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.ibb.co/bP3k17Z/HTVC-THUAN-VIET-TV.png",|Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="HTVCVGSShop" tvg-name="HTVC_VGSShop" tvg-logo="https://i.ibb.co/K2f2ksm/vgsshop-TV.png",|VGS SHOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://live-vthcm.vieon.vn/htv_drm/live/htvc_mua_sam_tieu_dung/TV_HD/htvc_mua_sam_tieu_dung_480p/chunks.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="HTV" tvg-id="HTVCoop" tvg-name="HTVCoop" tvg-logo="https://i.ibb.co/L1ds7Sf/HTVCoop-TV.png",|HTV CO.OP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://live-vthcm.vieon.vn/htv_drm/live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.ibb.co/5Y7tgr0/VTV1-HD.png",|Thời sự - Chính trị
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://i.ibb.co/5Fcv9z1/VTV2-HD.png",|Khoa học - Giáo dục
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://i.ibb.co/sFrXz76/VTV3-HD.png",|Giải trí tổng hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://i.ibb.co/5FH1Sms/VTV4-HD.png",|Đối ngoại quốc gia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://i.ibb.co/3rwWbWw/VTV5-HD.png",|Dân tộc thiểu số
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://i.ibb.co/BwqV4sR/VTV6-HD.png",|Thanh thiếu niên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv7hd " tvg-name="VTV7 HD" tvg-logo="https://i.ibb.co/vkYm6h3/VTV7-HD.png",|Giáo dục quốc gia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VTVGo/vtv7vtvgo.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://i.ibb.co/2ZZCHc6/VTV8-HD.png",|Miền Trung - Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://i.ibb.co/d2sxyws/VTV9-HD.png",|Nam Bộ
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc1hd" tvg-name="VTC1 HD" tvg-logo="https://i.ibb.co/Z8DPG89/VTC1-TV.png",|Thời sự-Chính trị
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://i.ibb.co/5YJjCTq/VTC2-TV.png",|Khoa học-Công nghệ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vct3hd" tvg-name="VTC3 HD" tvg-logo="https://i.ibb.co/n6Bvczv/VTC3-TV.png",|ON Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc4hd" tvg-name="VTC4 HD" tvg-logo="https://i.ibb.co/kgWT9jK/VTC4TV.png",|Yeah1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc5hd" tvg-name="VTC5 HD" tvg-logo="https://i.ibb.co/qJb5fm6/VTC5-TV.png",|Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc6hd" tvg-name="VTC6 HD" tvg-logo="https://i.ibb.co/6sh7xDS/VTC6-TV.png",|Thông tin-Giải trí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc7hd" tvg-name="VTC7 HD" tvg-logo="https://i.ibb.co/Cm4vfTy/VTC7-TV.png",|TodayTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://i.ibb.co/3znzJP6/VTC8-TV.png",|ViTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc9hd" tvg-name="VTC9 HD" tvg-logo="https://i.ibb.co/GtYncwd/VTC9-TV.png",|Thông tin-Giải trí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc10hd" tvg-name="VTC10 HD" tvg-logo="https://i.ibb.co/LkLRTPc/VTC10-TV.png",|NetViet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc11" tvg-name="VTC11 - Kids & Family TV" tvg-logo="https://i.ibb.co/PgXQ5Fb/VTC11-TV.png",|Kids & Family TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="VTC12" tvg-name="VTC12" tvg-logo="https://i.ibb.co/KXhyQSx/VTC12-TV.png",|VTCK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc13hd" tvg-name="VTC13 HD" tvg-logo="https://i.ibb.co/H4vSKbT/VTC13-TV.png",|Cuộc sống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc14hd" tvg-name="VTC14 HD" tvg-logo="https://i.ibb.co/D8hSSKB/VTC14-TV.png",|Thời tiết-Môi trường & Đời sống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://i.ibb.co/9GGnYGK/VTC16-TV.png",|Nông nghiệp-Nông thôn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+
+
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="axnhd" tvg-name="AXN HD" tvg-logo="https://i.ibb.co/bBTSt0g/AXN-TV.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="blueantent" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://i.ibb.co/SQDcF3f/Blue-ant-entertainment.png",Blue Ant Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 group-title="MOVIE" tvg-id="cinemaxhd" tvg-name="Cinemax HD" tvg-logo="https://i.ibb.co/pdPmkYm/cinemax-TV.png",CINEMAX
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+#http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+http://iptvh.it/cocahbomax
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="cinemaworldhd" tvg-name="Cinema World HD" tvg-logo="https://i.ibb.co/0QH1vHg/Cinema-world-TV.png",Cinema World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="CelestialMovies" tvg-name="CelestialMovies" tvg-logo="https://i.ibb.co/FsmgXmZ/celestial-movies-TV.png",Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="foxhd" tvg-name="Fox HD" tvg-logo="https://i.ibb.co/bNXDsZX/FOX-TV.png",FOXHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="foxfamilymovieshd" tvg-name="Fox Family Movies HD" tvg-logo="https://i.ibb.co/k60tcwN/Fox-Family-Movies-TV.png",FOX FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="foxmovieshd" tvg-name="Fox Movies HD" tvg-logo="https://i.ibb.co/wZH0Jks/Fox-Movies-TV.png",FOX Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="foxlifehd" tvg-name="Fox Life HD" tvg-logo="https://i.ibb.co/4gF7wqb/FOX-Life-TV.png",FOXLife
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+
+#EXTINF:0 group-title="MOVIE" tvg-id="hbohd-asia" tvg-name="HBO HD Asia" tvg-logo="https://i.ibb.co/6mB6gCT/hbo-TV.png",HBO Asia
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+http://iptvh.it/cocahbo
+
+#EXTINF:0 group-title="MOVIE" tvg-id="hbofamilyhd-asia" tvg-name="HBO Family HD Asia" tvg-logo="https://i.ibb.co/LY2K7bJ/HBO-Family-TV.png",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+
+#EXTINF:0 group-title="MOVIE" tvg-id="hbosignaturehd-asia" tvg-name="HBO Signature HD Asia" tvg-logo="https://i.ibb.co/ChNbwXG/HBO-Signature-TV.png",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+
+#EXTINF:0 group-title="MOVIE" tvg-id="hbohitshd-asia" tvg-name="HBO Hits HD Asia" tvg-logo="https://i.ibb.co/0jnct9B/HBOHits-TV.png",HBO Hits(🇬🇧)
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+#http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="kix" tvg-name="KIX HD" tvg-logo="https://i.ibb.co/pnvrfbB/KIX-HD-TV.png",KIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="paramounthd" tvg-name="Paramout HD" tvg-logo="https://i.ibb.co/YZGJdFw/paramount-network-TV.png",Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="redbyhbohd" tvg-name="Red By HBO HD" tvg-logo="https://i.ibb.co/0Y4XhdJ/Red-by-HBO-TV.png",Red by HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
+http://iptvh.it/cocahbored
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="warnertvhd" tvg-name="Warner TV HD" tvg-logo="https://i.ibb.co/cgmrqjR/Warner-Channel-TV.png",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
+#EXTINF:0 group-title="MOVIE" tvg-id="&Flix" tvg-name="&Flix" tvg-logo="https://i.ibb.co/QjzPS79/flix.png",&FlixHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="&Privé" tvg-name="&Privé" tvg-logo="https://i.ibb.co/xzFCRhF/Priv-HD.png",&Privé
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="TVXX1BEK" tvg-name="TVXX1ВЕК" tvg-country="RU" tvg-language="" tvg-logo="https://i.ibb.co/m0NVgkC/TV-XXI-TV.png",TV XX1 ВЕК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+
+#EXTINF:0 group-title="MOVIE" tvg-id="vtvcab2hd" tvg-name="VTVCab2 HD - Phim Việt" tvg-logo="https://i.ibb.co/hg8nL6C/phimviet-TV.png",VTVCab2-Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://s3.nihontv.net:21585/vtvcab2/index.m3u8
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
+
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="1HDMusicTelevision" tvg-name="1HDMusicTelevision" tvg-country="RU" tvg-language="" tvg-logo="https://i.ibb.co/cJW2bPr/1hd.png",1HD Music Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#https://sc.id-tv.kz/1hd_34_35.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="30ATVMusic" tvg-name="30ATVMusic" tvg-logo="https://i.ibb.co/yXsqq8G/30A-TV.png",30A TV | Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://30a-tv.com/music.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="CMC" tvg-name="CMC" tvg-country="US" tvg-logo="https://i.ibb.co/jrF6hWt/California-Music-Channel-TV.png",California Music Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="channelvhd" tvg-name="Channel V HD" tvg-logo="https://i.ibb.co/86BJmgX/Channel-V.png",Channel V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="ChannelVcn" tvg-name="ChannelVCn" tvg-logo="https://i.ibb.co/QFVNTFN/channel-v-china-TV.png",Channel V| China
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="ChaulaTV" tvg-name="ChaulaTV" tvg-logo="https://i.ibb.co/Zcbhx9j/Chaula-TV.png",Chaula TV (LAT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="BoxHits" tvg-name="BoxHits" tvg-logo="https://i.ibb.co/8mm71G5/Box-Hits-TV.png",Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="FirstMusicChannel" tvg-name="FirstMusicChannel" tvg-logo="https://i.ibb.co/92TpB4Y/1mus-TV.png",First Music Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://rtmp.one.by:1300
+
+#EXTINF:0 group-title="MUSIC" tvg-id="KissTV" tvg-name="KissTV" tvg-logo="https://i.ibb.co/x6bws49/Kiss-TV.png",Kiss TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w498160436_b1600000.m3u8?publisher=83
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="MusicChannel" tvg-name="MusicChannel" tvg-logo="https://i.ibb.co/xg6hsKR/music-channel-TV.png",Music Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w2022642642.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="mtvhd" tvg-name="MTV HD" tvg-logo="https://i.ibb.co/PWvh966/mtv-logo-TV.png",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#http://27.67.64.69:18080//31_2.m3u8?AdaptiveType=HLS&SessionID=f4d29e31-cc5a-4dee-a430-c2405d807999&MinBw=0&MaxBw=2000000
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="MTVYo" tvg-name="MTVYo" tvg-logo="https://i.ibb.co/74x5xbj/MTV-TV.png",MTV Yo!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="MTVBiggestPop" tvg-name="MTVBiggestPop" tvg-logo="https://i.ibb.co/PWvh966/mtv-logo-TV.png",MTV Biggest Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="MTVBlockParty" tvg-name="MTVBlockParty" tvg-logo="https://i.ibb.co/74x5xbj/MTV-TV.png",MTV Block Party
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="MTVSpankinNew" tvg-name="MTVSpankinNew" tvg-logo="https://i.ibb.co/PWvh966/mtv-logo-TV.png",MTV Spankin' New
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="MTVWMA" tvg-name="MTVWMA" tvg-logo="https://i.ibb.co/74x5xbj/MTV-TV.png",MTV WMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="RuTv" tvg-name="RuTv" tvg-country="US" tvg-logo="https://i.ibb.co/SnfcBkH/rutv-TV.png",RU.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+
+#EXTINF:0 group-title="MUSIC" tvg-id="VivaTV" tvg-name="VivaTV" tvg-logo="https://i.ibb.co/jGkS2mS/Viva-TV.png",VIVA TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
+
+
+#EXTINF:-1 group-title="WORLD" tvg-id="animalhd" tvg-name="Animal Planet HD" tvg-logo="https://i.ibb.co/PmDFnbb/Animal-Planet-TV.png",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 Group-title="WORLD" tvg-id="abcaustralia" tvg-name="ABC Australia" tvg-logo="https://i.ibb.co/JmrThrX/ABC-Australia-TV.png",ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="afnhd" tvg-name="AFN HD" tvg-logo="https://i.ibb.co/vjGZf1y/AFN-TV.png",Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="blueantext" tvg-name="Blue Ant Extreme HD" tvg-logo="https://i.ibb.co/MBGdmdR/Blue-ant-extreme.png",Blue Ant Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="bbcearth" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/BLGqT51/BBC-Earth.png",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="bbclifestyle" tvg-name="BBC Life Style" tvg-logo="https://i.ibb.co/kgg0spD/BBC-Life-Style-TV.png",BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="bbcworldnews" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/5hFtjD1/bbc-world-news-TV.png",BBC World News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="BeautyIQ" tvg-name="BeautyIQ" tvg-country="US" tvg-logo="https://i.ibb.co/M2s9YWN/Beauty-IQ-TV.png",BeautyIQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/index_2500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="WORLD", tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/MDv4hYF/Bloomberg-TV.png",Bloomberg TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.ibb.co/54hjJN6/Channel-News-Asia-TV.png",Channel News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="cnn" tvg-name="CNN" tvg-logo="https://i.ibb.co/0yBr6XK/CNNlogobyvovanloc.png",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="discoveryhd" tvg-name="Discovery Channel HD" tvg-logo="https://i.ibb.co/YRbY5fh/Discovery-Channel-TV.png",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="discoveryasiahd" tvg-name="Discovery Asia HD" tvg-logo="https://i.ibb.co/6Y0nM95/Discovery-Asia-TV.png",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="davinci" tvg-name="DaVinci HD" tvg-logo="https://i.ibb.co/fY9r7Rq/Da-Vinci-TV.png",DaVinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="france24eng" tvg-name="France 24 English" tvg-logo="https://i.ibb.co/y828g8Z/France24-TV.png",France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 group-title="WORLD" tvg-id="GlobalNews" tvg-name="GlobalNews" tvg-logo="https://i.ibb.co/8XBLdL1/Global-News-TV.png",Global News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://i.ibb.co/dJk2DFR/HGTV-TV.png",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+
+#EXTINF:-1 group-title="WORLD" tvg-id="IDG" tvg-name="IDG" tvg-logo="https://i.ibb.co/FwgK4F1/IDG-TV.png",IDG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://i.ibb.co/MgXTXhS/love-nature-TV.png",Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="NASA" tvg-name="NASA" tvg-logo="https://i.ibb.co/WPBR32Y/nasa-TV.png",NASA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="ngchd" tvg-name="National Geographic HD" tvg-logo="https://i.ibb.co/ZVcWpgx/National-Geographic-TV.png",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="ngwhd" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.ibb.co/YtZJFTp/Nat-Geo-Wild-TV.png",National Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="NewsMax" tvg-name="NewsMax" tvg-logo="https://i.ibb.co/vPtZWgn/Newsmax-channel-TV.png",NewsMax TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:0 group-title="WORLD", tvg-id="OneAmericanNews" tvg-name="OneAmericanNews" tvg-logo="https://i.ibb.co/MNBF94c/OAN-TV.png",One American News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="outdoorhd" tvg-name="Outdoor Channel HD" tvg-logo="https://i.ibb.co/BCgNHZ4/Outdoor-Channel-TV.png",Outdoor Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 group-title="WORLD" tvg-id="RussiaToday" tvg-name="RussiaToday" tvg-logo="https://i.ibb.co/3Rm2wjy/Russia-today-TV.png",Russia Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="TV5Monde" tvg-name="TV5Monde" tvg-logo="https://i.ibb.co/6FNsBXN/TV5-Monde-TV.png",TV5 Monde Asie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.ibb.co/8jdsvgT/KBS-World-TV.png",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.ibb.co/1M8C71R/Arirang-TV.png",Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="https://i.ibb.co/GPfTTZt/NHKWorld-TV.png",NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="TVAsahi" tvg-name="TVAsahi" tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png",TV Asahi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://203.162.235.41:16906
+
+#EXTINF:-1 group-title="WORLD" tvg-id="NipponTV" tvg-name="NipponTV" tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png",Nippon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://203.162.235.41:16905
+
+#EXTINF:-1 group-title="WORLD" tvg-id="TBSTV" tvg-name="TBSTV" tvg-logo="https://i.ibb.co/WfZdQ4z/tbs-new-TV.png",TBS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://203.162.235.41:16907
+
+
+
+#EXTINF:-1 group-title="FASHION" tvg-id="A3BIKINI" tvg-name="A3Bikini" tvg-logo="https://i.ibb.co/rQ9wYdw/A3BIKINI.png",A3BIKINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:0 group-title="FASHION" tvg-id="DarcizzleOffshore" tvg-name="DarcizzleOffshore" tvg-logo="https://i.ibb.co/NWby6mR/Darcizzle-Offshore-TV.png",Darcizzle Offshore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="HDFashion" tvg-name="HDFashion" tvg-country="US" tvg-logo="https://i.ibb.co/Gd1jJ8X/hdfashion-TV.png",Fashion&Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="FashionTelevision.us" tvg-logo="https://i.ibb.co/vVwZ4Bp/Fashion-Television-TV.png",Fashion Television
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="fashionhd" tvg-name="Fashion TV HD" tvg-logo="https://i.ibb.co/VB16qFp/fashiontv-blue-TV.png",Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+#https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="FTV" tvg-name="FTV" tvg-logo="https://i.ibb.co/R2XWmf0/FTVunnamed-TV.png",FTV Czech&Slovak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="FTV" tvg-name="FTV" tvg-logo="https://i.ibb.co/NSB898M/Fashion-TV.png",FTV PG16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="FTVMidnite" tvg-name="FTVMidnite" tvg-logo="https://i.ibb.co/68sWfPz/FTVBikini-TV.png",FTV Midnite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="IDFashion.ua" tvg-logo="https://i.ibb.co/tMyB5n2/IDFashion.png",ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
+#EXTINF:0 group-title="FASHION", tvg-id="Jasmin.TV" tvg-name="Jasmin.TV" tvg-logo="https://i.ibb.co/7r9rkXp/Jasmin-TV.png",Jasmin.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+#http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="Kaloopy" tvg-name="Kaloopy" tvg-logo="https://i.ibb.co/k69W6Np/kaloopy-TV.png",Kaloopy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/b5f211e6-ad49-438e-bb0f-5a259a662179/2.m3u8
+https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/31c4d8ca-fdcb-47d9-8026-8d5fc3c7ada3/0.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="WFC" tvg-name="WFC" tvg-country="US" tvg-logo="https://i.ibb.co/tJ5L684/WFC-TV.png",World Fashion Rusia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="GlobalFashion.us" tvg-logo="https://i.ibb.co/pLSDTkn/Global-Fashion-Channel-TV.png",Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="Miami" tvg-name="Miami" tvg-country="US" tvg-logo="https://i.ibb.co/5WCDnMF/Miami-TV.png",MiamiTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+#https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+
+
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="BRVT" tvg-name="BRVT" tvg-logo="https://i.ibb.co/gZw9XQG/brvttvlogobyvovanloc.png",Bà Rịa Vũng Tàu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="BenTre" tvg-name="BenTre" tvg-logo="https://i.ibb.co/VD65KyL/bentretvlogobyvovanloc.png",Bến Tre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="binhduong1" tvg-name="Bình Dương 1" tvg-logo="https://i.ibb.co/wNmr22m/BTV1logobyvovanloc.png",Bình Dương 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="binhduong2" tvg-name="Bình Dương 2" tvg-logo="https://i.ibb.co/10BZLKG/BTV2logobyvovanloc.png",Bình Dương 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="binhphuoc1" tvg-name="Bình Phước 1" tvg-logo="https://i.ibb.co/0f8bqzf/BPTV1logobyvovanloc.png",Bình Phước 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="binhphuoc2" tvg-name="Bình Phước 2" tvg-logo="https://i.ibb.co/LvCyhyB/Hom-TVlogobyvovanloc.png",Bình Phước 2-HOME TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="BinhThuan" tvg-name="BinhThuan" tvg-logo="https://i.ibb.co/cCmkn1r/binhthuantvlogobyvovanloc.png",Bình Thuận
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://202.43.109.142:1935/thbttv/bttv/chunklist_w536057527.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="CanTho" tvg-name="CanTho" tvg-logo="https://i.ibb.co/Kx7GQhx/TPcanthotvlogobyvovanloc.png",Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://mekongpassion.com/live/tv/chunklist_w453327460.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="DaNang1" tvg-name="DaNang1" tvg-logo="https://i.imgur.com/tFT2XlB.jpg",Đà Nẵng 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="DaNang2" tvg-name="BenTreDaNang2" tvg-logo="https://i.imgur.com/9LLBLSy.jpg",Đà Nẵng 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net:443/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="DongNai1" tvg-name="DongNai1" tvg-logo="https://i.ibb.co/tP4tkpT/dongnai1tvlogobyvovanloc.png",Đồng Nai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="DongNai2" tvg-name="DongNai2" tvg-logo="https://i.ibb.co/MSy09Y4/dongnai2tvlogobyvovanloc.png",Đồng Nai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="hanoi1" tvg-name="Hà Nội 1" tvg-logo="https://i.ibb.co/KXJY60J/Hanoi1logobyvovanloc.png",Hà Nội 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="hanoi2" tvg-name="Hà Nội 2" tvg-logo="https://i.ibb.co/dgqk70P/Hanoi2logobyvovanloc.png",Hà Nội 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="LamDong" tvg-name="LamDong" tvg-logo="https://i.ibb.co/sQFNSGq/lamdongtvlogobyvovanloc.png",Lâm Đồng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1501451279_b1384000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="LongAn" tvg-name="LongAn" tvg-logo="https://i.ibb.co/CJdkHF1/longantvlogobyvovanloc.png",Long An
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="TayNinh" tvg-name="TayNinh" tvg-logo="https://i.ibb.co/pvdnWvy/tayninhtvlogobyvovanloc.png",Tây Ninh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/sda/tayninhhd_2000.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="ThuaThienHue" tvg-name="ThuaThienHue" tvg-logo="https://i.ibb.co/Lgf6FS8/thuathienhuetvlogobyvovanloc.png",Thừa Thiên Huế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="TienGiang" tvg-name="TienGiang" tvg-logo="https://i.ibb.co/X7y9B50/tiengiangtvlogobyvovanloc.png",Tiền Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://thtg.vn:8001/stream_hi.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="TraVinh" tvg-name="TraVinh" tvg-logo="https://i.ibb.co/vvVm16D/travinhtvlogobyvovanloc.png",Trà Vinh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="vinhlong1hd" tvg-name="THVL1 HD" tvg-logo="https://i.ibb.co/X5f0WmH/THVL1logobyvovanloc.png",Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="vinhlong2hd" tvg-name="THVL2 HD" tvg-logo="https://i.ibb.co/8XjWcJT/THVL2logobyvovanloc.png",Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8"
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="vinhlong3hd" tvg-name="THVL3 HD" tvg-logo="https://i.ibb.co/sbJKS9Q/THVL3logobyvovanloc.png",Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="vinhlong4hd" tvg-name="THVL4 HD" tvg-logo="https://i.ibb.co/Lv2BffY/THVL4logobyvovanloc.png",Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+
+
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="VietMyNews" tvg-name="VietMyNews" tvg-logo="https://i.ibb.co/hRbrZG4/Viet-My-TV.png",Việt Mỹ News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fr-1.galaxyott.com/viettv24/streamer/luraco/luraco/luraco_4/chunks.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="LURACOTV" tvg-name="LURACOTV" tvg-logo="https://www.viettv24.com/main/images/luracotv_logo.jpg",LURACO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="VNATV" tvg-name="VNATV" tvg-logo="https://i.ibb.co/7Kpmvfg/vnatv573.png",Vietnam America TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fr-1.galaxyott.com/viettv24/streamer/vnatv/livevnatv/vnatv_2/chunks.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="VietGlobalMall" tvg-name="VietGlobalMall" tvg-logo="https://i.ibb.co/mGkMDyX/VGM-TV.png",Viet Global Mall
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fr-1.galaxyott.com/viettv24/streamer/vgmtv/livebl/vgmtv/chunks.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="VietTV24" tvg-name="VietTV24" tvg-logo="https://i.ibb.co/fxrYQRc/Viet-TV24-TV.png",VietTV24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fr-1.galaxyott.com/viettv24/streamer/vpoptv/liveChannel/vpoptv/chunks.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="USVTelevision" tvg-name="USVTelevision" tvg-logo="https://i.ibb.co/0XRhqMk/USVtelevision-TV.png",USV TV|Sài Gòn Xưa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fr-1.galaxyott.com/viettv24/streamer/vatv/liveChannel/vatv_3/chunks.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="SetTV" tvg-name="SetTV" tvg-logo="https://www.viettv24.com/main/images/luracotv_logo.jpg",SET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1885360669.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="SetTV2" tvg-name="SetTV2" tvg-logo="https://www.viettv24.com/main/images/SET2-logo.jpg",SET TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://5dcab9aed5331.streamlock.net/SET2/livestream/chunklist_w1506097795.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="VPopTV" tvg-name="VPopTV" tvg-logo="https://i.ibb.co/9bkrwY2/Vpop-TV.png",VPopTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://fr-1.galaxyott.com/viettv24/streamer/vpoptv/liveChannel/vpoptv/chunks.m3u8
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://4.bp.blogspot.com/-3dCXo13S9ZE/Wgjc-6SMz8I/AAAAAAAAMe4/3KKxD2mz8CouKzpUw8v3g-du0efUUjwigCLcBGAs/s1600/RFI.png",RFI VN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://live02.rfi.fr/rfienvietnamien-64.mp3
+#https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
+
+
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv1hd" tvg-name="SCTV1 HD" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png" type="stream",SCTV1| Hài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://vtsstr3.tv24.vn/elive/SCTV_HD_Hai_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
+http://vtsstr1.tv24.vn:1935/live/SCTV_HD_Hai_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv2hd" tvg-name="SCTV2 HD" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png" type="stream",SCTV2| AMC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://livecdn.fptplay.net/sda/sctv2_2000.stream/chunklist.m3u8
+http://vtsstr6.tv24.vn:1935/live/sctv2_HD_4/chunklist_w901294600.m3u8?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv3hd" tvg-name="SCTV3 HD" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png" type="stream",SCTV3| SEE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://vtsstr6.tv24.vn:1935/live/SCTVHDThieunhi_4/playlist.m3u8
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv4hd" tvg-name="SCTV4 HD" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png" type="stream",SCTV4| Giải Trí Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://vtsstr3.tv24.vn/elive1/SCTV_HD_GiaiTri_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv6hd" tvg-name="SCTV6 HD" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png" type="stream",SCTV6| SNTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://vtsstr3.tv24.vn/elive1/SCTV6HD_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv7hd" tvg-name="SCTV7 HD" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png" type="stream",SCTV7| Sân Khấu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://vtsstr3.tv24.vn/elive/SCTV_HD_SanKhau_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
+http://vtsstr6.tv24.vn:1935/live/SCTV_HD_SanKhau_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv8hd" tvg-name="SCTV8 HD" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png" type="stream",SCTV8| VITV Kinh Tế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://vtsstr6.tv24.vn:1935/live/SCTV8_SD_4/chunklist_w986885603.m3u8?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv9hd" tvg-name="SCTV9 HD" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png" type="stream",SCTV9| Phim TVB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#http://lvh9hi2tpd.vcdn.com.vn/hls/d17vduc/index.m3u8
+https://vtsstr3.tv24.vn/elive/SCTV_HD_PhimChauA_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv11hd" tvg-name="SCTV11 HD" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png" type="stream",SCTV11| STAR (Văn Hoá Nghệ Thuật)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://vtsstr6.tv24.vn:1935/live/SCTVVHNT_HD_4/chunklist_w266720275.m3u8?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv12hd" tvg-name="SCTV12 HD" tvg-logo="https://i.ibb.co/SKG7SMb/SCTV12-BEARTV.png" type="stream",SCTV12| Du Lịch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV12HD.m3u8
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv13hd" tvg-name="SCTV13 HD" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png" type="stream",SCTV13| Lady TV (Phụ nữ & Gia đình)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://vtsstr1.tv24.vn:1935/live/SCTVHDPhunuGiadinh_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv14hd" tvg-name="SCTV14 HD" tvg-logo="https://i.ibb.co/0YtfJK8/SCTV14-BEARTV.png" type="stream",SCTV 14| Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV14.m3u8
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv16hd" tvg-name="SCTV16 HD" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png" type="stream",SCTV16| Phim Nước Ngoài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://vtsstr6.tv24.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv17hd" tvg-name="SCTV17 HD" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png" type="stream",SCTV17| Ssport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/TV24/SCTV/SCTV17HD.m3u8
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv19hd" tvg-name="SCTV19 HD" tvg-logo="https://i.ibb.co/TwKfHGD/SCTV19-BEARTV.png" type="stream",SCTV19| Channel T
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://vtsstr6.tv24.vn:1935/live/SCTV19_HD_4/chucklist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv20hd" tvg-name="SCTV20 HD" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png" type="stream",SCTV20- Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://vtsstr6.tv24.vn:1935/live/SCTV20_HD_4/chucklist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks?byhthanh
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctvhdpth" tvg-name="SCTV HD Phim Tổng Hợp" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" type="stream",SCTV| Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8
+http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/chunklist.b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50?byhthanh
+
+
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-124 Anh Cho Em Mùa Xuân
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/u4m3oeggwq1o2bt/PBN124.mkv
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-123 Ảo Ảnh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/re218raga1h7pzw/PBN123.mkv
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-121 Song Ca Nhạc Vàng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/dhdqjmfpbo8wa7w/PBN21_720p.mkv
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-120 Còn Chút Gì Để Nhớ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-118 50 Năm Âm Nhạc Đức Huy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.youtube.com/watch?v=EI8oVmdK6r8
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-117 Vườn Hoa Âm Nhạc HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/fj56quupoqr5d4b/Paris_By_Night_117_Vuon_Hoa_Am_Nhac_2016_mHD_BluRay_DD2.0_x264-TRiM.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-116 Nụ Cười Đầu Năm HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-115 Nét Đẹp Á Đông HD 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/f922xg2xuh7y13w/blackbox-TN115.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-114 Tôi Là Người Việt Nam DVD-1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/24bca4rhxf197q3/TN114-DVD1.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-114 Tôi Là Người Việt Nam DVD-2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/tfooui5jcu33mi7/TN114-DVD2.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-114 Tôi Là Người Việt Nam DVD-3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/mhbs2g1vsc3r22g/TN114-DVD3.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-113 Mừng Tuổi Mẹ HD 720p(P1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/m1435e1p3d338jd/TN113-Part1.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-113 Mừng Tuổi Mẹ HD 720p(P2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/4ukpavn9e37vvc5/TN113-Part2.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-113 Mừng Tuổi Mẹ HD 720p(P3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/68ddqmdl2qy7mce/TN113-Part3.mp4
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-113 Mừng Tuổi Mẹ HD 720p(P4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://www.mediafire.com/download/78ggue2uoeggpjf/TN113-Part4.mp4
