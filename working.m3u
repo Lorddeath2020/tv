@@ -145,3 +145,11 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/77.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/25.m3u8
+#EXTINF:-1 tvg-id="CANAL PROMESSAS" tvg-name="CANAL PROMESSAS" tvg-logo="https://uploaddeimagens.com.br/images/002/080/431/full/PROMESSAS.png" group-title="CANAIS | RELIGIOSOS",CANAL PROMESSAS
+https://video01.kshost.com.br/gente8322/gente8322/chunklist_w1016045675.m3u8
+#EXTINF:-1 tvg-id=" CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-rural-logo.png" group-title="CANAIS | SINAL ABERTO",CANAL RURAL
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/chunklist_w32515918_b1685000_sleng.m3u8
+#EXTINF:-1 tvg-id="CANAL COMUNITÁRIO" tvg-name="CANAL COMUNITÁRIO" tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="CANAIS | VARIEDADES",CANAL COMUNITÁRIO
+https://596639ebdd89b.streamlock.net:443/8032/8032/chunklist_w901284008.m3u8
