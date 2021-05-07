@@ -119,3 +119,29 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8?
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8?
 #EXTINF:-1 tvg-id="ANIMETV" tvg-name="ANIMETV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CANAIS ABERTOS",ANIMETV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w589824130.m3u8
+#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://cdn.mitvstatic.com/channels/br_trutv-1_m.png" group-title="CANAIS | VARIEDADES",TRUTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/130.m3u8
+#EXTINF:-1 tvg-id="TRAVEL BOX BRASIL" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel-276x300.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/124.m3u8
+#EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="CANAIS | SINAL ABERTO",TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
+#EXTINF:-1 tvg-id="REDE GOSPEL" tvg-name="REDE GOSPEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_F_C_7R-fSH2nYbgPEUTOHAlLfY1uRYCMQ&usqp=CAU" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="CANAIS | RELIGIOSOS",REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w681546527.m3u8
+#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/150px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS | SINAL ABERTO",RECORD RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="PLAYKIDS" tvg-name="PLAYKIDS" tvg-logo="https://uploaddeimagens.com.br/images/001/623/085/full/Playkids.png" group-title="CANAIS | INFANTIS ",PLAYKIDS
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | INFANTIS ",PLAYBOY TV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="PAI ETERNO" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | ESPORTES",PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w369174169.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" group-title="CANAIS | INFANTIS ",NICKELODEON
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil_m.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/77.m3u8
+#EXTINF:-1 type="ESTÁDIO TNT SPORTS 2" tvg-id="ESTÁDIO TNT SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
