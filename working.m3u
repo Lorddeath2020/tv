@@ -162,4 +162,6 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",WOW! TV (720p)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",WOW! TV (720p)
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
