@@ -398,3 +398,5 @@ http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
 #EXTINF:-1 ,А1 Одесса
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:-1,Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
