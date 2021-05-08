@@ -376,3 +376,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
 #EXTINF: -1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png", RECORD-SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 ,112 Ukraine (Opt-1)
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 ,112 Украина
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
