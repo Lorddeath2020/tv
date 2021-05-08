@@ -1,31 +1,146 @@
 #EXTM3U
 
-#EXTINF: -1, tvg-logo =" http://i.imgur.com/NSHvLCe.png", GLOBO-RJ HD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF: -1, tvg-logo=" https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND-SP HD
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-#EXTINF: -1, tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png", RECORD-SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF: -1, tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", SBT-PÍ HD
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
-#EXTINF: -1, tvg-logo=" https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png", REDE TV-SP
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
-
-#EXTINF: -1 tvg-logo =" http://i.imgur.com/NSHvLCe.png", GLOBO-RJ HD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo=" https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND-SP HD
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-
-
-#EXTINF: -1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png", RECORD-SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-
-
-#EXTINF: -1 tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", SBT-PÍ HD
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
-
-
-#EXTINF: -1 tvg-logo=" https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png", REDE TV-SP
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
+#EXTINF:-1,BritAsia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1,Desi Channel (400p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1,Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1,Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1,MH1 Music (360p)
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1,MH1 Prime
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1,Global Punjab
+https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+#EXTINF:-1,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1,Sikh Channel
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1,Akaal TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1,GurSikh Sabha TV
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:-1,NAGARA TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1,Punjabi Zindaba
+,http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sangat Television
+https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+#EXTINF:-1,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sardari
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1,5aab
+http://158.69.124.9:1935/5aabtv/5aabtv/master.m3u8
+#EXTINF:-1,5aab Australia
+http://158.69.124.9:1935/5aabtv/5aabtvaus/playlist.m3u8
+#EXTINF:-1,5aab Gurbani
+http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
+#EXTINF:-1,5aab Music
+http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
+#EXTINF:-1,Baaz
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8
+#EXTINF:-1,Desi Channe
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1,Desi Channel
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1,Fast Way
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8
+#EXTINF:-1,Fast Way News
+http://163.47.214.155:1935/fwnews/live/chunklist.m3u8
+#EXTINF:-1,Gabruu
+https://livetv.gabruu.com/live/mgabruutv.m3u8
+#EXTINF:-1,Gabruu
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1,MH One Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1,Punjabi Linear
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,Punjabi Zindabad
+http://stream.pztv.online/pztv/index.m3u8
+#EXTINF:-1,Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1,SADHNA PLUS
+http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
+#EXTINF:-1,SubRang TV
+https://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,Subrang TV
+https://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,Sadhna
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:-1,DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1,Janta TV
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1,INDIA NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1,News 24 Inddia
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1,Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1,CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1,India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:-1,India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1,India Today
+https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
+#EXTINF:-1,India TV News
+https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
+#EXTINF:-1,NEWS 18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1,CNBC Awaaz
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+#EXTINF:-1,CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1,CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,92 News
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1,ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1,ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1,DD News
+http://bit.ly/2m4L4mi
+#EXTINF:-1,DD NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1,DD NEWS
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1,Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1,MATV
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
+#EXTINF:-1,NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
+#EXTINF:-1,NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1,NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+#EXTINF:-1,News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1,PRIME CANADA TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1,SWARAJ EXPRESS
+https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+#EXTINF:-1,Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1,KHABARAIN ABHI TAK
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/playlist.m3u8
+#EXTINF:-1,Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1,Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1,AMAR UJALA
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1,DUNYA NEWS
+https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+#EXTINF:-1,DUNYA NEWS
+https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
