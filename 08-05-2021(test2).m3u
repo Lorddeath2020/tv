@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0,GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 #EXTINF:0, BritAsia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 #EXTINF:0, Desi Channel (400p)
