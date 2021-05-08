@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF: 0, tvg-logo =" http://i.imgur.com/NSHvLCe.png", GLOBO-RJ HD
+#EXTINF: -1, tvg-logo =" http://i.imgur.com/NSHvLCe.png", GLOBO-RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF: 0, tvg-logo=" https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND-SP HD
+#EXTINF: -1, tvg-logo=" https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND-SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-#EXTINF: 0, tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png", RECORD-SP HD
+#EXTINF: -1, tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png", RECORD-SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF: 0, tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", SBT-PÍ HD
+#EXTINF: -1, tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", SBT-PÍ HD
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
-#EXTINF: 0, tvg-logo=" https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png", REDE TV-SP
+#EXTINF: -1, tvg-logo=" https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png", REDE TV-SP
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
