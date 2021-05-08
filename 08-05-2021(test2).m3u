@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, BritAsia TV
+#EXTINF:0, BritAsia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-#EXTINF:-1, Desi Channel (400p)
+#EXTINF:0, Desi Channel (400p)
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1, Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
