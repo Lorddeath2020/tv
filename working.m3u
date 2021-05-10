@@ -143,7 +143,7 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/77.m3u8
 #EXTINF:-1 type="ESTÁDIO TNT SPORTS 2" tvg-id="ESTÁDIO TNT SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 2
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="VERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
 #EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/25.m3u8
@@ -480,4 +480,27 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 https://itvorigin.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Hindi" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg" group-title="Infotainment",Discovery Hindi
 https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="kids" ,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Magic.jpg" group-title="kids" ,Big Magic
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="kids" ,Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="kids" ,Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="kids" ,Animax
+http://210.210.155.35/session/2c8f6ae4-24de-11eb-bca2-b2008dc64d25/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/306-3060218_aniplus-aniplus-logo-png.png" group-title="kids" ,ANI Plus
+http://210.210.155.35/dr9445/h/h02/02.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-f_IR7ugGcITN4N3SQd9Ve2llFxKhotM8zciWR8qDvkI_yfFCYJIsAgbmYACzfHSX7c&usqp=CAU" group-title="kids" ,TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
+#EXTINF:-1,75.TLC Hindi
+https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:-1,71.Animal Planet HD
+https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+#EXTINF:-1,71.Animal Planet
+https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
+#EXTINF:-1,63.Discovery Hindi
+https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1,National Geographic
+http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
