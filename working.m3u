@@ -564,3 +564,47 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Savoir" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="CANADA",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="PELICULAS",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="PELICULAS",Pelis Familiares
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="PELICULAS",Pelis de Accion
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="PELICULAS",Family Movies
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="PELICULAS",Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="PELICULAS",Action Movies 
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVMAS" tvg-logo="https://i.imgur.com/h8Fv80L.png" group-title="MEXICO",TVMAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://i.imgur.com/H716og6.jpg" group-title="MEXICO",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTQ Queretaro" tvg-logo="https://i.imgur.com/x9jcMwu.png" group-title="MEXICO",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCG 3 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="MEXICO",RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCG 2 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="MEXICO",RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MVM Noticias - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/dhLXN9n.png" group-title="MEXICO",MVM Noticias - github.com/Free-IPTV
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Monterrey" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Laguna" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Guadalajara" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/3vv7aoM.jpg" group-title="MEXICO",Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Catorce" tvg-logo="https://i.imgur.com/g46GRL2.jpg" group-title="MEXICO",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="COSTARICA",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="COSTARICA",HBTV TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="COSTARICA",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="COSTARICA",Anexion TV
+https://rtmp.info/anexiontv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-name="MULTIMEDIOS" tvg-id="mult.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title="COSTARICA",Canal 8 Multimedios
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
