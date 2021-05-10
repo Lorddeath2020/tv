@@ -400,3 +400,39 @@ http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
 #EXTINF:-1,Toronto 360 TV
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU" group-title="Sports",AD Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://i.imgur.com/ERFDaE4.png" group-title="Sports",AD Sports 3
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Racing" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="ext" tvg-name="Dubai Sport 1 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Dubai Sport 1 ʰᵈ
+http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Dubai Sport 2 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Dubai Sport 2 ʰᵈ
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Dubai Sport 3 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Dubai Sport 3 ʰᵈ
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC MASTI" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVJfMKRvghWP1ibjmaTUyx3POPieBt057RJes6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="MUZIK",MUSIC MASTI
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="1hdru" tvg-name="1HD Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic", 7XMusics
+https://m-c010-j2apps.s.llnwi.net/hls/8053.LifePunjabi.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian Bangla",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Indian Bangla",R Plus Gold
+https://itvorigin.multitvsolution.com:443/idvo/rplusgold_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHVXuV9y8nK3hM9pRkkkJZopJOf0iNzhnhkuOEFZStXk5l4WzawgNkUcToKHb1PH99GE&usqp=CAU" group-title="Indian Bangla",Orange Bangla
+https://orangedigital.livebox.co.in:443/Orangebanglahls/Orangebangla.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg" group-title="Indian Bangla",Enter 10 Bangla
+https://itvorigin.multitvsolution.com:443/idvo/enter10bangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",& picture
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", star gold
+https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music", i love
+https://ilove.livebox.co.in/wowinhls/live.m3u8
