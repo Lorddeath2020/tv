@@ -1,39 +1,40 @@
 #EXTM3U
-#EXTINF:-1,PNC Drama
+
+#EXTINF:-1, PNC Drama
 http://51.15.0.141:8080/panorama_drama/index.m3u8?token=test
-#EXTINF:-1,PNC Film
+#EXTINF:-1, PNC Film
 http://51.15.0.141:8080/panorama_film/index.m3u8?token=test
-#EXTINF:-1,ART CINEMA
+#EXTINF:-1, ART CINEMA
 http://51.15.0.141:8080/ART_CINEMA/index.m3u8?token=test
-#EXTINF:-1,Abu Dhabi Drama
+#EXTINF:-1, Abu Dhabi Drama
 http://51.15.0.141:8080/Abu_Dhabi_Drama/index.m3u8?token=test
-#EXTINF:-1,ART Aflam 1
+#EXTINF:-1, ART Aflam 1
 http://51.15.0.141:8080/ART_AFLAM_1/index.m3u8?token=test
-#EXTINF:-1,ART Aflam 2
+#EXTINF:-1, ART Aflam 2
 http://51.15.0.141:8080/ART_AFLAM_2/index.m3u8?token=test
-#EXTINF:-1,ART Hekayat 1
+#EXTINF:-1, ART Hekayat 1
 http://51.15.0.141:8080/ART_HIKAYAT_1/index.m3u8?token=test
-#EXTINF:-1,ART Hekayat 2
+#EXTINF:-1, ART Hekayat 2
 http://51.15.0.141:8080/ART_HIKAYAT_2/index.m3u8?token=test
-#EXTINF:-1,Star Cinema 2
+#EXTINF:-1, Star Cinema 2
 http://51.15.0.141:8080/Star_cinema2/index.m3u8?token=test
-#EXTINF:-1,Cima
+#EXTINF:-1, Cima
 http://51.15.0.141:8080/Cima/index.m3u8?token=test
-#EXTINF:-1,Nile Drama
+#EXTINF:-1, Nile Drama
 http://51.15.0.141:8080/Nile_Drama/index.m3u8?token=test
-#EXTINF:-1,Nile Cinema
+#EXTINF:-1, Nile Cinema
 http://51.15.0.141:8080/Nile_cinema/index.m3u8?token=test
-#EXTINF:-1,Nile Comedy
+#EXTINF:-1, Nile Comedy
 http://51.15.0.141:8080/Nile_Comedy/index.m3u8?token=test
-#EXTINF:-1,Nile Sport
+#EXTINF:-1, Nile Sport
 http://51.15.0.141:8080/Nile_Sport/index.m3u8?token=test
-#EXTINF:-1,Toktok Aflam
+#EXTINF:-1, Toktok Aflam
 http://51.15.0.141:8080/toktok_aflam/index.m3u8?token=test
-#EXTINF:-1,Al Nahar Drama
+#EXTINF:-1, Al Nahar Drama
 http://51.15.0.141:8080/Al_Nahar_Drama/index.m3u8?token=test
-#EXTINF:-1,Cairo Cinema
+#EXTINF:-1, Cairo Cinema
 http://51.15.0.141:8080/Cairo_Cinema/index.m3u8?token=test
-#EXTINF:-1,Al Nahar
+#EXTINF:-1, Al Nahar
 http://51.15.0.141:8080/Al_Nahar_Tv/index.m3u8?token=test
-#EXTINF:-1,Arabica TV
+#EXTINF:-1, Arabica TV
 http://51.15.0.141:8080/Arabica_TV/index.m3u8?token=test
