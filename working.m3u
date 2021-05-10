@@ -516,4 +516,51 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/watchitKid/logo_small.png" group-title="USA",Watch It Kid
 http://content-ausw2.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="ION PLUS" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="USA",ION PLUS
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/20iOLCX.png" group-title="USA",CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="USA",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WGN Chicago" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/lpaqfc.png" group-title="radio",WGN Chicago
+https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
+#EXTINF:-1 tvg-name="WABI 5 Maine" tvg-id="WABI 5" group-title="USA" tvg-logo="https://i.imgur.com/D8uMAuV.png",WABI 5 Maine
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
+#EXTINF:-1 tvg-name="WFTV 9 Orlando" tvg-id="WFTV" group-title="USA" tvg-logo="https://i.imgur.com/S3fqmWY.png",WFTV 9 Orlando
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX7FLORIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1280px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA",FOX7 FLORIDA
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PIX11 New York" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ehggbx.png" group-title="USA",PIX 11 New York
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 tvg-name="Tele Quebec" tvg-id="Tele Quebec" group-title="CANADA" tvg-logo="https://i.imgur.com/0ZmcpEE.png",Tele Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outside TV" tvg-logo="https://i.imgur.com/snuV96y.png" group-title="CANADA",Outside TV
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Motorvision" tvg-id="" tvg-logo="https://i.imgur.com/WPklHVE.jpg" group-title="CANADA",Motorvision
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
+#EXTINF:-1 tvg-name="ICI Tele HD" tvg-id="ICI Tele HD" group-title="CANADA" tvg-logo="https://i.imgur.com/byTTNAi.png",ICI Tele HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:-1 tvg-name="ICI RDI HD" tvg-id="ICI RDI HD" group-title="CANADA" tvg-logo="https://i.imgur.com/AI0PIzQ.png",ICI RDI HD
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-name="ICI Montreal" tvg-id="ICI Montreal" group-title="CANADA" tvg-logo="https://i.imgur.com/yqRhaZ1.png",ICI Montreal
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global Toronto" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="CANADA",Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global News National" tvg-logo="https://i.imgur.com/JIA7MUV.png" group-title="CANADA",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global Calgary" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="CANADA",Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="https://i.imgur.com/ViWbGmj.png" group-title="CANADA",Fuel TV
+https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Francophonie 24" tvg-id="Francophonie 24" group-title="CANADA" tvg-logo="https://i.imgur.com/8V1ZmJn.jpg",Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise True Crime" tvg-logo="https://i.imgur.com/8h66d9i.png" group-title="CANADA",Filmrise True Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise free movies" tvg-logo="https://i.imgur.com/UCmO5OK.jpg" group-title="CANADA",Filmrise free movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC News" tvg-logo="https://i.imgur.com/gxGGalE.jpg" group-title="CANADA",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/hfihtv.png" group-title="CANADA",CBC Toronto
+https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Savoir" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="CANADA",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
