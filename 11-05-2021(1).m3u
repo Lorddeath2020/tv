@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Региональные" tvg-id="Первый_канал" tvg-logo="http://epg.it999.ru/img/146.png", Первый канал
+http://5.137.38.239:1234/udp/225.54.205.129:5000
+# #EXTINF:0 tvg-id="Первый_канал" tvg-shift=5 tvg-logo="http://epg.it999.ru/img/983.png",Первый HD
+# http://langamepp.com/chtst/F4839A621D8BF89206ED7FC408B4BE0AC6B3AC5A29BB8442B93DCA1588640CDB7F53230A79D08AE76B9822
+#EXTINF:-1 aspect-ratio="16:9" audio-track-num=1 tvg-id="Первый_канал" tvg-logo="http://epg.it999.ru/img/983.png", Первый HD
+http://5.128.21.216:81/udp/239.1.15.20:1234
+#EXTINF:-1 aspect-ratio="16:9" audio-track-num=1 tvg-id="Россия_(Нск)" tvg-logo="http://epg.it999.ru/img/711.png", Россия 1
+http://5.137.43.65:1234/udp/225.54.205.130:5000
+#EXTINF:-1 tvg-id="НТВ_(Нск)" tvg-shift=0 tvg-logo="http://epg.it999.ru/img/162.png", НТВ
+http://5.137.38.239:1234/udp/225.54.205.132:5000
+#EXTINF:-1 tvg-id="Спорт" tvg-logo="http://epg.it999.ru/img/2051.png", Матч ТВ
+http://5.137.38.239:1234/udp/225.54.205.131:5000
+#EXTINF:-1 tvg-id="Петербург_-_5_канал" tvg-logo="http://epg.it999.ru/img/427.png", Пятый канал
+http://5.137.38.239:1234/udp/225.54.205.133:5000
+#EXTINF:-1 tvg-id="Культура_(Нск)" tvg-shift=-1 tvg-logo="http://epg.it999.ru/img/187.png", Россия-Культура
+http://5.137.38.239:1234/udp/225.54.205.134:5000
+#EXTINF:-1 tvg-id="Вести" tvg-logo="http://epg.it999.ru/img/1683.png", Россия-24
+http://5.137.38.239:1234/udp/225.54.205.135:5000
+#EXTINF:-1 tvg-id="Бибигон" tvg-logo="http://epg.it999.ru/img/740.png", Карусель
+http://5.137.38.239:1234/udp/225.54.205.136:5000
+#EXTINF:-1 tvg-id="ОТР" tvg-logo="http://epg.it999.ru/img/1000.png", ОТР
+http://5.137.38.239:1234/udp/225.54.205.137:5000
+#EXTINF:-1 tvg-id="ТВ_Центр_(Нск)" tvg-shift=-1 tvg-logo="http://epg.it999.ru/img/649.png", ТВЦ
+http://5.137.38.239:1234/udp/225.54.205.138:5000
+#EXTINF:-1 tvg-id="РЕН_ТВ" tvg-logo="http://epg.it999.ru/img/18.png", РЕН ТВ
+http://5.137.38.239:1234/udp/225.54.205.139:5000
+#EXTINF:-1 tvg-id="Спас" tvg-logo="http://epg.it999.ru/img/2141.png", СПАС
+http://5.137.38.239:1234/udp/225.54.205.140:5000
+#EXTINF:-1 tvg-id="СТС_(Нск)" tvg-shift=0 tvg-logo="http://epg.it999.ru/img/79.png", СТС
+http://5.137.38.239:1234/udp/225.54.205.141:5000
+#EXTINF:-1 tvg-id="Домашний" tvg-logo="http://epg.it999.ru/img/304.png", Домашний
+http://5.137.38.239:1234/udp/225.54.205.142:5000
+#EXTINF:-1 tvg-id="ТВ3_(Нск)" tvg-shift=0 tvg-logo="http://epg.it999.ru/img/698.png", ТВ3
+http://5.137.38.239:1234/udp/225.54.205.143:5000
+#EXTINF:-1 tvg-id="MTV_(Нск)" tvg-shift=0 tvg-logo="http://epg.it999.ru/img/1003.png", Пятница!
+http://5.137.38.239:1234/udp/225.54.205.144:5000
+#EXTINF:-1 tvg-id="Звезда" tvg-shift=0 tvg-logo="http://epg.it999.ru/img/405.png", Звезда
+http://5.137.38.239:1234/udp/225.54.205.145:5000
+#EXTINF:-1 tvg-id="Мир" tvg-shift=0 tvg-logo="http://epg.it999.ru/img/726.png", МИР
+http://5.137.38.239:1234/udp/225.54.205.146:5000
+#EXTINF:-1 tvg-id="ТНТ_(Нск)" tvg-shift=0 tvg-logo="http://epg.it999.ru/img/353.png", ТНТ
+http://5.137.38.239:1234/udp/225.54.205.147:5000
+#EXTINF:-1 tvg-id="МузТВ" tvg-logo="http://epg.it999.ru/img/2991.png", МУЗ ТВ
+http://5.137.38.239:1234/udp/225.54.205.148:5000
+#EXTINF:-1 tvg-id="ДТВ" tvg-shift=-1 tvg-logo="http://epg.it999.ru/img/1598.png", Че!
+http://5.137.38.239:1234/udp/225.54.223.211:5000
+#EXTINF:-1 tvg-id="Ю_(Нск)" tvg-shift=0, Ю
+http://5.137.38.239:1234/udp/225.54.205.171:5000
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png", ТНТ4
+http://5.137.38.239:1234/udp/225.54.23.228:5000
+
+#EXTINF:-1 group-title="Природа" tvg-id="Discovery_Channel" tvg-logo="http://epg.it999.ru/img/325.png", Discovery Channel HD
+http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+# #EXTINF:-1 tvg-id="Discovery_Channel" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel
+# http://5.137.38.239:1234/udp/233.7.70.12:5000
+#EXTINF:-1 tvg-id="National_Geographic" tvg-logo="http://epg.it999.ru/img/102.png",National Geographic
+http://5.137.38.239:1234/udp/233.7.70.43:5000
+#EXTINF:-1 tvg-id="Nat_Geo_Wild" tvg-logo="http://epg.it999.ru/img/223.png", Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-id="National_Geographic" tvg-logo="http://epg.it999.ru/img/3733.png", National Geographic HD
+http://213.59.136.29:55555/udp/239.254.2.136:1234
+#EXTINF:-1 tvg-id="Моя_Планета" tvg-logo="http://epg.it999.ru/img/675.png", Моя планета
+http://5.137.38.239:1234/udp/233.7.70.132:5000
+#EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/675.png",Планета HD
+http://langamepp.com/chtst/BA796B67B3F1365F252E31C35B0D07AC88495D5F87C14A8F9AFE8A13EBDDBA7C0FA8E9B7039952
+#EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/3731.png",Animal Planet
+http://langamepp.com/chtst/66EA2B5500457B39365CF865051DE9B154DA1D6D3475075858359504696D85D0088F5F
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3731.png",Animal Planet HD
+http://5.128.21.216:81/udp/239.1.17.16:1234
+#EXTINF:-1 tvg-id="Zooпарк" tvg-logo="http://epg.it999.ru/img/367.png", Zooпарк
+http://5.137.38.239:1234/udp/233.7.70.11:5000
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png", Приключения HD
+http://80.89.196.34:8085/travel/index.m3u8
+#EXTINF:-1, Под Водой FHD
+http://live-1.otcnet.ru/podvodoi/index.m3u8
+#EXTINF:-1, Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2424.png", Телепутешествия
+http://5.128.21.216:81/udp/239.1.20.28:1234
+
+#EXTINF:0 group-title="Авто" audio-track="rus" tvg-logo="http://epg.it999.ru/img/153.png", Авто плюс
+http://langamepp.com/chtst/EBB480565C54355A0BF0042D6B3C4F41D984B66E6864498ABB20B6FCE9ECF19154643B87D285B40179852F1E054812
+#EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/2008.png",Авто 24
+http://langamepp.com/chtst/D6006CA8558F4460F571FBE6A4D7AE42E4305A9061BF38B045A1493726071070E25B1EDD34E619
+#EXTINF:-1 tvg-id="Drive" tvg-logo="http://epg.it999.ru/img/2443.png", Драйв
+http://5.137.38.239:1234/udp/233.7.70.8:5000
+
+#EXTINF:-1 group-title="Рыбалка и охота" tvg-id="Охота_и_рыбалка" tvg-logo="http://epg.it999.ru/img/2419.png", Охота и рыбалка
+http://5.137.38.239:1234/udp/233.7.70.44:5000
+#EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/2483.png", Дикая охота HD
+http://langamepp.com/chtst/1D9DB139782E3136C72BF3A2386B75E32FAD87014C1E4DE673FB4B7282BBC532924D0FE8FDFE8FE745FB43CA5C30079670E8EC
+#EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/2484.png",Дикая рыбалка HD
+http://langamepp.com/chtst/8A1E77F87B2121085BD5BEA8724D6C8FB82E41C04F115DD8EF050678C89DDC5E05CFF729F0F190D8EB050578C89DDCE7EE
+#EXTINF:-1,Рыболов
+http://5.128.21.216:81/udp/239.1.20.26:1234
+# #EXTINF:-1,Дикая рыбалка HD
+# #EXTVLCOPT:http-user-agent=SmartSDK
+# https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2295.png", Russia Today Док
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="http://epg.it999.ru/img/2129.png", Euronews
+http://5.137.38.239:1234/udp/233.7.70.32:5000
+#EXTINF:-1 tvg-id="Усадьба" tvg-logo="http://epg.it999.ru/img/434.png", Усадьба ТВ
+http://5.137.38.239:1234/udp/233.7.70.45:5000
+#EXTINF:-1 tvg-id="Здоровое_ТВ" tvg-logo="http://epg.it999.ru/img/2449.png", Здоровое ТВ
+http://5.137.38.239:1234/udp/233.7.70.47:5000
+#EXTINF:-1 tvg-id="Русский_экстрим" tvg-logo="http://epg.it999.ru/img/2497.png", Русский экстрим
+http://5.137.38.239:1234/udp/233.7.70.7:5000
+#EXTINF:-1 tvg-id="Живи" tvg-logo="http://epg.it999.ru/img/113.png", Живи HD
+http://37.192.145.48:81/udp/239.1.20.43:1234
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png", Наука 2.0
+http://94.230.240.12:8080/nauka2/index.m3u8
+#EXTINF:0 audio-track="rus" tvg-logo="http://epg.it999.ru/img/2298.png",Загородная жизнь HD
+http://langamepp.com/chtst/2BC6613A79FAB7FD47DFD5063422C94919F657024DCACB2DF00F65D687F27798AB16DFEACD2A0A2DF70E5AD682F271999C16DCEBF592D3A635AAB87369
+
+#EXTINF:-1 group-title="Музыка" tvg-id="ТНТ_Music" tvg-logo="http://epg.it999.ru/img/680.png", ТНТ Music
+http://5.137.38.239:1234/udp/233.7.70.60:5000
+#EXTINF:-1 tvg-id="Music_Box_Ru" tvg-logo="http://epg.it999.ru/img/2409.png", Music Box RU
+http://5.137.38.239:1234/udp/233.7.70.61:5000
+#EXTINF:-1 tvg-id="Music_Box_TV" tvg-logo="http://epg.it999.ru/img/2409.png", Music Box TV
+http://5.137.38.239:1234/udp/233.7.70.62:5000
+#EXTINF:-1 tvg-id="Ru_TV" tvg-logo="http://epg.it999.ru/img/2378.png", RuTV
+http://5.137.38.239:1234/udp/233.7.70.63:5000
+
+#EXTINF:-1 group-title="Детские" tvg-id="Jetix" tvg-logo="http://epg.it999.ru/img/3707.png", Disney Channel
+http://5.137.38.239:1234/udp/225.54.205.174:5000
+#EXTINF:-1 tvg-id="Бибигон" tvg-logo="http://epg.it999.ru/img/740.png", Карусель
+http://5.137.38.239:1234/udp/225.54.205.136:5000
+#EXTINF:-1 tvg-id="2x2" tvg-logo="http://epg.it999.ru/img/323.png", 2x2
+http://5.137.38.239:1234/udp/225.54.223.241:5000
