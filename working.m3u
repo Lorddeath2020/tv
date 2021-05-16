@@ -1108,3 +1108,5 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZtoqgX.png" group-title="NOTICIAS", CBS NEWS 
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUVkvlJfFDQWQ6x4O3dXlr9DmiLcMFfrY-db2de5YBYtm6QthQLaS_Hu1Zvjm1yMlrpo&usqp=CAU", AV 31 VISION AMERICA HD
+https://5bf8041cb3fed.streamlock.net/VisionAmericaTV/VisionAmericaTV/chunklist_w1306954952.m3u8
