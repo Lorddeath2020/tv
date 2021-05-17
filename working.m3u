@@ -1390,3 +1390,139 @@ http://200.189.113.201/hls/tve.m3u8?FORMIGAtv
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?FORMIGAtv
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="CANAIS - TV Aberta", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="CANAIS - Infantil", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mancheteweb.png" group-title="WebTV",TV Manchete - WebTV
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAIS - TV Aberta", Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_topo.png" group-title="CANAIS - TV Aberta", TV União (CE)
+https://stmv1.srvif.com/admin/admin/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="CANAIS - TV Aberta", TV União (DF)
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdade.png" group-title="WebTV", TV Liberdade - WebTV
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="CANAIS - TV Aberta", TV Brasil 2
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_240/index.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="CANAIS - TV Aberta", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="CANAIS - Variedade", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="CANAIS - TV Aberta", YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS - Variedade", Capital TV
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS - Variedade", M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/oadvlb8.png" group-title="CANAIS - Variedade", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="CANAIS - TV Aberta", Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="CANAIS - Variedade",TopTV Paraná
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="CANAIS - Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-white.png" group-title="CANAIS - TV Aberta", CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="CANAIS - Religiosos",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" ggroup-title="CANAIS - Religiosos",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" ggroup-title="CANAIS - Religiosos", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" ggroup-title="CANAIS - Religiosos", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" ggroup-title="CANAIS - Religiosos",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" ggroup-title="CANAIS - Religiosos",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="CANAIS - Infantil", Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="CANAIS - CANAIS - Filmes / Series",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="CANAIS - CANAIS - Filmes / Series",KURIAKOS CINE
+http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/central.png" group-title="CANAIS - TV Aberta",Central TV
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animeloving.png" group-title="CANAIS - Infantil", Anime Loving - WebTV
+http://animeloving.net/hls/stream.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="CANAIS - TV Aberta", FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="CANAIS - TV Aberta",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="CANAIS - TV Aberta",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="WebTV", Via Morena
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="CANAIS - TV Aberta", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg" group-title="WebTV", TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="CANAIS - TV Aberta", TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg" group-title="CANAIS - TV Aberta", Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="CANAIS - Documentário", TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="CANAIS - TV Aberta", TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="CANAIS - TV Aberta", Canal 29 - WebTV
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdadelogo.png" group-title="WebTV", TV Liberdade - WebTV
+https://5c483b9d1019c.streamlock.net/8238/8238/playlist-480p.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvabertasp.png" group-title="CANAIS - TV Aberta",TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="CANAIS - TV Aberta",TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="CANAIS - TV Aberta",Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="CANAIS - TV Aberta",Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="CANAIS - TV Aberta", TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="CANAIS - TV Aberta",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="CANAIS - TV Aberta",TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nova.png" group-title="CANAIS - TV Aberta", TV Nova Nordeste - Cultura (PE)
+http://cdn.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="CANAIS - Variedade", RadioU
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="CANAIS - Variedade", Top Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="CANAIS - Variedade", Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="CANAIS - TV Aberta", Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="CANAIS - TV Aberta", TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="CANAIS - Noticias", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="CANAIS - Noticias", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arirang_logo.png" group-title="CANAIS - TV Aberta", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/wfxt_boston_25_logo.png" group-title="CANAIS - Noticias", Boston 25 News
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="CANAIS - Noticias", Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="CANAIS - Noticias", CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/dw.png" group-title="CANAIS - TV Aberta", Deutsche Welle
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="CANAIS - Esportes", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" group-title="CANAIS - Documentário", RT Documentary Channel
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tves.png" group-title="CANAIS - TV Aberta", RTVE
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="CANAIS - Noticias", RT en español 
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rainews.png" group-title="CANAIS - Noticias", RAINEWS24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="CANAIS - TV Aberta", TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?FORMIGAtv
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8?FORMIGAtv
