@@ -1632,3 +1632,51 @@ http://redlabmcdn.s.llnwi.net/jp01/ryowa6/tracks-v1a1/mono.m3u8
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 tvg-id="WOWOWsinema.jp" tvg-name="WOWOWシネマ" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",WOWOWシネマ (Wowow Cinema)
 http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" tvg-country="CA" tvg-url="" group-title="News",Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="News",Bloomberg Television (Opt-2)
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:37,Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="News",Newsy 
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="News",Baton Rouge: WBRZ 2 Plus
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" tvg-name="Tennis Channel"  group-title="Sports",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-F7JWJ2c6pLI/Vzi-jA8Gm_I/AAAAAAAAEzw/aBoLuYqETMYJTCorLpBKbwy0RUJIxZs0gCLcB/s1600/Screen%2BShot%2B2016-05-15%2Bat%2B1.22.20%2BPM.png" tvg-name="Tennis Channel Plus"  group-title="Sports",Tennis Channel Plus
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://rsmetrics.com/wp-content/uploads/2020/06/ABC-News-Logo.jpg" tvg-name="ABC News"  group-title="News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-vector-logo-small.png" tvg-name="Sky News"  group-title="News",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/41Yy7b-A5eL.png/revision/latest/scale-to-width-down/340?cb=20210103052248" tvg-name="ET Live"  group-title="Entertainment",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" tvg-name="ESPN 2"  group-title="Sports",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/disney/images/6/62/2000px-ESPN_U.svg.png/revision/latest/scale-to-width-down/340?cb=20121029061856" tvg-name="ESPN U"  group-title="Sports",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://www.nasa.gov/sites/default/files/files/nasa_insignia_300.jpg" tvg-name="NASA TV Media"  group-title="Educational",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://seeklogo.com/images/Q/QVC-logo-21A7F77414-seeklogo.com.gif" tvg-name="QVC"  group-title="Shopping",QVC
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://png.pngitem.com/pimgs/s/555-5551961_fox-sports-1-logo-png-fox-sport-1.png" tvg-name="FOX Sport HD 1"  group-title="Sports",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.adgully.com/img/800/201809/image008.png.jpg" tvg-name="&privé"  group-title="Movies",&privé
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://media.masslive.com/entertainment/photo/11287290-large.jpg" tvg-name="A&E"  group-title="TV",A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ANIPLUS.ph" tvg-name="ANIPLUS" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="Kids",ANIPLUS (576p)
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clickthecity.com%2Ftv%2Fnetwork%2Fcnn-philippines%2F&psig=AOvVaw2vOeoQxjjoiDyhIFu0MBG4&ust=1615586178723000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCF4Nydqe8CFQAAAAAdAAAAABAI" tvg-name="CNN Philippines"  group-title="News",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8,
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://store.playstation.com/store/api/chihiro/00_09_000/container/AE/en/999/EP8842-CUSA09418_00-REDBULLTVEUROPS4/1604276304000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" tvg-name="REDBULL TV"  group-title="Entertainment",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.logolynx.com/images/logolynx/9d/9d73d2ba76ee2a6e5a9bde604e1ed8d1.jpeg" tvg-name="Fox HD"  group-title="Entertainment",Fox HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/profile_images/873344025713033217/ExHy0neU_400x400.jpg" tvg-name="Fox Movies HD"  group-title="Movies",Fox Movies HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8?
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/One_Sports_logo.svg/revision/latest/scale-to-width-down/340?cb=20210103142547" tvg-name="ONE Sports"  group-title="Sports",ONE Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
