@@ -123,8 +123,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/150px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS | SINAL ABERTO",RECORD RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="PLAYKIDS" tvg-name="PLAYKIDS" tvg-logo="https://uploaddeimagens.com.br/images/001/623/085/full/Playkids.png" group-title="CANAIS | INFANTIS ",PLAYKIDS
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?FORMIGAtv
 #EXTINF:-1 tvg-id="PAI ETERNO" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | ESPORTES",PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w369174169.m3u8
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" group-title="CANAIS | INFANTIS ",NICKELODEON
