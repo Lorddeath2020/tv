@@ -85,16 +85,12 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/themes/fashiontv2015/images/fashiontv_logo_356_55.png?ver=2" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
 #EXTINF:-1 tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png" group-title="Lifestyle",Fashion TV+
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
 #EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV HD
@@ -107,7 +103,6 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" group-title="News",CBSN
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News", Bloomberg Business
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656" group-title="News",CNA
@@ -126,14 +121,10 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/124.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
 #EXTINF:-1 tvg-id="REDE GOSPEL" tvg-name="REDE GOSPEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_F_C_7R-fSH2nYbgPEUTOHAlLfY1uRYCMQ&usqp=CAU" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="CANAIS | RELIGIOSOS",REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w681546527.m3u8
 #EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/150px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS | SINAL ABERTO",RECORD RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="PLAYKIDS" tvg-name="PLAYKIDS" tvg-logo="https://uploaddeimagens.com.br/images/001/623/085/full/Playkids.png" group-title="CANAIS | INFANTIS ",PLAYKIDS
 http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?FORMIGAtv
-#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | INFANTIS ",PLAYBOY TV
-http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 tvg-id="PAI ETERNO" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | ESPORTES",PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w369174169.m3u8
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" group-title="CANAIS | INFANTIS ",NICKELODEON
