@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ANIPLUS AISA" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="Japan",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANIMETV" tvg-name="ANIMETV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CANAIS ABERTOS",ANIMETV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w589824130.m3u8
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" group-title="CANAIS | INFANTIS ",NICKELODEON
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/757503-babyfirst_1.png" group-title="HPlus",BaByfirst
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/975555-CN.png" group-title="HPlus",CN
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="cyta.smiletv.cy" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
+https://s1.cystream.net/live/smile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="kids" ,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="kids" ,Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="kids" ,Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="kids" ,Animax
+http://210.210.155.35/session/2c8f6ae4-24de-11eb-bca2-b2008dc64d25/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/306-3060218_aniplus-aniplus-logo-png.png" group-title="kids" ,ANI Plus
+http://210.210.155.35/dr9445/h/h02/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-f_IR7ugGcITN4N3SQd9Ve2llFxKhotM8zciWR8qDvkI_yfFCYJIsAgbmYACzfHSX7c&usqp=CAU" group-title="kids" ,TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/mMAO3P6.jpg" group-title="USA",Kidoodle
+http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="USA",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="" tvg-name="Toon Goggles" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="USA",Toon Goggles
+https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/watchitKid/logo_small.png" group-title="USA",Watch It Kid
+http://content-ausw2.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+
+#EXTINF:-1 tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png" group-title="France",Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/QLFmD6d.png" group-title="Turkey",TRT Çocuk
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/wDvZfk8.png" group-title="Turkey",TRT EBA Ilkokul
+http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" tvg-logo="https://i.imgur.com/yfPTvRx.png" group-title="Turkey",TRT EBA Ortaokul
+http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="DpCh@Television_INDONESIAN", (DP) RTV
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hG5LsHpG/images-2.jpg" group-title="MOVIES",  (Dian Photograph) SKY CINEMA DISNEY
+http://stream.tvtap.live:8081/live/mdisney.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRLOlNT.png" group-title="ENT",Kids Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:25,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="http://168.205.87.198/logocanais/boomerang.png" group-title="Degustação Do Vip",BOOMERANG
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/22.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="http://168.205.87.198/logocanais/cartoonnetwork.png" group-title="Degustação Do Vip",CARTOON NETWORK
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/26.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="http://168.205.87.198/logocanais/discoverykids.png" group-title="Degustação Do Vip",DISCOVERY KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/37.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="http://168.205.87.198/logocanais/disneychannel.png" group-title="Degustação Do Vip",DISNEY CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/45.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JR" tvg-logo="http://168.205.87.198/logocanais/disneyjr.png" group-title="Degustação Do Vip",DISNEY JR
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/46.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="http://168.205.87.198/logocanais/disneyxd.png" group-title="Degustação Do Vip",DISNEY XD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/47.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MAP KIDS" tvg-logo="" group-title="Degustação Do Vip",MAP KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/143.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://168.205.87.198/logocanais/nick.png" group-title="Degustação Do Vip",NICKELODEON
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="RATIMBUM" tvg-logo="http://168.205.87.198/logocanais/tvratimbum.png" group-title="Degustação Do Vip",RATIMBUM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/84.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/playkids-blog-assets/wp-content/uploads/2020/07/10132345/logo-playkids.png" group-title="CANAIS - Infantil",PlayKids
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="CANAIS - Infantil",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-title="CANAIS - Infantil",Disney JR
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS - Infantil",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="CANAIS - Infantil", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="CANAIS - Infantil", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="CANAIS - TV Aberta", YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="CANAIS - Infantil", Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animeloving.png" group-title="CANAIS - Infantil", Anime Loving - WebTV
+http://animeloving.net/hls/stream.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;Malay (macrolanguage)" tvg-logo="" group-title="",Animax Japan (Malay Subs)
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;Malay (macrolanguage)" tvg-logo="" group-title="",Animax Japan (Malay Subs)
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-id="ANIPLUS.ph" tvg-name="ANIPLUS" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="Kids",ANIPLUS (576p)
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
