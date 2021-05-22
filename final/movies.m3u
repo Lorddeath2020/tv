@@ -1,0 +1,211 @@
+  #EXTM3U
+  
+  #EXTINF:-1 tvg-id="fox.movies.vn" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://www.pay2easy.com/uploads/3046-&%20Prive%20HD.png" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png?v=1.1.1.1" group-title="Movies", MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+
+#EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1pxXEtP.png" tvg-url="" group-title="Movies",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Movies",Thrill (480p)
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="HPlus",FOX FHD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/121093-FoxFamily_3.png" group-title="HPlus",Fox Family Movies FHD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/101479-Foxmovie.png" group-title="HPlus",Fox Movies FHD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/516849-ciname.png" group-title="HPlus",Cinemaworld
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/140735-WarnerTV.png" group-title="HPlus",WarnerTV
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/920557-axn.png" group-title="HPlus",AXN FHD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/800823-FoxLife.png" group-title="HPlus",Foxlife
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
+https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
+https://s1.cystream.net/live/34100/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
+
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/T8mB6Kg.jpg",FAROS TV CY
+https://s1.cystream.net/live/faros1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian Bangla",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",& picture
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",mbc bolly
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",mbc bolly2
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI",Zee Cinema HD 
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zee action
+https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema ME
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema uk
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema usa
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",AXN HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zee anmol
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", MBC
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", MBC max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", MBC max hd
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", MBC action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", paramount
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden TV" tvg-logo="https://i.imgur.com/71wy2NY.png" group-title="USA",Golden TV
+https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise True Crime" tvg-logo="https://i.imgur.com/8h66d9i.png" group-title="CANADA",Filmrise True Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise free movies" tvg-logo="https://i.imgur.com/UCmO5OK.jpg" group-title="CANADA",Filmrise free movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="PELICULAS",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="PELICULAS",Pelis Familiares
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="PELICULAS",Pelis de Accion
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="PELICULAS",Family Movies
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="PELICULAS",Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="PELICULAS",Action Movies 
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TF1 Séries Films" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/81px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="France",TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+
+#EXTINF:-1 ,36.Zee Bangla Cenema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
+
+#EXTINF:-1 ,48.& flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ,56.& Picture
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="MOVIES", LOTUS MACAU HD
+http://1805327262.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=71sAAGAGd1e9e30W&secondToken=secondToken%3APdRCeHHyWsrr12LOwJhq6n_Y0ac&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png" group-title="MOVIES", (DP)  FOX FAMILY HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png" group-title="MOVIES", (DP)  FOX HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES", (DP)  FOX MOVIES HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hG5LsHpG/images-2.jpg" group-title="MOVIES",  (Dian Photograph) SKY CINEMA DISNEY
+http://stream.tvtap.live:8081/live/mdisney.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  ZQ DRAMA _GROUP
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-classic-in.png" group-title="MOVIES", (DP)  ZEE CLASSIC HD _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES", (DP)  ZEE CINEMA _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="MOVIES", (DP)  ZEE CAFE _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  &PRIVE _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES", (DP)  &FLIX _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movie",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movie",&Prive
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Movie",TVS Western Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Movie",TVS Nostalgia Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Movie",TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Movie",TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="STAR LIFE" tvg-logo="http://168.205.87.198/logocanais/foxlife.png" group-title="Degustação Do Vip",STAR LIFE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/64.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="STAR CHANNEL" tvg-logo="http://168.205.87.198/logocanais/foxchannel.png" group-title="Degustação Do Vip",STAR CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/63.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="http://168.205.87.198/logocanais/fx.png" group-title="Degustação Do Vip",FX
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/68.m3u8
