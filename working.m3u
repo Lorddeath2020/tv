@@ -1665,3 +1665,5 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:0, Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="フジテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" group-title="SKYSTREAM",フジテレビ
+http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
