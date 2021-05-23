@@ -1669,3 +1669,19 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ朝日" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2299677752ed7d486c2538c3e7d6e6d7.png" group-title="SKYSTREAM",テレビ朝日
 http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ東京" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="SKYSTREAM",テレビ東京
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="日テレ" tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="SKYSTREAM",日テレ
+http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK総合・東京" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="SKYSTREAM",NHK総合・東京
+http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="日テレニュース24" tvg-logo="https://th.bing.com/th/id/OIP.ZRxy2K80bPDthynrjZUXLgAAAA?w=156&h=180&c=7&o=5&dpr=1.25&pid=1.7" group-title="CS放送",日テレニュース24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="Shop Channel" tvg-logo="https://th.bing.com/th/id/OIP.PlFC5NzcL_L_bMR5xRnNYAHaHa?pid=Api&rs=1" group-title="BS地上波",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ウェザーニュース" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="BS地上波",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="群馬テレビ" tvg-logo="https://th.bing.com/th/id/OIP.MMf_pQi6sLmNJS6L9AE_TgHaBE?pid=Api&rs=1" group-title="大阪地上波",群馬テレビ
+https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TOKYO MX 2" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" group-title="東京地上波",TOKYO MX 2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
