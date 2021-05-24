@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SnHnkYY/logo-horizontal.png" group-title="Sports", Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+
+#EXTINF:-1 type="ESTÁDIO TNT SPORTS 2" tvg-id="ESTÁDIO TNT SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU" group-title="Sports",AD Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://i.imgur.com/ERFDaE4.png" group-title="Sports",AD Sports 3
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Racing" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Dubai Sport 1 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Dubai Sport 1 ʰᵈ
+http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Dubai Sport 2 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Dubai Sport 2 ʰᵈ
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Dubai Sport 3 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Dubai Sport 3 ʰᵈ
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="https://i.imgur.com/ViWbGmj.png" group-title="CANADA",Fuel TV
+https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT F1 HD
+http://stream.tvtap.live:8081/live/skysportsf1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Mmzg75/1280px-Sky-Sport-HD-1-Corner-2011-svg.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT 1 HD
+http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Sports",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Sports",Tennis Channel Plus0
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV (UHD)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Sports",TVS Women Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Sports",TVS Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Sports",TVS Boxing
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+
+#EXTINF:0 tvg-name="Redbull TV" tvg-language="English" tvg-country="US" tvg-id="Redbull-TV" tvg-logo="https://i.imgur.com/iFNScQ6.png" group-title="Sports",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="http://168.205.87.198/logocanais/espn2.png" group-title="Degustação Do Vip",ESPN 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png" group-title="Degustação Do Vip",ESPN BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/50.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="Degustação Do Vip",ESPN EXTRA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/51.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="Degustação Do Vip",ESPN INT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/60.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="http://168.205.87.198/logocanais/foxsports2.png" group-title="Degustação Do Vip",FOX SPORTS 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/66.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="http://168.205.87.198/logocanais/foxsports.png" group-title="Degustação Do Vip",FOX SPORTS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title=""CANAIS - Esportes",ESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/what-is-espn.jpg" group-title=""CANAIS - Esportes",ESPN +
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title=""CANAIS - Esportes",ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="CANAIS - Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="CANAIS - Esportes", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?FORMIGAtv
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" tvg-name="Tennis Channel"  group-title="Sports",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-F7JWJ2c6pLI/Vzi-jA8Gm_I/AAAAAAAAEzw/aBoLuYqETMYJTCorLpBKbwy0RUJIxZs0gCLcB/s1600/Screen%2BShot%2B2016-05-15%2Bat%2B1.22.20%2BPM.png" tvg-name="Tennis Channel Plus"  group-title="Sports",Tennis Channel Plus
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" tvg-name="ESPN 2"  group-title="Sports",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/disney/images/6/62/2000px-ESPN_U.svg.png/revision/latest/scale-to-width-down/340?cb=20121029061856" tvg-name="ESPN U"  group-title="Sports",ESPN U
+https://gma2.blab.email/espnu.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://png.pngitem.com/pimgs/s/555-5551961_fox-sports-1-logo-png-fox-sport-1.png" tvg-name="FOX Sport HD 1"  group-title="Sports",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://store.playstation.com/store/api/chihiro/00_09_000/container/AE/en/999/EP8842-CUSA09418_00-REDBULLTVEUROPS4/1604276304000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" tvg-name="REDBULL TV"  group-title="Entertainment",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/One_Sports_logo.svg/revision/latest/scale-to-width-down/340?cb=20210103142547" tvg-name="ONE Sports"  group-title="Sports",ONE Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
