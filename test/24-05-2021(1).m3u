@@ -1,0 +1,273 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="Local",TFC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="Local",DZMM Teleradyo
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_%28ABC5%29_Logo.svg/1024px-TV5_%28ABC5%29_Logo.svg.png" group-title="Local",TV5 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ca07a749e91966b.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA" tvg-logo="https://www.pngkey.com/png/full/136-1361194_gma-7-logo-gma-network.png" group-title="Local",GMA 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Knowledge Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Knowledge-channel.png" group-title="Local",Knowledge Channel
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JEEPNEY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Jeepneytvnewlogo2015.jpg" group-title="Local",JEEPNEY TV 
+https://dropmb.com/files/9c89e04deed2f1d3a4045a1b8c86883c.mp4
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="News",CNN PH 
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo.png" group-title="News",PTV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="Movies",Cinemo
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest?cb=20201209065132" group-title="Local",PBO 
+https://dropmb.com/files/9c89e04deed2f1d3a4045a1b8c86883c.mp4
+
+#EXTINF:-1 tvg-id="Cinema One" tvg-name="Cinema One" tvg-logo="http://www.canadianinquirer.net/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Movies",Cinema One
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
+
+#EXTINF:-1 tvg-id="fox.movies.vn" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Movies",AXN HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://www.pay2easy.com/uploads/3046-&%20Prive%20HD.png" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BK5wXjd/And-Flix-1.png" group-title="Movies",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC Action (1080p)
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-name="Movie Kingdom" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-url="" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-name="STIRR Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Movies (720p)
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+#EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1pxXEtP.png" tvg-url="" group-title="Movies",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-id="Wixlar.gr" tvg-name="Wixlar" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-url="" group-title="Movies",Wixlar (720p)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png" group-title="Movies",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="Movies",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="Movies",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CinemaWorld" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movies",CinemaWorld 
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/250?cb=20191201074855" group-title="Movies",Fox Life 
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Cinema" tvg-logo="https://attend.aclib.us/images/events/acld/classic%20cinema.jpg" group-title="Movies",Classic Cinema 
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang 
+http://gooserace.xyz:2052/donna/donna123/2599332
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network (West)
+http://gooserace.xyz:2052/donna/donna123/1192931
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network FHD
+http://gooserace.xyz:2052/donna/donna123/1192930
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Kids",Disney Channel
+http://gooserace.xyz:2052/donna/donna123/1192934
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Kids",Disney Channel (West)
+http://gooserace.xyz:2052/donna/donna123/1192936
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="Kids",Disney Junior
+http://gooserace.xyz:2052/donna/donna123/1192938
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="Kids",Disney Junior (West)
+http://gooserace.xyz:2052/donna/donna123/1192941
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/disney-xd-vector-logo.png" group-title="Kids",Disney XD
+http://gooserace.xyz:2052/donna/donna123/1192943
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/disney-xd-vector-logo.png" group-title="Kids",Disney XD (West)
+http://gooserace.xyz:2052/donna/donna123/1192944
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Kids",Nick Jr. (East)
+http://gooserace.xyz:2052/donna/donna123/1192418
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Kids",Nick Jr. (West)
+http://gooserace.xyz:2052/donna/donna123/1192419
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Nickelodeon-teen.png" group-title="Kids",Nick Teen
+http://gooserace.xyz:2052/donna/donna123/1192959
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",Nick Toons
+http://gooserace.xyz:2052/donna/donna123/1192954
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-logo.png" group-title="Kids",Nickelodeon (East)
+http://gooserace.xyz:2052/donna/donna123/1192421
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-logo.png" group-title="Kids",Nickelodeon (West)
+http://gooserace.xyz:2052/donna/donna123/1192422
+
+#EXTINF:-1 tvg-logo="https://productionlist.com/wp-content/uploads/2019/01/Pop_Network_Logo.png" group-title="Kids",POP
+http://gooserace.xyz:2052/donna/donna123/1192956
+
+#EXTINF:-1 tvg-logo="https://productionlist.com/wp-content/uploads/2019/01/Pop_Network_Logo.png" group-title="Kids",POP (West)
+http://gooserace.xyz:2052/donna/donna123/1192957
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/0-1838_starz-kids-family-starz-on-demand-logo.png" group-title="Kids",Starz Kids & Family
+http://gooserace.xyz:2052/donna/donna123/1192526
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/0-1838_starz-kids-family-starz-on-demand-logo.png" group-title="Kids",Starz Kids & Family (West)
+http://gooserace.xyz:2052/donna/donna123/1192527
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/272-2722817_1-tvg-logo-https-tooncast-logo-tooncast.png" group-title="Kids",Tooncast
+http://gooserace.xyz:2052/donna/donna123/2049936
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/5/5c/Universal_Kids.png/revision/latest?cb=20200511224501" group-title="Kids",Universal Kids
+http://gooserace.xyz:2052/donna/donna123/1192960
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/5/5c/Universal_Kids.png/revision/latest?cb=20200511224501" group-title="Kids",Universal Kids
+http://gooserace.xyz:2052/donna/donna123/1192962
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local",DepEd TV
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://net25.tv/wp-content/uploads/2020/10/net25_newlogo_2020.png" group-title="Local",NET 25
+https://ebc.sytes.net/hls/net25.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local",TVShop
+http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" group-title="Religious",CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Educational",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest/scale-to-width-down/2000?cb=20200104222246" group-title="Educational",RT Documentary
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Educational",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/SBF_290x170.png" group-title="Lifestyle",SBS Food
+https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US
+https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TV5-Monde.png" group-title="Lifestyle",TV5Monde 
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/themes/fashiontv2015/images/fashiontv_logo_356_55.png?ver=2" group-title="Lifestyle",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png" group-title="Lifestyle",Fashion TV+
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://netflash.net/wp-content/uploads/2015/11/nba_tv_ca.png" group-title="Sports",CA: NBA TV
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SnHnkYY/logo-horizontal.png" group-title="Sports", Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" group-title="News",CBSN
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News", Bloomberg Business
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
+http://203.154.243.31:15001
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/2000?cb=20181001190927" group-title="Entertainment",Game Show Network
+https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxQfhzG/Pics-Art-12-12-11-16-05.png" group-title="Music",Channel V
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="Music",Hallypop
+https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
