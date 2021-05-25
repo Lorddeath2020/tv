@@ -35,100 +35,22 @@ https://ott.bingebd.com/live/ngrp:news_24_hd_all/chunklist.m3u8
 https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/chunklist.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1,Zee 24 Ghonta
-http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
-#EXTINF:-1,Bangla Time
-http://103.205.133.21/hls/banglatime.m3u8
-#EXTINF:-1,ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1,Star Plus
-http://103.205.133.21/hls/chsp.m3u8
 #EXTINF:-1,Star Plus HD
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
-#EXTINF:-1,Sony TV
-http://103.205.133.21/hls/chs.m3u8
-#EXTINF:-1,Sony TV
-http://209.126.120.153/hls/chs.m3u8
 #EXTINF:-1,Sony SAB
 http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee TV
-http://103.205.133.21/hls/zeetv.m3u8
-#EXTINF:-1,Zee TV Asia
-http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Colors
-http://103.205.133.21/hls/chc.m3u8
-#EXTINF:-1,Colors
-http://master.beeiptv.com:8081/mobile_21/colors/playlist.m3u8
-#EXTINF:-1,Colors Ristay
-http://10.100.100.134/live/skyfeed1004/index.m3u8
-#EXTINF:-1,And TV
-http://103.205.133.21/hls/andtv.m3u8
 #EXTINF:-1,Star Gold
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
-#EXTINF:-1,Sony Wah
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1,Zee Cinema
-http://103.205.133.21/hls/zeecinema.m3u8
-#EXTINF:-1,And Pictures HD
-http://103.205.133.21/hls/andpicture.m3u8
-#EXTINF:-1,And Xplorer 
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
-#EXTINF:-1,Colors Cineplex HD
-http://hitectv.live/hls/stream29.m3u8
 #EXTINF:-1,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1,UTV Action
-http://hitectv.live/hls/stream7.m3u8
-#EXTINF:-1,BTV Kadak
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
-#EXTINF:-1,B4U Movies
-http://103.205.133.21/hls/b4umovies.m3u8
 #EXTINF:-1,B4U Movies
 https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8
 #EXTINF:-1,Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1,Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-#EXTINF:-1,Wow Cinema
-http://103.205.133.21/hls/wowcinema.m3u8
-#EXTINF:-1,Dabang TV
-http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:-1,T Sports BD
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T Sports BD
-http://209.126.120.153:80/hls/tsports.m3u8
-#EXTINF:-1,T Sports BD
-http://103.205.133.21/hls/tsports.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://209.126.120.153/hls/chss1.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://103.205.133.21/hls/chss1.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1,Star Sports 1
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports 2 HD
-/http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports 2
-http://209.126.120.153/hls/chss2.m3u8
-#EXTINF:-1,Star Sports 2
-http://103.205.133.21/hls/chss2.m3u8
-#EXTINF:-1,Sony Ten 1
-http://103.205.133.21/hls/ten1.m3u8
-#EXTINF:-1,Sony Ten 1
-http://103.205.133.21/hls/ten2.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-http://10.100.100.134/live/skyfeed1001/index.m3u8
-#EXTINF:-1,Sony Ten 2
-http://103.205.133.21/hls/ten2.m3u8
-#EXTINF:-1,Sony Ten 3
-http://103.205.133.21/hls/ten3.m3u8
-#EXTINF:-1,Sony Six
-http://103.205.133.21/hls/sonysix.m3u8
 #EXTINF:-1,Sony Six
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Six
-http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1,PTV Sports
