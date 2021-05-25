@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-id="iHOTAiDongMan.cn" tvg-name="iHOT爱动漫" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="", iHOT爱动漫
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",WOW! TV (720p)
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/G154n6j.png" group-title="VTV",Quốc Hội
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="ARBGuns.az" tvg-name="ARB GÃ¼nÉ™ÅŸ" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="Kids",ARB GÃ¼nÉ™ÅŸ
