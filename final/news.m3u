@@ -1,2 +1,746 @@
 #EXTM3U
 
+#EXTINF:0,ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+#EXTINF:-1 tvg-id="100News.ua" tvg-name="100% News" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/11llLr1.jpg" group-title="News",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="101TVMalaga.es" tvg-name="101TV Malaga" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="News",101TV Malaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-id="24Kanal.ua" tvg-name="24 ÐšÐ°Ð½Ð°Ð»" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="News",24 ÐšÐ°Ð½Ð°Ð»
+http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="24Kanal.ua" tvg-name="24 ÐšÐ°Ð½Ð°Ð»" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="News",24 ÐšÐ°Ð½Ð°Ð» (1080p)
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="News",24/7 Canal de Noticias (720p)
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="News",24/7 Canal de Noticias
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-id="324.es" tvg-name="3/24" tvg-country="ES;AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="News",3/24 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
+#EXTINF:-1 tvg-id="360degNovosti.ru" tvg-name="360Â° ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",360Â° ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸ (1080p)
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 tvg-id="KMTVTV.us" tvg-name="3News Now (KMTV-TV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="News",3News Now (KMTV-TV) (720p)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News (720p)
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Aaj Tak (576p)
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" group-title="News",ABC News
+http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" group-title="News",ABC News (540p)
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://cdn.abplive.com/logo/ananda_600x60_bg.png" group-title="News",ABP Ananda (720p)
+https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita (720p)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita (324p)
+https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha (720p)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-country="IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News (324p)
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-country="IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News (720p)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1 tvg-id="ACVNews.in" tvg-name="ACV News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png" group-title="News",ACV News
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://calcuttanews.tv/images/cnwotag.png" group-title="News",AKD Calcutta News (540p)
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
+https://live2.alalamtv.net/alalam.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-name="Al Ekhbariya" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NciF5rO.png" group-title="News",Al Ekhbariya (1080p)
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Hadath TV (1080p)
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AL Hurra HD" tvg-name="AL Hurra HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" group-title="News",Al Hurra (486p)
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-id="AlHurra.us" tvg-name="Al Hurra" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GRl09vk.jpg" group-title="News",Al Hurra (486p)
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-id="AlHurra.us" tvg-name="Al Hurra" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GRl09vk.jpg" group-title="News",Al Hurra (720p)
+https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
+#EXTINF:-1 tvg-id="AL Hurra Iraq HD" tvg-name="AL Hurra Iraq HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="News",Al Hurra Iraq (720p)
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-name="Al Iraqiya Al 3ama" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p)
+#EXTVLCOPT:http-referrer=http://imn.iq
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIraqiyaTVARB.iq" tvg-name="Al Iraqiya TV ARB" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya News (720p)
+#EXTVLCOPT:http-referrer=http://imn.iq
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-country="QA" tvg-language="" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/DBJTZaS.png" group-title="News",Al Jazeera Arabic (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic (1080p)
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="News",Al Jazeera Balkans (1080p)
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
+https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="News",Al Manar (576p)
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-name="Al Masirah" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p)
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasirahMubacher.ye" tvg-name="Al Masirah Mubacher" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="News",Al Masirah Mubacher (642p)
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMayadeen.lb" tvg-name="Al Mayadeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News",Al Mayadeen (576p)
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRafidain.iq" tvg-name="Al Rafidain" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" group-title="News",Al Rafidain (1024p)
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRafidainHQ.iq" tvg-name="Al Rafidain HQ" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="News",Al Rafidain HQ (1024p)
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News (450p)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-name="Al Yaum TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News",Al Yaum TV (720p)
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlarabyTV.uk" tvg-name="Alaraby TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlghadAlmushreq.ye" tvg-name="Alghad Almushreq" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" group-title="News",Alghad Almushreq
+http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:-1 tvg-id="AmarUjala.in" tvg-name="Amar Ujala" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Amar Ujala (360p)
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-name="Antena 3" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png" group-title="News",Antena 3 (720p)
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="News",ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (576p)
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (404p)
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetNewsBangla.in" tvg-name="Asianet News Bangla" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/bangla_logo.png" group-title="News",Asianet News Bangla (360p)
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetNewsKannada.in" tvg-name="Asianet News Kannada" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="News",Asianet News Kannada (360p)
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-name="Asianet News Tamil" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="News",Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Assam Talks (240p)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-name="Australia Channel" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",Australia Channel (720p)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AWE Encore" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60482f63cfbf071d6151ca95" group-title="News",AWE Encore
+https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="News",B1 (720p)
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="BayonTV.kh" tvg-name="Bayon TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV (360p)
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BayonTV.kh" tvg-name="Bayon TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/1TgC7mx.jpg" group-title="News",Bayon TV (360p)
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+http://vs-cmaf-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
+http://vs-hls-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-name="BBC Persian" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+http://vs-cmaf-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-name="BBC Persian" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+http://vs-hls-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNewsYingGuo.uk" tvg-name="BBC World News(è‹±å›½)" tvg-country="UK" tvg-language="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News(è‹±å›½)
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="News",Berita RTM (1080p)
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-name="BeritaSatu English" tvg-country="ID" tvg-language="English" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu English
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black News Channel" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/604270ac363bbc6ec7359778" group-title="News",Black News Channel
+https://linear-130.frequency.stream/dist/localnow/130/bpk-tv/BNC-OTT/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Quicktake" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fd90265be57a052ad272332" group-title="News",Bloomberg Quicktake
+https://localnow.bmd.bloomberg.com/hls/manifests/quicktake_linear_us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Television" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc80f36394f9c3829386e02" group-title="News",Bloomberg TV
+https://localnow.bmd.bloomberg.com/hls/manifests/bmd_us_tickerless/master.m3u8
+#EXTINF:-1 tvg-id="BloombergMeiGuo.us" tvg-name="Bloomberg(ç¾Žå›½)" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="News",Bloomberg(ç¾Žå›½)
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="Brut.us" tvg-name="Brut." tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="News",Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="Brut.us" tvg-name="Brut." tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ek6GuXh.jpg" group-title="News",Brut.
+https://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="Bulgaria On Air" tvg-name="Bulgaria On Air" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="News",Bulgaria On Air (576p)
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-name="Canal 24 horas" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="News",Canal 24 horas (576p)
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="News",Canal 26 (360p)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="News",Canal 26 (720p)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="News",CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="News",CBC News Network
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN SÃ£o Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN SÃ£o Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",CBS News (720p)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="News",CBS News (720p)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-name="CBS News Boston" tvg-country="US" tvg-language="English" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" group-title="News",CBS News Boston (720p)
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-name="CBS News Los Angeles" tvg-country="US" tvg-language="English" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" group-title="News",CBS News Los Angeles (720p)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png" group-title="News",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN (360p)
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN (720p)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",CBSN (720p)
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+#EXTINF:-1 tvg-id="CBSN.us" tvg-name="CBSN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kuZyiqg.jpg" group-title="News",CBSN (720p)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-id="CBSNNewYork.us" tvg-name="CBSN New York" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",CBSN New York (720p)
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="CBSNNewYork.us" tvg-name="CBSN New York" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",CBSN New York (180p)
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_12.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTVä¸­å›½ä¸­å¤®ç”µè§†å°-13 æ–°é—»
+http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN (720p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentaryZhongGuo.cn" tvg-name="CGTN Documentary(ä¸­å›½)" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="News",CGTN Documentary(ä¸­å›½)
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNZhongGuo.cn" tvg-name="CGTN(ä¸­å›½)" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="News",CGTN(ä¸­å›½)
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="Channel2News.il" tvg-name="Channel 2 News" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News (720p)
+https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="News",Cheddar (720p)
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="News",Cheddar Big News
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 tvg-id="CheddarBigNews.us" tvg-name="Cheddar Big News" tvg-country="US" tvg-language="English" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26591/cheddar_news_440x330_NETWORK_LARGE_440_330.png" group-title="News",Cheddar Big News (1080p)
+https://live.chdrstatic.com/cbn/primary/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cheddar News" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="News",Cheddar News
+https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA (576p)
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="CNBCBajar.in" tvg-name="CNBC Bajar" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/cnbc_bajar_in.png" group-title="News",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="News",CNN (720p)
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia (720p)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalMeiGuo.us" tvg-name="CNN International (ç¾Žå›½)" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN International (ç¾Žå›½)
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:-1 tvg-id="CNNTurk.us" tvg-name="CNN TÃ¼rk" tvg-country="US;TR" tvg-language="Turkish" tvg-logo="http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_615x410/public/20110201141238cnn_turk_logosu.png" group-title="News",CNN TÃ¼rk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="CNNMeiGuo.us" tvg-name="CNN(ç¾Žå›½)" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN(ç¾Žå›½)
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News" tvg-country="BD" tvg-language="Bengali" tvg-logo="" group-title="News",DBC News (1080p)
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",DD National (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",DD News (576p)
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="DiTV.se" tvg-name="Di TV" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/zApTDWn.png" group-title="News",Di TV (720p)
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Dijlah.iq" tvg-name="Dijlah" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="News",Dijlah
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dijlah.iq" tvg-name="Dijlah" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="News",Dijlah (576p)
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-country="PK" tvg-language="Urdu" tvg-logo="" group-title="News",Dunya News (360p)
+https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="News",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="News",DW (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW (400p)
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="News",DW (400p)
+https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Arabic (400p)
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English (400p)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English (400p)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English (720p)
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW EspaÃ±ol" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW EspaÃ±ol (400p)
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-name="Echorouk News" tvg-country="DZ" tvg-language="Arabic" tvg-logo="" group-title="News",Echorouk News (240p) [Not 24/7]
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-name="Echorouk News" tvg-country="DZ" tvg-language="Arabic" tvg-logo="" group-title="News",Echorouk News (480p)
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-name="Entertainment Tonight" tvg-country="US" tvg-language="English" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/10/et-live1-e1541006731547.png" group-title="News",Entertainment Tonight (1080p)
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-id="EuronewsAlbania.fr" tvg-name="Euronews Albania" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/hTBah1z.jpg" group-title="News",Euronews Albania
+http://51.195.88.12:4050/live/euronewsmobpp2/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsDeutsch.fr" tvg-name="Euronews Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="News",Euronews Deutsch (720p)
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en EspaÃ±ol" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="News",Euronews en EspaÃ±ol (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsenFrancais.fr" tvg-name="Euronews en FranÃ§ais" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="News",Euronews en FranÃ§ais (720p)
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsinEnglish.fr" tvg-name="Euronews in English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="News",Euronews in English (720p)
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsItaliano.fr" tvg-name="Euronews Italiano" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews Italiano (720p)
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronewsporusski.fr" tvg-name="Euronews Ð¿Ð¾-Ñ€ÑƒÑÑÐºÐ¸" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4oOscgt.jpg" group-title="News",Euronews Ð¿Ð¾-Ñ€ÑƒÑÑÐºÐ¸ (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s89/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="News",Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-id="ExpressenTV.se" tvg-name="Expressen TV" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/wXvWBJp.png" group-title="News",Expressen TV (720p)
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Eye95America.us" tvg-name="Eye 95 America" tvg-country="US" tvg-language="Urdu" tvg-logo="" group-title="News",Eye 95 America
+https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Fox News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXNewsNow.us" tvg-name="FOX News Now" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-name="Fox News Now" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="News",Fox News Now (720p)
+https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-name="Fox News Radio" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="News",Fox News Radio (192p)
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",Fox News(ç¾Žå›½)
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic (1080p)
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic (576p)
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English (1080p)
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English (576p)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 EspaÃ±ol" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 EspaÃ±ol (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="France24Francais.fr" tvg-name="France 24 FranÃ§ais" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 FranÃ§ais
+http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="France24Francais.fr" tvg-name="France 24 FranÃ§ais" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 FranÃ§ais (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-name="Free Speech TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Free Speech TV (480p)
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 tvg-id="Futurism.us" tvg-name="Futurism" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Futurism (720p)
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-name="Global News" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="News",Global News (720p)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="GlobalPunjab.in" tvg-name="Global Punjab" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Global Punjab (720p)
+https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+#EXTINF:-1 tvg-id="GMANewsTVInternational.ph" tvg-name="GMA News TV International" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="News",GMA News TV International (576p)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
+#EXTINF:-1 tvg-id="HalabTodayTV.sy" tvg-name="Halab Today TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="News",Halab Today TV (480p)
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="News",HispanTV (480p)
+https://live.presstv.com/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HUMRAAZTV.us" tvg-name="HUMRAAZ TV" tvg-country="US;PK" tvg-language="Urdu" tvg-logo="" group-title="News",HUMRAAZ TV
+https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1 tvg-id="IciRDI.ca" tvg-name="Ici RDI" tvg-country="CA" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",Ici RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="IDG.us" tvg-name="IDG" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="News",IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="IGN.us" tvg-name="IGN" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/IGN_Entertainment_Logo.svg/500px-IGN_Entertainment_Logo.svg.png" group-title="News",IGN (1080p)
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaNews.in" tvg-name="India News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",India News (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png" group-title="News",iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="Infowars.us" tvg-name="Infowars" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="News",Infowars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-id="InfoWars.us" tvg-name="InfoWars" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VEd3y4O.png" group-title="News",InfoWars (720p)
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="IranInternational.ir" tvg-name="Iran International" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International (1080p)
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="JamahiriaTV.ly" tvg-name="Jamahiria TV" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://www.ljbctv.tv/logo.png" group-title="News",Jamahiria TV
+https://master.starmena-cloud.com/hls/jam.m3u8
+#EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/hXsVrIh.jpg" group-title="News",Kairali News (576p)
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 tvg-id="KCPQFoxQ13Seattle.us" tvg-name="KCPQ Fox Q13 Seattle" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4xs5ERr.jpg" group-title="News",KCPQ Fox Q13 Seattle (720p)
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KDFWFox4DallasFTWorth.us" tvg-name="KDFW Fox 4 Dallas-FT-Worth" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gjIKpMJ.png" group-title="News",KDFW Fox 4 Dallas-FT-Worth (720p)
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KhyberNewsTV.pk" tvg-name="Khyber News TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/NL1cqS2.png" group-title="News",Khyber News TV (414p)
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+#EXTINF:-1 tvg-id="KMSPFox9MinneapolisSTPaul.us" tvg-name="KMSP Fox 9 Minneapolis ST Paul" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WBgiaiB.jpg" group-title="News",KMSP Fox 9 Minneapolis ST Paul (720p)
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KRIVFox26Houston.us" tvg-name="KRIV Fox 26 Houston" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="News",KRIV Fox 26 Houston (720p)
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KTBCFox7Austin.us" tvg-name="KTBC Fox 7 Austin" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ugLwGEY.png" group-title="News",KTBC Fox 7 Austin (720p)
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KTTVFox11LosAngeles.us" tvg-name="KTTV Fox 11 Los Angeles" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",KTTV Fox 11 Los Angeles (720p)
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KTVUFox2SanFrancisco.us" tvg-name="KTVU Fox 2 San Francisco" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/18isSVd.png" group-title="News",KTVU Fox 2 San Francisco (720p)
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KZASFox10Phoenix.us" tvg-name="KZAS Fox 10 Phoenix" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TCzjchS.jpg" group-title="News",KZAS Fox 10 Phoenix (720p)
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="Libya218.ly" tvg-name="Libya 218" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/N9dO8AE.png" group-title="News",Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Libya218News.ly" tvg-name="Libya 218 News" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mzwdt39.jpg" group-title="News",Libya 218 News
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-name="Libya Al Ahrar TV" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://pbs.twimg.com/profile_images/953959542928412673/wYWx5MRY.jpg" group-title="News",Libya Al Ahrar TV
+https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LibyaAlHadath.ly" tvg-name="Libya Al Hadath" tvg-country="LY" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="News",Libya Al Hadath
+https://master.starmena-cloud.com/hls/hd.m3u8
+#EXTINF:-1 tvg-id="LibyaChannel.ly" tvg-name="Libya Channel" tvg-country="LY" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1524006480.jpg" group-title="News",Libya Channel
+https://master.starmena-cloud.com/hls/libyas.m3u8
+#EXTINF:-1 tvg-id="LN24.be" tvg-name="LN24" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="News",LN24 (1080p)
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-id="M24TVHD.ma" tvg-name="M24 TV HD" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="News",M24 TV HD (720p)
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Malaimurasu.in" tvg-name="Malaimurasu" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/uFiHtQX.png" group-title="News",Malaimurasu (480p) [Not 24/7]
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MangalamTV.in" tvg-name="Mangalam TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/V5nQl9m.png" group-title="News",Mangalam TV (576p)
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/QWHbIYt.png" group-title="News",Manorama News (576p)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xlGIEnZ.png" group-title="News",Mathrubhumi News (576p)
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-name="Medi 1 TV Afrique" tvg-country="MA" tvg-language="French" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-name="Medi 1 TV Arabic" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Arabic (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-name="Medi 1 TV Maghreb" tvg-country="MA" tvg-language="French;Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/tQvdxWo.jpg" group-title="News",Media One (576p)
+http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/tQvdxWo.jpg" group-title="News",Media One (1080p)
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-name="Mekameleen TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="News",Mekameleen TV (720p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="METROTV.id" tvg-name="METRO TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="News",METRO TV (720p)
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 tvg-id="METROTV.id" tvg-name="METRO TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040416.png" group-title="News",METRO TV (720p)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MihanTV.ir" tvg-name="Mihan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="News",Mihan TV
+https://iptv.mihantv.com/live/playlist1/index.m3u8
+#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-name="MVM Noticias" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="News",MVM Noticias (Oaxaca)
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="News",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="News",Nabaa TV (480p)
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News Now" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="News",NBC News Now (1080p)
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",NDTV (480p)
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
+#EXTINF:-1 tvg-id="NDTV24X7.in" tvg-name="NDTV 24X7" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7-IN" tvg-country="IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png" group-title="News",NDTV 24x7 (480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="News",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 12 New York" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="News",News 12 New York
+https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
+#EXTINF:-1 tvg-id="News18Assam.in" tvg-name="News 18 Assam" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Bengali.in" tvg-name="News 18 Bengali" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Bengali
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Chhattisgarh.in" tvg-name="News 18 Chhattisgarh" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Chhattisgarh
+https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Gujarati.in" tvg-name="News 18 Gujarati" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Gujarati
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Hindi.in" tvg-name="News 18 Hindi" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 18 Hindi
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Jharkhand.in" tvg-name="News 18 Jharkhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Jharkhand
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Malayalam.in" tvg-name="News 18 Malayalam" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/D9lMLmX.png" group-title="News",News 18 Malayalam
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News 18 Odia" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Odia
+https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Punjab.in" tvg-name="News 18 Punjab" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Punjab
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Rajasthan.in" tvg-name="News 18 Rajasthan" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Rajasthan
+https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Tamil.in" tvg-name="News 18 Tamil" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Urdu.in" tvg-name="News 18 Urdu" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Urdu
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News18Uttarakhand.in" tvg-name="News 18 Uttarakhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Uttarakhand
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24 (576p)
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="News",News 24 (480p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 24 (360p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="News1.th" tvg-name="News1" tvg-country="TH" tvg-language="Thai" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="News",News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-id="News18Assam.in" tvg-name="News18 Assam" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="News18India.in" tvg-name="News18 India" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-country="US" tvg-language="English" tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="News",Newsmax (1080p)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewsMax" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606f92e82172644613403a30" group-title="News",NewsMax
+https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Newsy" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f96bdd939905e0ce7438dd4" group-title="News",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Newsy (720p)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-country="US" tvg-language="English" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="News",Newsy (720p)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy (1080p)
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+#EXTINF:-1 tvg-id="Newvision.lb" tvg-name="Newvision" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" group-title="News",Newvision
+https://master.starmena-cloud.com/hls/newv.m3u8
+#EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-name="NHK Chinese Vision" tvg-country="JP" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="News",NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan (720p)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="News",Noticias Caracol (720p)
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="NPONieuws.nl" tvg-name="NPO Nieuws" tvg-country="NL" tvg-language="Dutch" tvg-logo="" group-title="News",NPO Nieuws (576p)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="News",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="News",NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="NTV News24" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24 (480p)
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OAN Encore" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60482b7d23abc17c31500628" group-title="News",OAN Encore
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:-1 tvg-id="OANEncore.us" tvg-name="OAN Encore" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News",OAN Encore
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
+#EXTINF:-1 tvg-id="OANNOneAmericaNewsNetwork.us" tvg-name="OANN One America News Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="News",OANN One America News Network (720p)
+http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",One America News (720p)
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-name="Palestine Today" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://paltoday.tv/style/assets/images/logo.png" group-title="News",Palestine Today (480p)
+https://live.paltoday.tv/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-name="Palitra News" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/9QVZGow.png" group-title="News",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-name="Palitra News" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/AqSRphj.png" group-title="News",Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Pratidin Time (360p)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV English (720p)
+https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:-1 tvg-id="PublikaTV.md" tvg-name="Publika TV" tvg-country="MD" tvg-language="Romanian" tvg-logo="" group-title="News",Publika TV (720p)
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-id="publika-tv" tvg-name="Publika TV" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hquii9k.jpg" group-title="News",Publika TV
+https://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/1920px-Rai_News_24.svg.png" group-title="News",Rai News 24 (576p)
+https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/a80vdrp.jpg" group-title="News",Reporter TV (576p)
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Revry News" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81131e591a036585913e9" group-title="News",Revry News
+https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT (720p)
+http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XYJEasM.png" group-title="News",RT (720p)
+http://rt-news.secure.footprint.net:80/1103.m3u8
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XYJEasM.png" group-title="News",RT (360p)
+https://rt-news.secure.footprint.net/1103_800Kb.m3u8
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XYJEasM.png" group-title="News",RT (1080p)
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:-1 tvg-id="RTAmerica.ru" tvg-name="RT America" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT America (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:-1 tvg-id="RTAmerica.ru" tvg-name="RT America" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT America (720p)
+http://rt-usa.secure.footprint.net:80/1105.m3u8
+#EXTINF:-1 tvg-id="RTAmerica.ru" tvg-name="RT America" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT America (720p)
+https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="" group-title="News",RT Arabic (720p)
+http://rt-arab.secure.footprint.net:80/1104.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en EspaÃ±ol" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="News",RT en EspaÃ±ol (720p)
+http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1 tvg-id="RTFrance.ru" tvg-name="RT France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France (720p)
+http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
+#EXTINF:-1 tvg-id="RTUK.ru" tvg-name="RT UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/zdTA0ha.png" group-title="News",RT UK (720p)
+http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1 tvg-id="RTUK.ru" tvg-name="RT UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT UK (720p)
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 [not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTENews.ie" tvg-name="RTÃ‰ News" tvg-country="IE" tvg-language="English" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="News",RTÃ‰ News (1080p)
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-name="Rudaw TV" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="News",Rudaw TV (1080p)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p) [Geo-blocked]
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-name="Sky News Arabia" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (720p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra1.uk" tvg-name="Sky News Extra 1" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 1 (576p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra2.uk" tvg-name="Sky News Extra 2" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 2 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra3.uk" tvg-name="Sky News Extra 3" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 3 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="STIRR2020LIVE.us" tvg-name="STIRR 2020 LIVE" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="News",STIRR 2020 LIVE (720p)
+https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRCOVID19NEWS.us" tvg-name="STIRR COVID-19 NEWS" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="News",STIRR COVID-19 NEWS (720p)
+https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#EXTINF:-1 tvg-id="SubRangTV.us" tvg-name="SubRang TV" tvg-country="US" tvg-language="Hindi" tvg-logo="https://i.imgur.com/xMN1q8P.jpg" group-title="News",SubRang TV
+https://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title="News",Suhail TV
+http://82.212.74.98:8000/live/hls/7726.m3u8
+#EXTINF:-1 tvg-id="SyrianNewsChannel.sy" tvg-name="Syrian News Channel" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",Syrian News Channel (270p)
+http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
+#EXTINF:-1 tvg-id="TAGTV.us" tvg-name="TAG TV" tvg-country="US" tvg-language="Hindi" tvg-logo="" group-title="News",TAG TV
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1 tvg-id="TeleSUREnglish.ve" tvg-name="TeleSUR English" tvg-country="VE" tvg-language="English" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="News",TeleSUR English (1080p)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCom 24" tvg-country="IT" tvg-language="Italian" tvg-logo="" group-title="News",TGCom 24 [Geo-blocked]
+https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png" group-title="News",Thanthi TV (720p)
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The First" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc953ab6426646dbd7347b4" group-title="News",The First
+https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWallStreetJournalLive.us" tvg-name="The Wall Street Journal Live" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="News",The Wall Street Journal Live (720p)
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa
+#EXTINF:-1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8z7UeY8.png" group-title="News",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="TimesNowHD.in" tvg-name="Times Now HD" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="News",Times Now HD (480p)
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-id="TR24.it" tvg-name="TR24" tvg-country="IT" tvg-language="Italian" tvg-logo="" group-title="News",TR24 (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorldTuErQi.tr" tvg-name="TRT World(åœŸè€³å…¶)" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="News",TRT World(åœŸè€³å…¶)
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="TVGuara.br" tvg-name="TV GuarÃ¡" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="News",TV GuarÃ¡ (720p)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV PerÃº Noticias" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0THQOZn.png" group-title="News",TV PerÃº Noticias [Not 24/7]
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV PerÃº Noticias" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="News",TV PerÃº Noticias [Not 24/7]
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="TVSeventeen.lb" tvg-name="TV Seventeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.tvseventeen.com/img/logo.png" group-title="News",TV Seventeen (720p)
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
+#EXTINF:-1 tvg-id="TVBSXingWen.tw" tvg-name="TVBSæ–°èž" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="News",TVBSæ–°èž
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-country="ID" tvg-language="Indonesian;English" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="News",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-name="Twenty Four News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (576p)
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF:-1 tvg-id="Unews.lb" tvg-name="Unews" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png" group-title="News",Unews (360p)
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
+#EXTINF:-1 tvg-id="VoAPersian.us" tvg-name="VoA Persian" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VoA Persian (1080p)
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-id="WAGAFox5Atlanta.us" tvg-name="WAGA Fox 5 Atlanta" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News",WAGA Fox 5 Atlanta (720p)
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="Weather Channel" tvg-country="US" tvg-language="English" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="News",Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="Weather Nation" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="News",Weather Nation (720p)
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEWS 5 ABC Cleveland News" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1" group-title="News",WEWS 5 ABC Cleveland News
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 tvg-id="WFLDFOX32Chicago.us" tvg-name="WFLD FOX 32 Chicago" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lf5sLNn.png" group-title="News",WFLD FOX 32 Chicago (720p)
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WITIFox6Milwaukee.us" tvg-name="WITI Fox 6 Milwaukee" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qmOd9Yr.jpg" group-title="News",WITI Fox 6 Milwaukee (720p)
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WJBKFox2Detroit.us" tvg-name="WJBK Fox 2 Detroit" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="News",WJBK Fox 2 Detroit (720p)
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WNWYFox5NewYork.us" tvg-name="WNYW Fox 5 New York" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="News",WNYW Fox 5 New York (720p)
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WSJ.us" tvg-name="WSJ" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" group-title="News",WSJ (1080p)
+https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1 tvg-id="WSVNFox7Miami.us" tvg-name="WSVN Fox 7 Miami" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mfJVjpd.jpg" group-title="News",WSVN Fox 7 Miami (720p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
+#EXTINF:-1 tvg-id="WTTGFox5WashingtonDC.us" tvg-name="WTTG Fox 5 Washington DC" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="News",WTTG Fox 5 Washington DC (720p)
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WTVTFox13TampaBay.us" tvg-name="WTVT Fox 13 Tampa Bay" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bvkri2L.png" group-title="News",WTVT Fox 13 Tampa Bay (720p)
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WTXFFox29Philadelphia.us" tvg-name="WTXF Fox 29 Philadelphia" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="News",WTXF Fox 29 Philadelphia (720p)
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yahoo! Finance" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303" group-title="News",Yahoo! Finance
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Evronovosti.ru" tvg-name="Ð•Ð²Ñ€Ð¾Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Ð•Ð²Ñ€Ð¾Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸ (720p)
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
+#EXTINF:-1 tvg-id="Izvestiya.ru" tvg-name="Ð˜Ð·Ð²ÐµÑÑ‚Ð¸Ñ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/izvestia.png" group-title="News",Ð˜Ð·Ð²ÐµÑÑ‚Ð¸Ñ (1080p)
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="Izvestiya.ru" tvg-name="Ð˜Ð·Ð²ÐµÑÑ‚Ð¸Ñ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/izvestia.png" group-title="News",Ð˜Ð·Ð²ÐµÑÑ‚Ð¸Ñ (720p)
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="ÐœÐ¸Ñ€ 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",ÐœÐ¸Ñ€ 24 (576p)
+http://188.40.68.167/russia/mir24/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="ÐœÐ¸Ñ€ 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",ÐœÐ¸Ñ€ 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="ÐœÐ¸Ñ€ 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",ÐœÐ¸Ñ€ 24
+https://sc.id-tv.kz/Mir24.m3u8
+#EXTINF:-1 tvg-id="Pershiynezalezhniy.ua" tvg-name="ÐŸÐµÑ€ÑˆÐ¸Ð¹ Ð½ÐµÐ·Ð°Ð»ÐµÐ¶Ð½Ð¸Ð¹" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="News",ÐŸÐµÑ€ÑˆÐ¸Ð¹ Ð½ÐµÐ·Ð°Ð»ÐµÐ¶Ð½Ð¸Ð¹
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Ð Ð¾ÑÑÐ¸Ñ 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" group-title="News",Ð Ð¾ÑÑÐ¸Ñ 24 (576p)
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Ð Ð¾ÑÑÐ¸Ñ 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" group-title="News",Ð Ð¾ÑÑÐ¸Ñ 24 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:-1 tvg-id="Rossiya24NNovgorod.ru" tvg-name="Ð Ð¾ÑÑÐ¸Ñ 24 (Ð.ÐÐ¾Ð²Ð³Ð¾Ñ€Ð¾Ð´)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Ð Ð¾ÑÑÐ¸Ñ 24 (Ð.ÐÐ¾Ð²Ð³Ð¾Ñ€Ð¾Ð´) (576p)
+https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 tvg-id="Rossiya24Ulyanovsk.ru" tvg-name="Ð Ð¾ÑÑÐ¸Ñ 24 (Ð£Ð»ÑŒÑÐ½Ð¾Ð²ÑÐº)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Ð Ð¾ÑÑÐ¸Ñ 24 (Ð£Ð»ÑŒÑÐ½Ð¾Ð²ÑÐº) (720p)
+http://gtrk-volga.ru/media/hr24/stream1.m3u8
+#EXTINF:-1 tvg-id="Rossiya24Chita.ru" tvg-name="Ð Ð¾ÑÑÐ¸Ñ 24 (Ð§Ð¸Ñ‚Ð°)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Ð Ð¾ÑÑÐ¸Ñ 24 (Ð§Ð¸Ñ‚Ð°) (360p)
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+#EXTINF:-1 tvg-id="Rossiya24Chita.ru" tvg-name="Ð Ð¾ÑÑÐ¸Ñ 24 (Ð§Ð¸Ñ‚Ð°)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Ð Ð¾ÑÑÐ¸Ñ 24 (Ð§Ð¸Ñ‚Ð°) (576p)
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" group-title="News",à²Ÿà²¿à²µà²¿à³¯ à²•à²¨à³à²¨à²¡ TV9 (720p)
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DighvijayNews24x7.in" tvg-name="Dighvijay News 24x7" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://i.imgur.com/wdE7gxU.png" group-title="News",à²¦à²¿à²—à³à²µà²¿à²œà²¯ à²¸à³à²¦à³à²¦à²¿ Dighvijay (240p)
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News 18 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://static.kannada.news18.com/kannada/uploads/2020/03/Kannada1.png" group-title="News",à²¨à³à²¯à³‚à²¸à³ à³§à³® à²•à²¨à³à²¨à²¡ News 18
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="SuvarnaNews24x7.in" tvg-name="Suvarna News 24Ã—7" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" group-title="News",à²¸à³à²µà²°à³à²£ à²¸à³à²¦à³à²¦à²¿ 24Ã—7 Suvarna (360p)
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="SanLiXingWen.tw" tvg-name="ä¸‰ç«‹æ–°èž" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="News",ä¸‰ç«‹æ–°èž
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="ZhongTianXingWen.tw" tvg-name="ä¸­å¤©æ–°èž" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="News",ä¸­å¤©æ–°èž
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="ZhongShiXingWen.tw" tvg-name="ä¸­è¦–æ–°èž" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" group-title="News",ä¸­è¦–æ–°èž
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="TaiShiXingWen.tw" tvg-name="å°è¦–æ–°èž" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="News",å°è¦–æ–°èž
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="YiDianShiXinWenTai.tw" tvg-name="å£¹é›»è¦–æ–°èžå°" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF" group-title="News",å£¹é›»è¦–æ–°èžå°
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="DongLingXingWen.tw" tvg-name="æ±æ£®æ–°èž" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",æ±æ£®æ–°èž
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="DongLingCaiJingXingWen.tw" tvg-name="æ±æ£®è²¡ç¶“æ–°èž" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",æ±æ£®è²¡ç¶“æ–°èž
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="æ°‘è¦–å°ç£" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",æ°‘è¦–å°ç£ (720p)
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="MinShiXinWenTai.tw" tvg-name="æ°‘è¦–æ–°èžå°" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",æ°‘è¦–æ–°èžå°
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="GangTaiDianShi32.hk" tvg-name="æ¸¯å°é›»è¦–32" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="News",æ¸¯å°é›»è¦–32 (480p)
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 tvg-id="AoMenZiXun.mo" tvg-name="æ¾³é–€è³‡è¨Š" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="News",æ¾³é–€è³‡è¨Š (720p)
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="HuaShiXingWen.tw" tvg-name="è¯è¦–æ–°èžè³‡è¨Š" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/27/Cts_news_info.png/200px-Cts_news_info.png" group-title="News",è¯è¦–æ–°èžè³‡è¨Š
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="é³³å‡°è³‡è¨Š" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News",é³³å‡°è¡›è¦–è³‡è¨Šå°HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+
