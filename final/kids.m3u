@@ -149,3 +149,127 @@ http://210.210.155.35/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-id="ANIPLUS.ph" tvg-name="ANIPLUS" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="Kids",ANIPLUS (576p)
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-id="AkaramKidz.in" tvg-name="Akaram Kidz" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Kids",Akaram Kidz (460p)
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-id="ARBGuns.az" tvg-name="ARB GÃ¼nÉ™ÅŸ" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="Kids",ARB GÃ¼nÉ™ÅŸ
+http://149.255.152.199/arbgunes.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Boomerang
+http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.us" tvg-name="Cartoon Network Arabic" tvg-country="MENA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-name="CBeebies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids",Cbeebies UK
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTVä¸­å›½ä¸­å¤®ç”µè§†å°-14 å°‘å„¿
+http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Kids",ch 23 ×”×—×™× ×•×›×™×ª
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="DaVinci.de" tvg-name="Da Vinci" tvg-country="CIS" tvg-language="Russian" tvg-logo="" group-title="Kids",Da Vinci
+http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" group-title="Kids",EBS Kids (360p)
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EnkiBenki.ge" tvg-name="Enki Benki" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/RJAT25i.jpg" group-title="Kids",Enki Benki
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMJunior.ir" tvg-name="GEM Junior" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/5/58/GEM_Junior_%28Logo%29.jpg/revision/latest?cb=20161212140305" group-title="Kids",GEM Junior [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMKids.ir" tvg-name="GEM Kids" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/5/58/GEM_Junior_%28Logo%29.jpg/revision/latest?cb=20161212140305" group-title="Kids",GEM Kids [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GravityFouls.ru" tvg-name="Gravity Fouls" tvg-country="INT" tvg-language="Russian" tvg-logo="" group-title="Kids",Gravity Fouls
+https://autopilot.catcast.tv/content/38105/index.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Kids",Gulli (540p)
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-name="Gulli Bil Arabi" tvg-country="FR" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="Kids",Gulli Bil Arabi (1080p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
+#EXTINF:-1 tvg-id="GulliGirl.fr" tvg-name="Gulli Girl" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",Gulli Girl (576p) [Not 24/7]
+http://188.40.68.167/russia/gulli_girl/playlist.m3u8
+#EXTINF:-1 tvg-id="JimJamRossiya.uk" tvg-name="JimJam Ð Ð¾ÑÑÐ¸Ñ" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",JimJam Ð Ð¾ÑÑÐ¸Ñ (576p)
+http://188.40.68.167/russia/jimjam/playlist.m3u8
+#EXTINF:-1 tvg-id="KinderTV.ua" tvg-name="Kinder TV" tvg-country="INT" tvg-language="Ukrainian;Russian" tvg-logo="" group-title="Kids",Kinder TV
+http://autopilot.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-name="Kuriakos Kids" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids (1080p)
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-name="Kuriakos Kids" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Kids",Kuriakos Kids (1080p)
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1 tvg-id="Lale.ua" tvg-name="Lale" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="Kids",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 tvg-id="MajidTV.ae" tvg-name="Majid TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV (1080p)
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC3EUR.ae" tvg-name="MBC 3 EUR" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.ae" tvg-name="MBC 3 USA" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 USA (1080p)
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:-1 tvg-id="nickjrtoo.us" tvg-name="Nick Jr. Too" tvg-country="UK;IE" tvg-language="English" tvg-logo="http://neczbm.to/images/channels/NickJrToo.png" group-title="Kids",Nick Jr. Too (576p)
+http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-name="PBS Kids (EST)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Kids",PBS Kids (EST) (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="Bobleponge.us" tvg-name="Bob l'Ã©ponge" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" group-title="Kids",Pluto TV Bob l'Ã©ponge
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Pluto TV Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png" group-title="Kids",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVKidsAnimation.us" tvg-name="Pluto TV Kids Animation" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" group-title="Kids",Pluto TV Kids Animation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVKidsCollection.us" tvg-name="Pluto TV Kids Collection" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png" group-title="Kids",Pluto TV Kids Collection
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVKidsSeries.us" tvg-name="Pluto TV Kids SÃ©ries" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png" group-title="Kids",Pluto TV Kids SÃ©ries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-name="Rotana Kids" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="Kids",Rotana Kids (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-name="Rotana Kids" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="Kids",Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooKids.in" tvg-name="Shemaroo Kids" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Kids",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 tvg-id="Spacetoon.sy" tvg-name="Spacetoon" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="Spacetoon.sy" tvg-name="Spacetoon" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon (576p)
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperToonsTV.de" tvg-name="Super Toons TV" tvg-country="BG" tvg-language="" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Kids",Super Toons TV (720p)
+https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TCTKids.us" tvg-name="TCT Kids" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",TCT Kids
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 tvg-id="TijiInFrench.fr" tvg-name="Tiji In French" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Kids",Tiji In French (1080p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
+#EXTINF:-1 tvg-id="TijiRussia.fr" tvg-name="Tiji Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",Tiji Russia (576p)
+http://188.40.68.167/russia/tiji/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Toon Goggles" tvg-country="US;AU" tvg-language="English" tvg-logo="https://i.imgur.com/XusVyxA.jpg" group-title="Kids",Toon Goggles (720p)
+https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Ã‡ocuk" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Kids",TRT Ã‡ocuk (720p)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TVJojko.sk" tvg-name="TV Jojko" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Kids",TV Jojko (540p)
+https://nn.geo.joj.sk/live/rik-index.m3u8
+#EXTINF:-1 tvg-id="KanalDisney.us" tvg-name="ÐšÐ°Ð½Ð°Ð» Disney" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",ÐšÐ°Ð½Ð°Ð» Disney (576p)
+http://188.40.68.167/russia/disney/playlist.m3u8
+#EXTINF:-1 tvg-id="KarapuzTV.ru" tvg-name="ÐšÐ°Ñ€Ð°Ð¿ÑƒÐ· Ð¢Ð’" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",ÐšÐ°Ñ€Ð°Ð¿ÑƒÐ· Ð¢Ð’
+https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
+#EXTINF:-1 tvg-id="LyubimoeTV.ru" tvg-name="Ð›ÑŽÐ±Ð¸Ð¼Ð¾Ðµ.Ð¢Ð’" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",Ð›ÑŽÐ±Ð¸Ð¼Ð¾Ðµ.Ð¢Ð’ (720p)
+https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
+#EXTINF:-1 tvg-id="O.ru" tvg-name="Ðž!" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",Ðž!
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Ð Ð°Ð´Ð¾ÑÑ‚ÑŒ ÐœÐ¾Ñ" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",Ð Ð°Ð´Ð¾ÑÑ‚ÑŒ ÐœÐ¾Ñ (576p)
+http://188.40.68.167/russia/radost_moya/playlist.m3u8
+#EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-name="Ð¡Ð¼Ð°Ð¹Ð»Ð¸Ðº Ð¢Ð’" tvg-country="RU" tvg-language="Russian" tvg-logo="http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png" group-title="Kids",Ð¡Ð¼Ð°Ð¹Ð»Ð¸Ðº Ð¢Ð’ (720p)
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-name="Ð¢Ð°Ð¼Ñ‹Ñ€" tvg-country="RU" tvg-language="Bashkir" tvg-logo="https://i.imgur.com/ySedtZl.png" group-title="Kids",Ð¢Ð°Ð¼Ñ‹Ñ€ (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="ä¼˜æ¼«å¡é€š" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",ä¼˜æ¼«å¡é€š
+http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 tvg-id="BeiJingQiaKuShaoEr.cn" tvg-name="åŒ—äº¬å¡é…·å°‘å„¿" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",åŒ—äº¬å¡é…·å°‘å„¿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 tvg-id="HaHaXuanDong.cn" tvg-name="å“ˆå“ˆç‚«åŠ¨" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="Kids",å“ˆå“ˆç‚«åŠ¨Toon Max TV (480p)
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="å“ˆå“ˆç‚«åŠ¨" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids",å“ˆå“ˆç‚«åŠ¨å«è§† (480p)
+http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="å˜‰ä½³å¡é€š" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="Kids",å˜‰ä½³å¡é€š
+http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-id="XuanDongQiaTong.cn" tvg-name="ç‚«åŠ¨å¡é€š" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",ç‚«åŠ¨å¡é€š
+http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 tvg-id="FuZhouShaoEr.cn" tvg-name="ç¦å·žå°‘å„¿" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",ç¦å·žå°‘å„¿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="é‡‘é¹°å¡é€š" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",é‡‘é¹°å¡é€š
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-id="HeiMeiDongHua.cn" tvg-name="é»‘èŽ“åŠ¨ç”»" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="Kids",é»‘èŽ“åŠ¨ç”»
+http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
+
