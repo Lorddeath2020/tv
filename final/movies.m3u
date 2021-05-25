@@ -313,5 +313,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 tvg-id="Mirseriala.ru" tvg-name="ÐœÐ¸Ñ€ ÑÐµÑ€Ð¸Ð°Ð»Ð°" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Movies",ÐœÐ¸Ñ€ ÑÐµÑ€Ð¸Ð°Ð»Ð° (576p)
 http://188.40.68.167/russia/mir_seriala/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickMovies.us" tvg-name="Maverick Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Zk5wP5K.png" group-title="Movies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 
 
