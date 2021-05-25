@@ -234,6 +234,8 @@ http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 tvg-id="FuZhouShaoEr.cn" tvg-name="ç¦å·žå°‘å„¿" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",ç¦å·žå°‘å„¿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",WOW! TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
