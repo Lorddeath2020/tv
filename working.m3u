@@ -1715,5 +1715,57 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV 
 https://tv.mbahnunungonline.net/playlist/mytv.m3u8
+#EXTINF:-1,ATN Bangla
+https://ott.bingebd.com/live/ngrp:atn_bangla_all/subir.m3u8
+#EXTINF:-1,NTV
+https://ott.bingebd.com/live/ngrp:ntv_all/subir.m3u8
+#EXTINF:-1,RTV
+https://ott.bingebd.com/live/ngrp:rtv_all/subir.m3u8
+#EXTINF:-1,Bijoy TV
+https://ott.bingebd.com/live/ngrp:bijoy_tv_all/subir.m3u8
+#EXTINF:-1,Asian TV
+https://ott.bingebd.com/live/ngrp:asian_tv_all/subir.m3u8
+#EXTINF:-1,Ananda TV
+https://ott.bingebd.com/live/ngrp:probashibangla_all/subir.m3u8
+#EXTINF:-1,Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1,Bangla TV
+https://ott.bingebd.com/live/ngrp:bangla_tv_all/subir.m3u8
+#EXTINF:-1,SATV
+https://ott.bingebd.com/live/ngrp:sa_tv_all/subir.m3u8
+#EXTINF:-1,Mohona TV
+https://ott.bingebd.com/live/ngrp:mohona_tv_all/subir.m3u8
+#EXTINF:-1,MY TV
+https://ott.bingebd.com/live/ngrp:my_tv_all/subir.m3u8
+#EXTINF:-1,Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1,Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1,Itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,ATN News
+https://ott.bingebd.com/live/ngrp:atn_news_all/chunklist.m3u8
+#EXTINF:-1,News 24
+https://ott.bingebd.com/live/ngrp:news_24_hd_all/chunklist.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/chunklist.m3u8
+#EXTINF:-1,News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:-1,Star Plus HD
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
+#EXTINF:-1,Sony SAB
+http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold
+https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
+#EXTINF:-1,Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1,B4U Movies
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8
+#EXTINF:-1,Bflix
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1,Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+#EXTINF:-1,Sony Six
+http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
 
