@@ -119,3 +119,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/One_Sports_logo.svg/revision/latest/scale-to-width-down/340?cb=20210103142547" tvg-name="ONE Sports"  group-title="Sports",ONE Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="Free Sport",Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FTF For the fans" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="Free Sport",FTF For the fans
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+
+
