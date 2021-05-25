@@ -1689,4 +1689,31 @@ https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.eu" group-title="UK" tvg-logo="https://i.imgur.com/HBksX8u.png",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI 
+https://tv.mbahnunungonline.net/playlist/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV 
+https://tv.mbahnunungonline.net/playlist/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar 
+https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/QTEjMpg.png?v=1.1.1.1" group-title="Nasional", Trans 7 
+https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/RnrimdT.png?v=1.1.1.1" group-title="Nasional", Trans TV 
+https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV 
+https://tv.mbahnunungonline.net/playlist/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET. 
+https://livestreaming-google-etslive.vidio.com/live/875/master.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=1.1.1.1" group-title="Nasional", rtv 
+https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=1.1.1.1" group-title="Nasional", Kompas TV 
+https://livestreaming-google-etslive.vidio.com/live/874/master.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/EknqlDs.png?v=1.1.1.1" group-title="Nasional", iNews 
+https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional", CNN Indonesia HD 
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/gII3Eq8.png?v=1.1.1.1" group-title="Nasional", Berita Satu 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV 
+https://tv.mbahnunungonline.net/playlist/mytv.m3u8
+
 
