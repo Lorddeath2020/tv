@@ -317,4 +317,18 @@ http://188.40.68.167/russia/mir_seriala/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="MilleniumTV.ru" tvg-name="Millenium TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Movies",Millenium TV (540p)
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="UK",Action Movies
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="UK",Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discover.Film" tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="UK",Discover.Film
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="UK",Drama
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="UK",Dust
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/aoaV9ek.jpg" group-title="UK",Filmstream
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmzie" tvg-logo="https://i.imgur.com/jUWffic.png" group-title="UK",Filmzie
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
