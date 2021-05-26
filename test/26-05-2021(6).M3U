@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
 http://rec2.distv.net:80/heitor/123456/113
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
