@@ -14,85 +14,26 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8?
 #EXTINF:0, tvg-id="ext" group-title="Japan",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8?
 #EXTINF:0, tvg-id="ext" group-title="Japan",NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?
 #EXTINF:0, tvg-id="ext" group-title="Japan",NHK World Japan live
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",NHK World Japan 1m
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",NHK World Japan 1mb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",NHK World Japan 200k
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200k.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",NHK World Japan 200kb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_200k.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",NHK World Japan 600k
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",NHK World Japan 600kb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",NTV News24
-EXTINF:-1 tvg-logo="https://i.imgur.com/hoxvBkF.png" group-title="JAPAN",BS Asahi (New!)
-http://203.162.235.41:16914
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5TaUGiC.png" group-title="JAPAN",BS Fuji (New!)
-http://203.162.235.41:16911
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F8vUpjV.png" group-title="JAPAN",BS Japan (New!)
-http://203.162.235.41:16915
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UIWO2Jp.png" group-title="JAPAN",BS NTV (New!)
-http://203.162.235.41:16912
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OSxEPYU.png" group-title="JAPAN",BS TBS (New!)
-http://203.162.235.41:16913
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iNwIAso.png" group-title="JAPAN",Eisei Gekijo
-http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
-#EXTINF:-1 tvg-logo="http://www.himawari.co.jp/wp-content/uploads/channel_logo_cs_261ch.jpg" group-title="JAPAN",Family Gekijo
-http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fuwPytF.png" group-title="JAPAN",Fuji TV (New!)
-http://203.162.235.41:16904
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQ8Mpvq.png" group-title="JAPAN",Golf Network (New!)
-http://203.162.235.41:16924
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATIcNOc.png" group-title="JAPAN",GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Es2bzNQ.png" group-title="JAPAN",Gunma TV (New!)
 https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="JAPAN",History
-http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="JAPAN",MBS (New!)
-http://203.162.235.41:16910
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="JAPAN",NHK General (New!)
-http://203.162.235.41:16903
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="JAPAN",NHK World Premium (New!)
-http://203.162.235.41:16901
 #EXTINF:-1 tvg-logo="https://i.imgur.com/guVDfBx.png" group-title="JAPAN",NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VVpj6AF.png" group-title="JAPAN",Nihon Eiga TV
-http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="JAPAN",Nippon TV (New!)
-http://203.162.235.41:16905
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",NTV News24
-http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="JAPAN",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="JAPAN",Shop Channel
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="JAPAN",TB (Opt-1) (New!)
 http://main1.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="JAPAN",TBS (Opt-2) (New!)
-http://203.162.235.41:16907
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 1 (New!)
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 2 (New!)
 http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="JAPAN",TV Tokyo (New!)
-http://203.162.235.41:16908
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="JAPAN",WeatherNews
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="JAPAN",Wowow Cinefil
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-
-#PLAYLIST:iptvcat.com
 #EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="Religious",CGNTV Japan
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="Shop;Undefined",GSTV
@@ -105,28 +46,10 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan,NHK World Japan live
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan 1m
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan 1mb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan 200k
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200k.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan 200kb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_200k.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan 600k
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan 600kb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8?checkedby:iptvcat.com
 #EXTINF:0, tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport;Undefined",New Japan Pro Wrestling World,NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24
-http://www.news24.jp/livestream/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24
-https://www.news24.jp/livestream/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shop",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0, tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0, tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX2
@@ -141,16 +64,6 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:iptvca
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0, tvg-country="JP" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" group-title="Undefined",ジャパネットチャンネルDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物1
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物2
-http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物3
-http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物4
-http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0, tvg-id="ext" group-title="Japan",NTV News24
-https://www.news24.jp/livestream/index.m3u8?
 #EXTINF:0, tvg-id="ext" group-title="Japan",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?
 #EXTINF:0, tvg-id="ext" group-title="Japan",NJPW World
@@ -163,11 +76,3 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8?
 #EXTINF:0, tvg-id="ext" group-title="Japan",ジャパネットチャンネルDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",日本购物1
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",日本购物2
-http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",日本购物3
-http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?
-#EXTINF:0, tvg-id="ext" group-title="Japan",日本购物4
-http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?
