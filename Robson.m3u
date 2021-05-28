@@ -206,3 +206,9 @@ http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/ryowa6/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="WeatherNews.jp" tvg-name="Weather News" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1, tvg-ID="JAPAN" tvg-name="ANIPLUS AISA" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="CS放送", ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:0, GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:0, NHK World Japan live
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
