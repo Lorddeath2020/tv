@@ -436,3 +436,55 @@ http://193.42.99.130:23455/TVTOKYO/playlist.m3u8
 http://193.42.99.130:23455/3770/playlist.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="TOKYO MX 1" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" group-title="NIGEHAJI",TOKYO MX 1
 http://193.42.99.130:23455/TOKYOMX/playlist.m3u8
+#EXTINF:-1, tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Movies",Animax Japan (720p)
+http://180.92.158.208:9981/stream/channelid/806982131
+#EXTINF:-1, tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;English" tvg-logo="" group-title="",Animax Japan (English Subs)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:-1, tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;Malay (macrolanguage)" tvg-logo="" group-title="",Animax Japan (Malay Subs)
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1, tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;Vietnamese" tvg-logo="" group-title="",Animax Japan (Vietnamese Subs)
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:-1, tvg-id="AnimaxKorea.jp" tvg-name="Animax Korea" tvg-country="KR" tvg-language="" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/31_anymax.png" group-title="",Animax Korea
+http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=SD&apikey=196JE7PCDI
+#EXTINF:-1, tvg-id="AnimaxKorea.jp" tvg-name="Animax Korea" tvg-country="KR" tvg-language="" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/31_anymax.png" group-title="",Animax Korea
+http://sksmsanf.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=SD&apikey=OJW57DXHXF
+#EXTINF:-1, tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="Local",BS Asahi
+http://203.162.235.41:16914
+#EXTINF:-1, tvg-id="BSFujiBS181.jp" tvg-name="BS Fuji (BS181)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="Local",BS Fuji (BS181)
+http://203.162.235.41:16911
+#EXTINF:-1, tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="Local",BS TV Tokyo (BS171)
+http://203.162.235.41:16915
+#EXTINF:-1, tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="",BS-TBS
+http://203.162.235.41:16913
+#EXTINF:-1, tvg-id="FujiTV.jp" tvg-name="Fuji TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Fuji TV
+https://fujitv.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1, tvg-id="FujiTVJOCXDTV.jp" tvg-name="Fuji TV (JOCX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="Local",Fuji TV (JOCX-DTV)
+http://203.162.235.41:16904
+#EXTINF:-1, tvg-id="JSTV2.jp" tvg-name="JSTV 2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/jstv2-regarder.png" group-title="Local",JSTV 2
+http://203.162.235.41:16901
+#EXTINF:-1, tvg-id="NHKBSPremiumBS103.jp" tvg-name="NHK BS Premium (BS103)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="Local",NHK BS Premium (BS103)
+http://203.162.235.41:16910
+#EXTINF:-1, tvg-id="NHKBS1BS101.jp" tvg-name="NHK BS1 (BS101)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="Local",NHK BS1 (BS101)
+http://203.162.235.41:16909
+#EXTINF:-1, tvg-id="NHKGeneralJOAKDTV.jp" tvg-name="NHK General (JOAK-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Local",NHK General (JOAK-DTV)
+http://203.162.235.41:16903
+#EXTINF:-1, tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",NHK General TV
+https://nhk.mov3.co/hls/nhk.m3u8
+#EXTINF:-1, tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",Nippon TV
+https://ntv.mov3.co/hls/ntv.m3u8
+#EXTINF:-1, tvg-id="NipponTVJOAXDTV.jp" tvg-name="Nippon TV (JOAX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NTV.png" group-title="Local",Nippon TV (JOAX-DTV)
+http://203.162.235.41:16905
+#EXTINF:-1, tvg-id="NTVNews24.jp" tvg-name="NTV News24" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24 (480p)
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1, tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1, tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS
+https://tbs.mov3.co/hls/tbs.m3u8
+#EXTINF:-1, tvg-id="TBSJORXDTV.jp" tvg-name="TBS (JORX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Local",TBS (JORX-DTV)
+http://203.162.235.41:16907
+#EXTINF:-1, tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="Local",TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1, tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="",TV Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1, tvg-id="WOWOWsinema.jp" tvg-name="WOWOWシネマ" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",WOWOWシネマ (Wowow Cinema)
+http://203.162.235.41:16916
