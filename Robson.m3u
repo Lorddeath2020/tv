@@ -1,17 +1,6 @@
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Vie_Gi%E1%BA%A3i_Tr%C3%AD.png", Vie Giải Trí 
-http://s3.nihontv.net:21585/vtvcab1/index.m3u8
-#EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/855571/162280/162280_5033429_855571_image.jpg", Pet Club TV
-https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.cableth.com/assets/202102241213411582831310.png", Sanook Movies
-https://cdn6.goprimetime.info/feed/LC53/index.m3u8
-#EXTINF:-1, FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, FOX Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES
-https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX LIFE" group-title="MOVIE" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png", FOX LIFE
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+#EXTM3U
+
+
 #EXTINF:-1 tvg-id="ParamountHD"  group-title="MOVIE" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png", NHK World Japan
