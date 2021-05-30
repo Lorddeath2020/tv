@@ -1705,3 +1705,55 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="South Korea(한국어)", K+
 http://210.210.155.35/uq2663/h/h08/index2.m3u8
+#EXTINF:-1,BAHAR
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,KAYHAN
+http://208.93.117.113/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TUTI
+https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
+#EXTINF:-1,TV ELEVEN
+http://51.210.199.43/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,ARIANA
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,&PICTURES
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
+#EXTINF:0, ZEE ANMOL UK
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:0,PEN TV
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:0,ZEE ZEST HD
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v1a1/mono.m3u8
+#EXTINF:0,DD RETRO
+https://viacom-b.multitvsolution.com/viacomhls/ddretro_720p/index.m3u8
+#EXTINF:0,STAR GOLD
+https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b478000.m3u8
+#EXTINF:0,B4U3
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist_b1228000.m3u8
+#EXTINF:0,&PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,ACTION
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,E1
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1,E2
+http://170.178.189.70:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,E3
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,E4
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,E5
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,E6
+https://amc-absolutereality-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,E7
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1 ,American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 ,WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 ,WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 ,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
