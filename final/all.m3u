@@ -97,8 +97,6 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnHnkYY/logo-horizontal.png" group-title="Sports", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" group-title="News",CBSN
@@ -123,8 +121,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/150px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS | SINAL ABERTO",RECORD RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="PAI ETERNO" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | ESPORTES",PAI ETERNO
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w369174169.m3u8
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" group-title="CANAIS | INFANTIS ",NICKELODEON
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
 #EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil_m.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL
@@ -135,8 +131,7 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
 #EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/25.m3u8
-#EXTINF:-1 tvg-id="CANAL PROMESSAS" tvg-name="CANAL PROMESSAS" tvg-logo="https://uploaddeimagens.com.br/images/002/080/431/full/PROMESSAS.png" group-title="CANAIS | RELIGIOSOS",CANAL PROMESSAS
-https://video01.kshost.com.br/gente8322/gente8322/chunklist_w1016045675.m3u8
+
 #EXTINF:-1 tvg-id=" CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-rural-logo.png" group-title="CANAIS | SINAL ABERTO",CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/chunklist_w32515918_b1685000_sleng.m3u8
 #EXTINF:-1 tvg-id="CANAL COMUNITÁRIO" tvg-name="CANAL COMUNITÁRIO" tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="CANAIS | VARIEDADES",CANAL COMUNITÁRIO
@@ -147,16 +142,7 @@ https://1117825885.rsc.cdn77.org/1117825885/tracks-v2a1/mono.m3u8
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1SFC75J.png" group-title="VTV",QPVN
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/kHZtzZw.png" group-title="VTV",ANTV
-https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg" group-title="HTV",HTV1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg" group-title="HTV",HTV2 HD
-https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png" group-title="HTV",HTVC Phim
-https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/618172-htvplus.png" group-title="HPlus",HTVC Plus FHD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/591875-VTC1HD.png" group-title="HPlus",VTC1 HD
@@ -327,8 +313,6 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xDaUhJH.jpg",XALAZI TV
-http://176.9.123.140:1935/XALAZI/XALAZI/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/iL2o7Og.png",TV DIPSO 
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nxoHQqz.png",EKKLHSIA TV HD
@@ -1757,3 +1741,58 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 ,California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://imgur.com/peBLNdh.png" group-title="TV AO VIVO" pltv-subgroup="HD", ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://alltv.com.br/wp-content/uploads/2018/04/logo.png"  group-title="TV AO VIVO" pltv-subgroup="HD", ALLTV
+https://cdn.jmvstream.com/w/AVJ-9086/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/efcb8e80e7fb0b65bdcd3bcba64595e5.jpg" group-title="TV AO VIVO" pltv-subgroup="HD", CANAL ITV (Filmes e Series)
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1051564014.m3u8
+#EXTINF:-1 tvg-logo="https://alltv.com.br/wp-content/uploads/2018/04/logo.png"  group-title="TV AO VIVO" pltv-subgroup="HD", ALLTV
+https://cdn.jmvstream.com/w/AVJ-9086/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://www.m3u.cl/logo/560_Band.png" group-title="TV AO VIVO" pltv-subgroup="HD", BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yg60ANb.png" group-title="TV AO VIVO" pltv-subgroup="HD", CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logotipo_de_Canal_24_Horas_%282011-2015%29.png" group-title="TV AO VIVO" pltv-subgroup="HD", CANAL 24 HORAS
+https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horastv/chunklist_w252987856.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-BGcqPmZ5tmg/W1Cxhx5eXII/AAAAAAAAw-A/aXHbP4RzcsA5ZhQ8760_4GYPdXjTdsxjQCLcBGAs/s1600/CLASSIQUE+TV.fw.png" group-title="TV AO VIVO" pltv-subgroup="HD", CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0JM9jLh.jpg" group-title="TV AO VIVO" pltv-subgroup="HD", GOSPEL TV 
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/794547774683545600/U9r_aaNn.jpg" group-title="TV AO VIVO" pltv-subgroup="HD",INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+#EXTINF:0 group-title="TV AO VIVO" pltv-subgroup="HD", ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7ObVfW.png" group-title="TV AO VIVO" pltv-subgroup="HD", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Logo_tvcamara_.png" group-title="TV AO VIVO" pltv-subgroup="HD", TV CÂMARA SP
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV AO VIVO" pltv-subgroup="HD",TV CULTURA PR
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" tvg-shift="0" group-title="TV AO VIVO" pltv-subgroup="HD", TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnggdckbMrQCldeMLoijAkaw8D43ts5UCVKiDgszAg=s900-c-k-c0x00ffffff-no-rj" group-title="TV AO VIVO", PORTAL NEWS WEB TV
+http://stmv3.euroti.com.br:1935/portalnews/portalnews/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="TV AO VIVO" pltv-subgroup="HD",RECORD NEWS (TV Guará)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV AO VIVO" pltv-subgroup="HD", REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-xgXJcXd-KxQ/VdffFDeu-CI/AAAAAAAACbE/8LGjUA5YaUE/w1200-h630-p-k-no-nu/redebrasillogo.jpg" group-title="TV AO VIVO" pltv-subgroup="HD", REDE BRASIL DE COMUNICAÇÃO
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+#EXTINF:0 tvg-logo="https://static-media.streema.com/media/cache/da/29/da290ab0581f1e37a8de50467e2178dc.jpg" group-title="TV AO VIVO" pltv-subgroup="HD", REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+#EXTINF:0 tvg-logo="https://www.tvmaoamiga.com.br/wp-content/uploads/sites/39/2020/05/facebook.jpg" group-title="TV AO VIVO" pltv-subgroup="HD", REDE MÃO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Variedades"group-title="TV AO VIVO" pltv-subgroup="HD", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV AO VIVO" pltv-subgroup="HD", SBT PE 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/570684b39f1b4362b87aeb98fccfa3b6.png	" group-title="TV AO VIVO" pltv-subgroup="HD", SEXY KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="TV AO VIVO" pltv-subgroup="HD",TELEMAX (Internacional)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UeHnFnY.png"  group-title="TV AO VIVO" pltv-subgroup="HD",, TV ATIVIDADE
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w754268357.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/otduvOn.png"  group-title="TV AO VIVO" pltv-subgroup="HD", TV REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
