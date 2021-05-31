@@ -1,2 +1,182 @@
 #EXTM3U
 
+#EXTM3U
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png" group-title="INFANTIL", TV MANCHETE 
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1807326387.m3u8
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg"group-title="INFANTIL", C29 SÉRIES
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1705369695.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", ESPN SD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", ESPN 2 SD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", ESPN BRASIL SD
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w714679706.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", RETRO CARTOON 2
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/chunklist_w408303418.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w711000790.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS/SERIADOS 1
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w117310943.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS/SERIADOS 2
+https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w210408012.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS/SERIADOS 4
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1716541781.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", GOSPEL CARTOON
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1723916290.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="ESPORTES", ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://th.bing.com/th/id/OIP.Pf1Yi-BcSqLX7oSM7DovtgHaBZ?pid=ImgDet&rs=1" , ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" , ESPN BRASIL HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" , ESPN EXTRA HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 3
+https://slvcs87g3x.akamaized.net/live/canal_03/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 6
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 7
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVbMyHi.png" group-title="INFANTIL", Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-title="INFANTIL", Disney JR
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL", Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="http://168.205.87.198/logocanais/boomerang.png" group-title="INFANTIL", BOOMERANG
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/22.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="http://168.205.87.198/logocanais/cartoonnetwork.png" group-title="INFANTIL", CARTOON NETWORK
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/26.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="http://168.205.87.198/logocanais/comedycentral.png" group-title="VARIEDADES", COMEDY CENTRAL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/29.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCI" tvg-logo="http://168.205.87.198/logocanais/discoverysci.png" group-title="VARIEDADES", DISCOVERY SCI
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER" tvg-logo="http://168.205.87.198/logocanais/discoverytheater.png" group-title="VARIEDADES", DISCOVERY THEATER
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/39.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO" tvg-logo="http://168.205.87.198/logocanais/discoveryturbo.png" group-title="VARIEDADES", DISCOVERY TURBO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/41.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD" tvg-logo="http://168.205.87.198/logocanais/discoveryworld.png" group-title="VARIEDADES", DISCOVERY WORLD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/42.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="STAR LIFE" tvg-logo="http://168.205.87.198/logocanais/foxlife.png" group-title="VARIEDADES", STAR LIFE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/64.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="http://168.205.87.198/logocanais/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/66.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="http://168.205.87.198/logocanais/foxsports.png" group-title="ESPORTES", FOX SPORTS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="STAR CHANNEL" tvg-logo="http://168.205.87.198/logocanais/foxchannel.png" group-title="VARIEDADES", STAR CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/63.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MAP KIDS" tvg-logo="" group-title="INFANTIL", MAP KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/143.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="http://168.205.87.198/logocanais/mtv.png" group-title="VARIEDADES", MTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/76.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE" tvg-logo="http://168.205.87.198/logocanais/vh1megahits.png" group-title="VARIEDADES", MTV LIVE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/140.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://168.205.87.198/logocanais/nick.png" group-title="INFANTIL", NICKELODEON
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="http://168.205.87.198/logocanais/space.png" group-title="VARIEDADES", SPACE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SÉRIES" tvg-logo="http://168.205.87.198/logocanais/tntseries.png" group-title="VARIEDADES", TNT SÉRIES
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://168.205.87.198/logocanais/tnt.png" group-title="VARIEDADES", TNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL SD
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/uNjcrBt.png" group-title="Temporário",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/uNjcrBt.png" group-title="Temporário",ESPN SD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://imgur.com/uBJ8T0B.png" group-title="Temporário",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://imgur.com/uBJ8T0B.png" group-title="Temporário",ESPN 2 SD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra SD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="Temporário",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="ABERTOS", SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV JANGADEIRO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w594571588_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", YES Kids
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w733144608.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 2
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w416111348.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1861189656.m3u8
+
