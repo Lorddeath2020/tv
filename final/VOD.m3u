@@ -243,3 +243,9 @@ http://pixconection.xyz/host02.php?b=feral/dub/456740.mp4
 #EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SONIC: O FILME (2020)
 http://pixconection.xyz/host02.php?b=feral/dub/454626.mp4
 
+#EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SONIC: O FILME (2020)
+http://127.0.0.1:8088/play/9579869991C0F1461C204D217389775D891F4980-0.mkv
+
+#EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SOUL (2020)
+http://127.0.0.1:8088/play/9162B9D27C4B7104A27A9D7DD5D7F1D85C479178-3.mkv
+
