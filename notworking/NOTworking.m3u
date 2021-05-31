@@ -697,3 +697,49 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w369174169.m3u8
 #EXTINF:-1 tvg-id="CANAL PROMESSAS" tvg-name="CANAL PROMESSAS" tvg-logo="https://uploaddeimagens.com.br/images/002/080/431/full/PROMESSAS.png" group-title="CANAIS | RELIGIOSOS",CANAL PROMESSAS
 https://video01.kshost.com.br/gente8322/gente8322/chunklist_w1016045675.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1SFC75J.png" group-title="VTV",QPVN
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kHZtzZw.png" group-title="VTV",ANTV
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg" group-title="HTV",HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg" group-title="HTV",HTV2 HD
+https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png" group-title="HTV",HTVC Phim
+https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xDaUhJH.jpg",XALAZI TV
+http://176.9.123.140:1935/XALAZI/XALAZI/playlist.m3u8
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-DApr_TZTtqM/Xvi5SHxkMjI/AAAAAAAABgA/qUXXzTVORBU8Rtma7aBW3ubgJAWQYDMugCK4BGAYYCw/s150/download%2B-%2BCopia%2B%25282%2529%2B%25281%2529.png" group-title="INFANTIL",TV SV
+https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w2010218111.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png"group-title="ESPORTES", TV ARAGUAIA
+http://video01.kshost.com.br/mayra5349/mayra5349/chunklist_w1133612780.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", FOX SPORTS HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", SPORTV SD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", PREMIERE SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS/SERIADOS 3
+https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/chunklist_w614910846.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 1
+https://slvcs87g3x.akamaized.net/live/canal_01/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 2
+https://slvcs87g3x.akamaized.net/live/canal_02/playlist.m3u8
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES", SPORTV 1 HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES", PREMIERE 1 HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", TNT HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", TNT SD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_1000/index.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV DIÁRIO
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYnB4yszR_gQ7Im34i2lbYo)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES" pltv-subgroup="TV ABERTA", TLC
+https://streaming.cometa.link/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=qzqtJcfnW9l_MsXhjhTQSA&3U1G7qaTxrPbalZnEx=1621672227
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 4
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/media_w1914138137_b1000000_1018.ts
