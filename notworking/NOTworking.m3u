@@ -928,4 +928,8 @@ http://chostv.mobie.in/files/iptv/antv.m3u8
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="Lokal",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="Lokal", Bali TV 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/channel4u.png" group-title="Lokal",Channel 4U 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
 
