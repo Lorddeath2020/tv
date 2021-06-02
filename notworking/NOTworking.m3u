@@ -843,3 +843,89 @@ http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",CJC
 http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/babytv-22214-1.jpg" group-title="Kids",Baby TV
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86527
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Kids",Boomerang 
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86202
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang Asia
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86203
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Kids",Cartoonito 
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86205
+#EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86208
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Kids",Disney Channel 
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86197
+#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Kids",Disney Junior
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior 
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86200
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior ID
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD 
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86198
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",DreamWorks
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",DreamWorks HD
+
+#EXTINF:-1 tvg-logo=" " group-title="Kids",Halow Kids HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/139
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7052_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids",Kids Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/12/kinder-vector-logo.png" group-title="Kids",Kinder TV
+http://autopilot.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Kids",Nickelodeon
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86211
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Kids",Nick Jr.
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86212
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Kids",NickToons 
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86214
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="Kids",PBS Kids
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/85894
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/pop.jpg" group-title="Kids",Pop UK
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86121
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popplus1.jpg" group-title="Kids",Pop +1 UK
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popmax.jpg" group-title="Kids",Pop Max UK
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86217
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/popmaxuk.jpg" group-title="Kids",Pop Max +1 UK
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skycinemaanimationuk.jpg" group-title="Kids",Sky Cinema Animation 
+http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/671336
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starzkidsfamilyus.jpg" group-title="Kids",Starz Kids & Family 
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/5697
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teletoonca.jpg" group-title="Kids",TéléToon FR 
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/436981
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tinypop.jpg" group-title="Kids",Tiny Pop UK
+http://mytv.fun:8080/ktim3nd2ea/dhai3l1imq/9523
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Kids",Universal Kids 
+
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/558de60c9b13b235776c7e532c7cb3d6.jpg" group-title="Kids",Universal Kids
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/43657
+#EXTINF:-1 tvg-logo="https://www.ytv.com/wp-content/themes/ytv-child/assets/images/thumbnail-generic.jpg" group-title="Kids", YTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo 
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antara.png" group-title="Lokal",Antara TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Lokal", ANTV
+http://chostv.mobie.in/files/iptv/antv.m3u8
+#EXTINF:-1 tvg-id="ksa.arirang" tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="Lokal",ARIRANG 2 
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="Lokal",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+
