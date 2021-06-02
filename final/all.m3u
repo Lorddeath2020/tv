@@ -4060,4 +4060,46 @@ http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1QW4qr4/BADAR-TV.png" group-title="Lokal",BADAR TV
 https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AhAy58i.png" group-title="Lokal",BAYU TV [nganjuk]
+http://wms.klikhost.com/bayutv/live/playlist.m3u8#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsZqn1vy/BALIKPAPAN.png" group-title="Lokal",BALIKPAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brXVYQB9/BATAM-TV.png" group-title="Lokal",BATAM TV
+http://122.248.43.138:1935/ch5/myStream/chunklist_w1975645815.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="Lokal",BERITA SATU 
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Prvhq4zj/C-BANTEN-TV.png" group-title="Lokal",Cahaya Banten TV
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="Lokal", CNA 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="Lokal",CNBC INDONESIA 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Lokal",CNN INDONESIA 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal",DAAI TV 
+http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/denslearning.png" group-title="Lokal",DENS Learning Knowlegde 
+http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/elshinta.png" group-title="Lokal",Elshinta TV 
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zv4sPCRB/INSPIRA-TV.png" group-title="Lokal",Inspira TV
+https://v2.siar.us/inspiratv/live/chunks.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png" group-title="Lokal",JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/DySfXFhR/JAWAPOS-TV.png" group-title="Lokal",JawaPos TV
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/sDbjP8Dx/JEK-TV.png" group-title="Lokal",JekTv Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="Lokal", JITV 
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", JTV 
+http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal",KOMPAS TV 
+http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",Magna TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal",METRO TV 
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", MNCTV 
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
 
