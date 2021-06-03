@@ -4489,3 +4489,223 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 #EXTINF:-1, DEPORTES EURO
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
+#EXTINF:-1, RMC SPORT 2
+https://22live00.akamaized.net/RMC_Sports_2/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+#EXTINF:-1,EUROSPORT ESPAÑOL
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+
+#EXTINF:-1,EUROSPORT ESPAÑOL
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+#EXTINF:-1,THETHAO-HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1, TNT SPORTS BRASIL 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1, TNT SPORTS BRASIL 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1, VAMOS
+http://212.224.98.211:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, VAMOS
+http://212.224.98.211:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_og6o7Dzc7rw253S0lwnIwA%3D%3D%2C1622223884.0098650413
+#EXTINF:-1, Champions TV 1 
+https://livestreaming-google-etslive.vidio.com/live/6685/master.m3u8 
+
+#EXTINF:-1, Champions TV 2
+https://livestreaming-google-etslive.vidio.com/live/6686/master.m3u8 
+
+#EXTINF:-1, Champions TV 2 HD
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+
+#EXTINF:-1, Champions TV 3
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+#EXTINF:-1, NOVA SPORTS 1
+https://nova-live.ssl.cdn.cra.cz/channels/nova-sport1/playlist/cze/live_hq.m3u8
+#EXTINF:-1, BAHRAIN SPORTS
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1, DUBAI SPORTS
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, SPORTS CHANNEL NETWORK
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1, UFC ( Mynetqu.id )
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 , UFC  ( Mynetqu.id )
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1, SHARJJAH SPORT
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1, KBP SPORT
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1, TENNIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1, TENNIS CHANNEL PLUS
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1, TENNIS CHANNEL PLUS
+https://playoutengine.sinclairstoryline.com:443/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:-1, TENNIS COURT 4
+https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd.m3u8
+#EXTINF:-1, TENNIS COURT 5
+https://playoutengine.sinclairstoryline.com:443/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
+
+#EXTINF:-1, TENNIS COURT 6
+https://playoutengine.sinclairstoryline.com:443/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
+
+#EXTINF:-1, TENNIS COURT 7
+https://playoutengine.sinclairstoryline.com:443/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8
+
+#EXTINF:-1, TENNIS COURT 8
+https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8
+
+#EXTINF:-1, TENNIS COURT 9
+https://playoutengine.sinclairstoryline.com:443/playout/202886a0-38bf-4470-9043-6f7e3750a5cf/g.m3u8
+
+#EXTINF:-1, TENNIS COURT 10
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+
+#EXTINF:-1, TENNIS COURT 12
+https://playoutengine.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
+#EXTINF:-1, ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1, OMAN SPORT
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1, KTB SPORTS
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-1,DUBAI SPORTS 3 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+#EXTINF:-1,AD SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1,AD SPORTS 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+#EXTINF:-1,CITY TV1
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1, FOX SPORT AUSTRALIA
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1, FootballHub
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1, Sport 1+1 HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1, EPT SPORTS HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+
+#EXTINF:-1, RTV SPORT
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
+#EXTINF:-1, MMA TV 
+https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, BEK SPORTS
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1, NESN HD
+https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
+
+#EXTINF:-1, CBSSN HD
+https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2.m3u8
+
+#EXTINF:-1, LAX SPORTS
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1, SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+
+#EXTINF:-1, SPORT EN FRANCE
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, ATG1
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1, CUATRO
+http://91.126.141.13:1935/live/51/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="News", CNN Indonesia 
+https://cdn4.mbahnunungonline.net/m3u8/d12f0b99ed1f071.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia 
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NTIQcW0.png?v=1.0.0.1" group-title="News", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="News", IDX 
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="News", iNews 
+https://cdn4.mbahnunungonline.net/m3u8/2f760b7cf8286be.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZQvCs6.png?v=1.0.0.1" group-title="News", DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BydlaOh.png?v=1.0.0.1" group-title="News", ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.0.0.1" group-title="News", Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwijqtC.png?v=1.0.0.1" group-title="News", NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.0.0.1" group-title="News", Aljazeera Arabic 
+https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJA/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya 
+http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xSCGVhz.png?v=1.0.0.1" group-title="News", ALManarTV 
+https://manar.live/iptv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NASIONAL" logo="http://www.tvonlineindonesia.net/images/logo/rcti.jpg" aspect-ratio="16:9", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NASIONAL" logo="http://www.tvonlineindonesia.net/images/logo/mnctv.jpg" aspect-ratio="16:9", MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:0 type="stream" channelId="1426" group="NASIONAL" logo="https://3.bp.blogspot.com/-bRXf4vADnKc/Wehn1r8zerI/AAAAAAAABVk/BHOx5QRnkh8IysZwgeL8dk-4heI_IZNCQCLcBGAs/s1600/Template%2BImage%2BGTV.jpg" aspect-ratio="16:9", GLOBAL TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NASIONAL" logo="http://www.tvonlineindonesia.net/images/logo/inewstv.jpg" aspect-ratio="16:9", iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NASIONAL" logo="http://dens.tv/images/channel-logo/80.jpg" aspect-ratio="16:9", Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
+#EXTINF:0 type="stream" channelId="-1" group="NASIONAL" logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" aspect-ratio="16:9", Maleo
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1333" group="PREMIUM" logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" aspect-ratio="16:9", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://pbs.twimg.com/profile_images/941948310394347520/75LaLDpD.jpg" aspect-ratio="16:9", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://cdn.gelestatic.it/m2o/sites/2/2019/04/palinsesto-640x334.jpg" aspect-ratio="16:9", Radio M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ar-music-top.jpg" aspect-ratio="16:9", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" aspect-ratio="16:9", Muzzik Original
+https://muzzik-live.morescreens.com/mts-6/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" aspect-ratio="16:9", Muzzik Rock
+http://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" aspect-ratio="16:9", Muzzik Club
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" aspect-ratio="16:9", Muzzik World
+https://muzzik-live.morescreens.com/mts-5/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" aspect-ratio="16:9", Muzzik Mediteraneo
+https://muzzik-live.morescreens.com/mts-6/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" aspect-ratio="16:9", Muzzik OKK
+https://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" aspect-ratio="16:9", Fashion TV Original
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PREMIUM" logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" aspect-ratio="16:9", FTV Midnight
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b4700000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOCUMENTARY" logo="https://naibuzz.com/wp-content/uploads/2016/12/fail-army-logo.jpg" aspect-ratio="16:9", FailsArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOCUMENTARY" logo="https://image.roku.com/developer_channels/prod/145aacbb6e935ec51d583fee10bc6ccb5679a3afcb2038752adfac3c32c4e1ac.png" aspect-ratio="16:9", People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="PREMIUM" logo="https://seeklogo.com/images/P/paramount-channel-latin-america-logo-180D249ED9-seeklogo.com.png" aspect-ratio="16:9", Paramount Channel
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://mncvision.id/userfiles/image/channel/cnn_new.jpg" aspect-ratio="16:9", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://mncvision.id/userfiles/image/channel/cnbc.png" aspect-ratio="16:9", CNBC News
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+
