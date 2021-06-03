@@ -4400,3 +4400,92 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Sports",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1, RMC SPORT 1
+https://22live00.akamaized.net/RMC_Sports_1/index.m3u8
+#EXTINF:-1, MOVISTAR DEPORTES
+http://212.224.98.204:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_8EZnzwaUl4GQNL0rGODOHw==,1621585279.5409016371
+#EXTINF:-1, MOVISTAR DEPORTES II
+http://185.180.15.16:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=null
+#EXTINF:-1, DAZN
+http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=🇪🇦
+#EXTINF:-1, DAZN 4
+http://212.224.98.209:2200/NL/dazn4hd-esp/tracks-v1a1/mono.m3u8?token=RED_peA0ETq0egLjnKQ4ls7mZg%3D%3D%2C1622228710.6940369350
+
+#EXTINF:-1, DAZN
+http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=RED_vLBBLbt60zMRVtx4ywGAMQ==,1622194099.2069343128?thejoelc
+
+#EXTINF:-1, DAZN 1
+http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
+
+#EXTINF:-1, DAZN 2
+http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
+#EXTINF:-1, BEIN PREMIUM 1
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1, BEIN PREMIUM 2
+http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
+#EXTINF:-1 ,BEIN AR 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1, BEIN AR 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1, BEIN AR 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1, BEIN AR 6
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1, BEIN AR 7
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1,BEIN SPORT EXTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1,BEIN SPORTS EXTRA HD
+https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
+#EXTINF:-1, QAZ SPORT HD
+http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
+#EXTINF:-1, QAZ SPORT 
+http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
+#EXTINF:-1,QAZSPORT 
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1, QAZsport
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1,ESPN FUTBOL
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN/hls/index.m3u8
+#EXTINF:-1,ESPN NBA 2
+http://164.68.124.111/espn2.m3u8?token=null
+#EXTINF:-1,ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1,ESPN NCAF
+https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1,SUPER SPORTS 3
+http://51.89.195.111:8880/ss3/playlist.m3u8
+#EXTINF:-1, ELEVEN SPORT 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TEN SPORT
+http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRT 3 SPORT
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,EPT SPORTS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1,EPT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+
+#EXTINF:-1,EPT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+
+#EXTINF:-1,EPT SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+
+#EXTINF:-1,EPT SPORTS 5
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:-1,FOX SPORTS VIVO
+http://212.224.98.206:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=RED_1-jcnMySirZA5OeXJYd2AA%3D%3D%2C1622070983.4667790476
+#EXTINF:-1,FOX 2 SPORTS
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+#EXTINF:-1, CANAL PLUS HD
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, DEPORTES EURO
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
