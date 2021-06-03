@@ -1323,3 +1323,163 @@ http://rr2.dens.tv/s/s03/index2.m3u8
 http://rr2.dens.tv/s/s101/01.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NtUkfl5.png?v=1.1.1.1" group-title="Backup", Trans TV [dens]
 http://rr3.dens.tv/s/s252/01.m3u8
+
+___________#EXTINF:-1 group-title="中央频道",CCTV1
+http://39.135.138.60:18890/PLTV/88888910/224/3221225630/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV2
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV3
+http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV4
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV4美洲
+http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV4欧洲
+http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV5+
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV6
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV7
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV9
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV10
+http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV11
+http://39.135.138.60:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV12
+http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV13
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV14
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV15
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="中央频道",CCTV17
+http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8
+
+
+
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cqws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jxwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ynws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/scws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",四川康巴卫视
+http://39.134.198.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/kamba-tv/index.m3u8?IAS
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",南方卫视（上星版）
+http://39.135.32.29:6610/000000001000/1000000002000011619/1.m3u8?
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/szwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xmws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",海峡卫视
+http://stream6.fjtv.net/haixia/playlist.m3u8?_upt=2b3b2d5c1620839007
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jlws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gxws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shanxiws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/nmgws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://39.135.32.29:6610/000000001000/1000000002000031451/1.m3u8?
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://39.135.32.29:6610/000000001000/6603041244077933770/1.m3u8?
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xjws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gsws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lyws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gzws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://stream3.hnntv.cn/ssws/playlist.m3u8?_upt=bc20b1e41620822994
+#EXTINF:-1 group-title="卫视频道",西藏藏语卫视
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+
+
+
+#EXTINF:-1 group-title="港澳台频道",TVBS新闻
+https://flv3948069e.live.126.net:443/live/528a766b5e47331893ef6eb7f7594ecc.flv
+#EXTINF:-1 group-title="港澳台频道",TVBS HD
+https://flv3948069e.live.126.net:443/live/4263d1457e52c71a61138ae09e78ec6b.flv
+#EXTINF:-1 group-title="港澳台频道",东森新闻
+https://flv3948069e.live.126.net:443/live/9bbc6b735303dec3637da30f1b88e998.flv
+#EXTINF:-1 group-title="港澳台频道",三立新闻
+https://flv3948069e.live.126.net:443/live/ebac2313a785cfbec903a9cd9cbd97f2.flv
+#EXTINF:-1 group-title="港澳台频道",壹新闻
+https://flv3948069e.live.126.net:443/live/082b2705cdf6ab08885b607b1e7160c6.flv
+
+
+
+#EXTINF:-1 group-title="港澳台频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰资讯
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰香港
+http://183.207.249.15/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",翡翠台
+http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="港澳台频道",明珠台
+http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="港澳台频道",耀华财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",三立新闻
+https://flv3948069e.live.126.net:443/live/aba2637ec38bedcb16164083073308f5.flv
+#EXTINF:-1 group-title="港澳台频道",壹新闻
+https://flv3948069e.live.126.net:443/live/d9b198b20714565c1a1b26076e274500.flv
+#EXTINF:-1 group-title="港澳台频道",TVBS新闻
+https://flv3948069e.live.126.net:443/live/da24311651a1e6e2a29f7425df4eefa6.flv
+#EXTINF:-1 group-title="港澳台频道",东森新闻
+https://flv3948069e.live.126.net:443/live/4cf1db11438f0a3497ab19c728435294.flv
+
+___________
