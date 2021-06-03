@@ -5,8 +5,7 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" tvg-url="" group-title="Sports",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="QA" tvg-language="English" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-url="" group-title="Sports",beIN SPORTS XTRA (720p)
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" tvg-url="" group-title="Sports",Best Cable Sports
@@ -15,8 +14,6 @@ https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RZE3Pwf.png" tvg-url="" group-title="Sports",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-url="" group-title="Sports",Edge Sports (1080p)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sports",ESPN (872p)
 https://cdn008.teleuptv.net/aG0SpRUVhW/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sports",ESPN 2 (872p)
