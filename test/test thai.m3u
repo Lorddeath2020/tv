@@ -2,33 +2,10 @@
 
 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg",CH5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073941.jpg",MCOT
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg",NBT
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg",NBT
-http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
-
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074157.jpg",Thai PBS(FHD)
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074157.jpg",Thai PBS
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
-
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074238.jpg",Thairath
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074238.jpg",Thairath
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
-http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
 https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
