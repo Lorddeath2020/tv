@@ -1,86 +1,82 @@
 #EXTM3U 
 
-#EXTINF:-1 tv-logo"https://marcas-logos.net/wp-content/uploads/2020/03/ESPN-LOGO.png" group-title="ESPORTES",ESPN op1HD
+#EXTINF:-1, tv-logo"https://marcas-logos.net/wp-content/uploads/2020/03/ESPN-LOGO.png" group-title="ESPORTES", ESPN op1HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tv-logo"https://marcas-logos.net/wp-content/uploads/2020/03/ESPN-LOGO.png" group-title="ESPORTES",ESPN op2HD
+#EXTINF:-1, tv-logo"https://marcas-logos.net/wp-content/uploads/2020/03/ESPN-LOGO.png" group-title="ESPORTES", ESPN op2HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tv-logo"https://rd1.com.br/wp-content/uploads/2014/10/esp-1200x720.jpg" group-title="ESPORTES",ESPN BRASIL op1HD
+#EXTINF:-1, tv-logo"https://rd1.com.br/wp-content/uploads/2014/10/esp-1200x720.jpg" group-title="ESPORTES", ESPN BRASIL op1HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tv-logo"https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALogo_espnbrasil.png&psig=AOvVaw0w3QhX51qT1qpZV3RfnMq-&ust=1620030624177000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjt9cbKqvACFQAAAAAdAAAAABAD" group-title="ESPORTES",ESPN BRASIL op2HD
+#EXTINF:-1, tv-logo"https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALogo_espnbrasil.png&psig=AOvVaw0w3QhX51qT1qpZV3RfnMq-&ust=1620030624177000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjt9cbKqvACFQAAAAAdAAAAABAD" group-title="ESPORTES", ESPN BRASIL op2HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tv-logo"https://rd1.com.br/wp-content/uploads/2014/10/esp-1200x720.jpg" group-title="ESPORTES",ESPN BRASIL op3HD
+#EXTINF:-1, tv-logo"https://rd1.com.br/wp-content/uploads/2014/10/esp-1200x720.jpg" group-title="ESPORTES", ESPN BRASIL op3HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tv-logo"https://futbolparatodos.net/wp-content/uploads/2020/12/ESPN2.png" group-title="ESPORTES",ESPN2 op1HD
+#EXTINF:-1, tv-logo"https://futbolparatodos.net/wp-content/uploads/2020/12/ESPN2.png" group-title="ESPORTES", ESPN2 op1HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tv-logo"https://futbolparatodos.net/wp-content/uploads/2020/12/ESPN2.png" group-title="ESPORTES",ESPN2 op2HD
+#EXTINF:-1, tv-logo"https://futbolparatodos.net/wp-content/uploads/2020/12/ESPN2.png" group-title="ESPORTES", ESPN2 op2HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tv-logo"https://futbolparatodos.net/wp-content/uploads/2020/12/ESPN2.png" group-title="ESPORTES",ESPN2 op3HD
+#EXTINF:-1, tv-logo"https://futbolparatodos.net/wp-content/uploads/2020/12/ESPN2.png" group-title="ESPORTES", ESPN2 op3HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tv-logo"https://artwork.espncdn.com/networks/65da1d56-3ffd-44d2-aacd-423b64437fb1/16x9/1280x720_20201212220237.jpg" group-title="ESPORTES",ESPN EXTRA op1HD
+#EXTINF:-1, tv-logo"https://artwork.espncdn.com/networks/65da1d56-3ffd-44d2-aacd-423b64437fb1/16x9/1280x720_20201212220237.jpg" group-title="ESPORTES", ESPN EXTRA op1HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES",FOX SPORTS op1HD
+#EXTINF:-1, tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES", FOX SPORTS op1HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES",FOX SPORTS op2HD
+#EXTINF:-1, tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES", FOX SPORTS op2HD
 https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1619943002&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=6e5e2a7cf76dd444fd41635f536c0ba8639e1205b862badde98f58f726ebe8bd&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=1db5ced24d141db7a937b8464e9fd553c231197edd1bae4681af242acc84ba8c&pbs=3559593f024e4982b76bb935354f3950
 
-#EXTINF:-1 tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES",FOX SPORTS op3HD
+#EXTINF:-1, tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES", FOX SPORTS op3HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES",FOX SPORTS op4HD
+#EXTINF:-1, tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES", FOX SPORTS op4HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES",FOX SPORTS op5HD
+#EXTINF:-1, tv-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ESPORTES", FOX SPORTS op5HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://2.bp.blogspot.com/-SnhQUQgqDrM/WQFZIlAbpMI/AAAAAAAA4DU/yrTvkmdaiiE2ZcrJSbgHivFB6_tntuXGACLcB/s1600/6f0becb8b016872551edaad347cc.png" group-title="ESPORTES",COMBATE op1HD
+#EXTINF:-1, tv-logo"https://2.bp.blogspot.com/-SnhQUQgqDrM/WQFZIlAbpMI/AAAAAAAA4DU/yrTvkmdaiiE2ZcrJSbgHivFB6_tntuXGACLcB/s1600/6f0becb8b016872551edaad347cc.png" group-title="ESPORTES",COMBATE op1HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/combatesd/video.m3u8?md5=p9bzYxPdVcy0I4UCkX8aQA&expires=1619981468...
 
-#EXTINF:-1 tv-logo"https://2.bp.blogspot.com/-SnhQUQgqDrM/WQFZIlAbpMI/AAAAAAAA4DU/yrTvkmdaiiE2ZcrJSbgHivFB6_tntuXGACLcB/s1600/6f0becb8b016872551edaad347cc.png" group-title="ESPORTES",COMBATE op2HD
+#EXTINF:-1, tv-logo"https://2.bp.blogspot.com/-SnhQUQgqDrM/WQFZIlAbpMI/AAAAAAAA4DU/yrTvkmdaiiE2ZcrJSbgHivFB6_tntuXGACLcB/s1600/6f0becb8b016872551edaad347cc.png" group-title="ESPORTES", COMBATE op2HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/combatehd/video.m3u8?md5=hitJ91XBmlpop_QUeHRzXA&expires=1619979920
 
-#EXTINF:-1 tv-logo"https://i.pinimg.com/originals/d7/24/c1/d724c1f7c5578628847985802d6e120d.jpg" group-title="ESPORTES",FOX SPORTS02 op1HD
+#EXTINF:-1, tv-logo"https://i.pinimg.com/originals/d7/24/c1/d724c1f7c5578628847985802d6e120d.jpg" group-title="ESPORTES", FOX SPORTS02 op1HD
 https://cutt.ly/ibvJ3dn
 
-#EXTINF:-1 tv-logo"https://i.pinimg.com/originals/d7/24/c1/d724c1f7c5578628847985802d6e120d.jpg" group-title="ESPORTES",FOX SPORTS 02 op2HD
+#EXTINF:-1, tv-logo"https://i.pinimg.com/originals/d7/24/c1/d724c1f7c5578628847985802d6e120d.jpg" group-title="ESPORTES", FOX SPORTS 02 op2HD
 https://content-asae1-up-1.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/d.m3u8?exp=1619889738&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&iph=cbde2bc7669ef44e31a47a338e95b7844bdf09db4a8d4ba0bb134a2d53be919a&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=683da3ca5b75431a6cd66cffdb05becc088a2f458262d5eb32e06848fbe3bfdf&pbs=4ba356f05abb47739c91dd53a403225c
 
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/originals/d7/24/c1/d724c1f7c5578628847985802d6e120d.jpg" group-title="ESPORTES",FOX SPORTS 02 op3HD
+#EXTINF:-1, tvg-logo"https://i.pinimg.com/originals/d7/24/c1/d724c1f7c5578628847985802d6e120d.jpg" group-title="ESPORTES", FOX SPORTS 02 op3HD
 https://content-asae1-up-1.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/d.m3u8?exp=1619889161&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&iph=8c85f7e5b135e229c5904e556ed2cad8ca867a302fc4ddff5064cefd4df49ece&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=09b1e292333300516be39e740dc795f452fbea05f25e6b9e641df2aeab46e2dd&pbs=1e4551ab29a844c789d49d45066ce85b
 
-#EXTINF:-1 tv-logo"https://i.pinimg.com/originals/d7/24/c1/d724c1f7c5578628847985802d6e120d.jpg" group-title="ESPORTES",FOX SPORTS 02 op4HD
+#EXTINF:-1, tv-logo"https://i.pinimg.com/originals/d7/24/c1/d724c1f7c5578628847985802d6e120d.jpg" group-title="ESPORTES", FOX SPORTS 02 op4HD
 https://content-asae1-up-1.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1619888438&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&iph=8c85f7e5b135e229c5904e556ed2cad8ca867a302fc4ddff5064cefd4df49ece&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=7926f00d9e21e0f2c1bb11d918ef5f381f985caf181cf2ffe7c88643bbc85c18&pbs=56fec242a1e84f7da5a15ebae99f30cb
 
-#EXTINF:-1 tv-logo"https://www.bestswim.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORT TV op1HD
+#EXTINF:-1, tv-logo"https://www.bestswim.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES", SPORT TV op1HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://www.bestswim.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORT TV op2HD
+#EXTINF:-1, tv-logo"https://www.bestswim.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",S PORT TV op2HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://www.bestswim.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORT TV op3HD
+#EXTINF:-1, tv-logo"https://www.bestswim.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES", SPORT TV op3HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://redecanaistv.com/imgs-videos/Canais/SporTV2.jpg" group-title="ESPORTES",SPORT TV 2 op1HD
+#EXTINF:-1, tv-logo"https://redecanaistv.com/imgs-videos/Canais/SporTV2.jpg" group-title="ESPORTES", SPORT TV 2 op1HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://redecanaistv.com/imgs-videos/Canais/SporTV2.jpg" group-title="ESPORTES",SPORT TV 2 op2HD
+#EXTINF:-1, tv-logo"https://redecanaistv.com/imgs-videos/Canais/SporTV2.jpg" group-title="ESPORTES", SPORT TV 2 op2HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_2000/index.m3u8
 
-#EXTINF:-1 tv-logo"https://redecanaistv.com/imgs-videos/Canais/SporTV2.jpg" group-title="ESPORTES",SPORT TV 2 op3HD
+#EXTINF:-1, tv-logo"https://redecanaistv.com/imgs-videos/Canais/SporTV2.jpg" group-title="ESPORTES", SPORT TV 2 op3HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 1 op1
+#EXTINF:-1, tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 1 op1
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
-
-
-
