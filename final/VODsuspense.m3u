@@ -1,10 +1,5 @@
 #EXTM3U
 
-http://192.99.18.120/SUSPENSE/
-
-#EXTINF:0, tvg-logo="
-
-
 #EXTINF:0, tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/06/31/20197342.jpg", 007_Operação_Skyfall
 http://192.99.18.120/SUSPENSE/007_Opera%c3%a7%c3%a3o_Skyfall_2012_720p_210GJI.mp4
 #EXTINF:0, tvg-logo="https://br.web.img3.acsta.net/pictures/18/10/01/22/50/4079251.jpg", A.Casa.do.Medo.Incidente.em.Ghostland
