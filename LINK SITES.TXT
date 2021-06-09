@@ -21,3 +21,14 @@ https://raw.githubusercontent.com/Lorddeath2020/tv/main/test/SERIESGRATIS.m3u
 http://195.154.80.170:7700/
 http://www.ntc.net.br/downloads/
 http://192.99.18.120/TERROR/
+http://54.39.157.211/FILMES/
+http://download.firenetwork.com.br/midias/cloud1/Filmes/
+http://download.firenetwork.com.br/midias/cloud1/
+http://54.39.157.211/SERIES/
+http://144.217.177.36:4742/Movies/
+http://144.217.177.36:4742/
+http://103.222.20.150/ftpdata/Movies/Hollywood/2020/
+http://188.165.227.112/portail/films/
+http://home.fa.ulisboa.pt/~cfig/Filmes%20em%20Estudo/
+http://93.187.200.64/
+
