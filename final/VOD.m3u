@@ -249,3 +249,8 @@ http://127.0.0.1:8088/play/9579869991C0F1461C204D217389775D891F4980-0.mkv
 #EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SOUL (2020)
 http://127.0.0.1:8088/play/9162B9D27C4B7104A27A9D7DD5D7F1D85C479178-3.mkv
 
+#EXTINF:0, tvg-logo="https://br.web.img3.acsta.net/pictures/19/12/05/16/00/0409486.jpg", Mulan
+http://www.iiss.com.br/downloads/Filmes/Mulan.2020/Mulan.2020.mkv
+
+#EXTINF:0, tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/14/02/06/17/52/506456.jpg", Uma Secretária de Futuro
+http://www.iiss.com.br/downloads/Filmes/Secretaria-Futuro/Secretaria_futuro.mp4
