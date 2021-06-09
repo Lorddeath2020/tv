@@ -31,4 +31,8 @@ http://103.222.20.150/ftpdata/Movies/Hollywood/2020/
 http://188.165.227.112/portail/films/
 http://home.fa.ulisboa.pt/~cfig/Filmes%20em%20Estudo/
 http://93.187.200.64/
+http://download.firenetwork.com.br/midias/cloud2/Series/Os.Cavaleiros.do.Zodiaco/
+http://download.firenetwork.com.br/midias/cloud2
+http://download.firenetwork.com.br/midias/
+https://azaforum.com/download/
 
