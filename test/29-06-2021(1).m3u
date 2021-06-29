@@ -1,0 +1,81 @@
+#EXTINF:-1,MTV Rocks
+http://195.88.126.168:8008/play/a09c/index.m3u8
+
+#EXTINF:-1,MTV Dance
+http://195.88.126.168:8008/play/a09a/index.m3u8
+
+#EXTINF:-1,НАШЕ ТВ
+http://195.88.126.168:8008/play/a07s/index.m3u8
+
+#EXTINF:-1,VH1 Classic
+http://195.88.126.168:8008/play/a09g/index.m3u8
+
+#EXTINF:-1,MTV Hits
+http://195.88.126.168:8008/play/a09b/index.m3u8
+
+#EXTINF:-1,BRIDGE TV
+http://195.88.126.168:8008/play/a081/index.m3u8
+
+#EXTINF:-1,MTV
+http://195.88.126.168:8008/play/a099/index.m3u8
+
+#EXTINF:-1,Channel4-Music
+https://str-1.mediabay.tv/Channel4/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,A2iMusic
+https://str-1.mediabay.tv/A2iMusic/tracks-v1a1/playlist.m3u8
+#21Luis Campos, Novembro 14, 2018
+Luis Campos
+Luis Campos
+Membro NOVATO
+Afiliado:Dezembro 13, 2016
+Mensagens:36
+Aprovações Recebidas:36
+#EXTINF:-1,LFM TV (FRANCE)
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/chunklist_w1248461747.m3u8
+
+#EXTINF:-1,Ditty TV (USA)
+https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w645916087.m3u8
+
+#EXTINF:-1,AKC TV (USA)
+https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
+
+#EXTINF:-1,REDE GLOBO sd
+http://apk2.futeboltvgratis.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1,SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1,REDE TV! HD
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1,Radio 105 FM TV (ITALY)
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1,SPORTV 1 SD
+http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
+
+#EXTINF:-1,FOX SPORTS SD
+http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8
+
+extras ##########################################################
+#EXTINF:-1,Simbad E O Olho Do Tigre ( 1977) 720p Dual
+https://archive.org/download/SimbadEOOlhoDoTigre1977BluRay720pDualudio/Simbad%20e%20o%20Olho%20do%20Tigre%20(1977)%20BluRay%20720p%20Dual%20%C3%81udio.mp4
+
+#EXTINF:-1,BENHUR (1959)
+https://archive.org/download/CineClubeGoogleDriveBenHur/Cine%20Clube%20%20Google%20Drive%20-%20Ben%20Hur.mp4
+
+#EXTINF:-1,Simbad E A Princesa 1958 Dual Audio
+https://archive.org/download/SimbadEAPrincesa1958DualAudio/Simbad%20e%20A%20Princesa%20-%201958%20-%20Dual%20Audio.mp4
+
+#EXTINF:-1,UM SONHO DE LIBERDADE (1995)
+https://archive.org/download/UMSONHODELIBERDADEDUBLADO/UM%20SONHO%20DE%20LIBERDADE%20-%20DUBLADO.mp4
+
+#EXTINF:-1,LAGRIMAS DO SOL (2003)
+https://archive.org/download/Lagrimas.do.Sol.2003.1080p.Dublado.mp4/Lagrimas.do.Sol.2003.1080p.Dublado.mp4
+
+#EXTINF:-1,O CHAMADO 3 (2017)
+https://archive.org/download/O.Chamado.3.2017.1080p.BluRay.x264.DUBLADOBLUDV/O.Chamado.3.2017.1080p.BluRay.x264.DUBLADO-BLUDV.mp4
+
+#EXTINF:-1,O CULTO (2018)
+https://archive.org/download/CineClubeGoogleDriveOCulto2018/Cine%20Clube%20Googl%3Be%20Drive%20-%20O%20Culto%202018.mp4
