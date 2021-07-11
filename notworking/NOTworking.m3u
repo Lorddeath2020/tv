@@ -2187,3 +2187,15 @@ https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ANIPLUS AISA" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="Japan",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,Ananda TV
+https://ott.bingebd.com/live/ngrp:probashibangla_all/subir.m3u8
+#EXTINF:-1,Bangla TV
+https://ott.bingebd.com/live/ngrp:bangla_tv_all/subir.m3u8
+#EXTINF:-1,SATV
+https://ott.bingebd.com/live/ngrp:sa_tv_all/subir.m3u8
+#EXTINF:-1,Mohona TV
+https://ott.bingebd.com/live/ngrp:mohona_tv_all/subir.m3u8
+https://ott.bingebd.com/live/ngrp:my_tv_all/subir.m3u8
