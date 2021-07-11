@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ANIPLUS AISA" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="Japan",ANIPLUS
-http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:0,GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 #EXTINF:0,NHK World Japan live
@@ -18,25 +16,17 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?wdiptv
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?wdiptv
 #EXTINF:-1 tvg-logo="https://www.88tv.store/wp-content/uploads/2017/06/Huat-IPTV-500x500.png" group-title="lista test" , TV CLIPES GOSPEL
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?wdiptv
-#EXTINF:-1,Ananda TV
-https://ott.bingebd.com/live/ngrp:probashibangla_all/subir.m3u8
+
 #EXTINF:-1,Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1,Bangla TV
-https://ott.bingebd.com/live/ngrp:bangla_tv_all/subir.m3u8
-#EXTINF:-1,SATV
-https://ott.bingebd.com/live/ngrp:sa_tv_all/subir.m3u8
-#EXTINF:-1,Mohona TV
-https://ott.bingebd.com/live/ngrp:mohona_tv_all/subir.m3u8
-https://ott.bingebd.com/live/ngrp:my_tv_all/subir.m3u8
+
 #EXTINF:-1,Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES 1", IP - 24.5     
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 26 - 26.1
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", NOTICIEROS CANAL 13 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
@@ -47,8 +37,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CINCO TV TIGRE - 30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCALES 1", CANAL 29 QUILMES
-http://inliveserver.com:1935/8386/8386/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES 1", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
@@ -87,8 +76,7 @@ https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png" group-title="Lifestyle",Fashion TV+
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
@@ -138,8 +126,7 @@ https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/chunklist_w325159
 https://596639ebdd89b.streamlock.net:443/8032/8032/chunklist_w901284008.m3u8
 #EXTINF:-1 tvg-id="NTD.cn" tvg-name="NTD" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",NTD
 https://1117825885.rsc.cdn77.org/1117825885/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Movies",Thrill (480p)
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
 #EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
@@ -4716,12 +4703,9 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/2RySrJl.png?v=1.0.0.1", CCTV4
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Hu6UgMo.png?v=1.0.0.1", Mola TV Free 
-https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids", Zoomoo 
-https://livestreaming-google-etslive.vidio.com/live/6533/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee 
-https://livestreaming-google-etslive.vidio.com/live/6397/master.m3u8 
+ 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
